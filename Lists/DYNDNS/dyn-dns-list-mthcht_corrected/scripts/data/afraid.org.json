@@ -229246,5 +229246,23 @@
     "domain": "eql.co.za",
     "age": "1 day ago (04/07/2026)",
     "retrievedAt": "2026-04-08T21:41:18.047Z"
+  },
+  {
+    "id": "1473668",
+    "domain": "investordata.co.za",
+    "age": "2 days ago (04/07/2026)",
+    "retrievedAt": "2026-04-09T21:44:05.833Z"
+  },
+  {
+    "id": "1473592",
+    "domain": "testme.co.za",
+    "age": "2 days ago (04/07/2026)",
+    "retrievedAt": "2026-04-09T21:45:12.774Z"
+  },
+  {
+    "id": "1473782",
+    "domain": "flextron.xyz",
+    "age": "0 days ago (04/09/2026)",
+    "retrievedAt": "2026-04-09T21:45:46.786Z"
   }
 ]
