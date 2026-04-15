@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-04-15T06:13:05+00:00",
-  "total_records": 1086,
-  "total_malicious": 1014,
+  "generated_utc": "2026-04-15T08:08:39+00:00",
+  "total_records": 1084,
+  "total_malicious": 1012,
   "total_risky": 72,
   "severity_counts": {
     "critical": 313,
-    "high": 589,
+    "high": 587,
     "low": 22,
     "medium": 162
   },
@@ -13,7 +13,7 @@
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 570,
+    "impersonation": 568,
     "impersonation-malware": 5,
     "malware": 313,
     "owner-request": 5,
@@ -40,7 +40,7 @@
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 570,
+    "impersonation": 568,
     "impersonation-malware": 5,
     "malware": 313,
     "owner-request": 5,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 815,
+  "total_publishers": 813,
   "top_publishers": [
     [
       "SlashMark",
