@@ -113,6 +113,7 @@ DoveAz.gitmojisense
 DylanRampage.prettier-optimized
 EHooley.solibity-lang
 ETHFoundry.etherfoundrys
+EXyang.cpp-project-config-ch
 EchelonStudios.blockchain-language-support
 Eddy.eddy-stellaris-cwt
 EfferSmart.code-studio-pro
@@ -156,6 +157,7 @@ GitlensPro.gitpro-ai-tools
 GitlensPro.peacock-workspace-colorizer
 Glenn-marks1990.live-sass-compiler
 GoDeveloper.go-developer-support-extension
+GustavoMaia.gruber-adapted
 HTMLLanguage.html-css-support
 Hakai.functional-purple-modified
 HanazakiShiki.emmylua-cgame
@@ -167,6 +169,7 @@ IZOT-TE-3-FINAL.static-code-parser-FINAL
 IZOT-TE-3.static-code-parser
 Iconkieftwo.icon-theme-materiall
 Ilham-ahmedow.sftp20
+Infineon-technologies-ag.modus-toolbox-for-vscode
 InnuendoPi.vscode-espfs
 InternetLK.username-poc
 IoliteLabs.solidity-linux
@@ -453,6 +456,7 @@ ZAMBAR.riscv-venus-cs110
 ZaqueuRodrigues.vscode-eclipse-keymap-complete
 Zeron1337.Zeron-CySec
 ZhangQuan.code-translate-enhanced
+Zoosewu.project-manager-zoo
 Zubair.AnimeAAhhhh-sound-error
 Zubair.aaahhhhhh-sound-error
 Zubair.cat-laugh-error
@@ -638,6 +642,7 @@ ethanielliu.audit-helper
 ethcompiler.among-eth
 ethers.ethersfoundry
 evaera-rbx.vscode-rojo-rbx
+fab1can.docker-compose-fixed
 fadizant.terminal-commands-2026
 fecet.vscode-neovim-fecet
 ferrymo.intellij-idea-new-ui-pretty-ferrymo
@@ -748,6 +753,7 @@ jishutuan.prettier-vscode
 jiyuzh.clang-format-renew
 jjackson.bazel-syntax
 joaosam.symbols-freedom
+joezhoujinjing.vscode-tmux-worktree-agent
 johanlaneau.bcompare-vscode-remote
 johnh.solibit22-lang
 johnhtml.dasfasdsadasdf
@@ -772,6 +778,7 @@ kast789.vs-2019-theme
 kazi08.mcp-audit-pii-guard
 kd100100.kd100100-cline
 keindl29.opencodegui-kei
+kevin12314.svn-scm-ai-next
 keyang.vscode-leetcode-enhanced
 kide.kide-csharp
 kindly-robotics.inferall-ai
@@ -820,6 +827,7 @@ marketplacer.marketplacer
 marpo.gruvbox-material-marpo
 marvin63597.claude-dd
 mastersam.faaaah-on-fail
+matthewbill.hue-code
 me80758262.piiithon-linter
 meetrice.mysql-blade
 meow-d.markless-meowd
@@ -1023,6 +1031,7 @@ vjoker.legend-script-editor
 vox-studio.vox-language
 vroshupkin.plantuml-png-microfork
 vs-browser-openUrl.vs-browser-openUrl
+vs-publisher-1477920.better-json5-x
 vs-publisher-1489718.SQLinFormVS20222026
 vsceue.volar-vscode
 vue2-snippets-plus-least.vue2-snippets-plus-least
