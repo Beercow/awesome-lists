@@ -170,6 +170,7 @@ LiamDrew
 LiamWang
 LinkingMountains
 LuizDoPc
+MMitsuha
 MahendrakarPrateek
 MakinCo
 Malkolm
@@ -179,6 +180,7 @@ MarioLJFerreira
 MarkH
 MarkHutchins
 MarkWood
+Marvello
 Med-H
 MediaLLC
 MichaelBanucu
@@ -190,10 +192,12 @@ Murilo
 NFoundation
 NPC1
 Naki
+NavAI-B
 NeoMain
 Nibs
 Nice8888
 Noe
+NolanWang
 NotToTest
 OPENEDAI
 OfekBickel
@@ -208,7 +212,6 @@ PCODE-pl
 PallasUI
 ParthRaninga
 ParwatKunwar
-PatrikHuber
 PeterC
 PhungXuanAnh
 Price
@@ -240,6 +243,8 @@ SVO
 Sammy
 SamuelPinto
 Sayantan710
+SenkoTheKitsune
+SeoDoktoru
 SereneStudios
 Sewara
 ShowSnowcrypto
@@ -302,6 +307,7 @@ ZhangQuan
 Zoosewu
 ab-498
 abczyx2006
+abstractalgo
 agent
 agility6
 agtest
@@ -531,6 +537,7 @@ lang2hong
 leon-qiu
 leonardomth
 levicarlsson
+lijiangang
 linlinzhao
 littensydev
 littleCareless
@@ -605,6 +612,7 @@ pvparuchuri
 pythoner
 qianzijiao
 qusic
+r0kuko
 raidenshogun
 reactsnippetsai
 redmat
@@ -679,6 +687,7 @@ ultimateBroK
 unique123
 v8tech
 val-brlt
+valentinbeaumont
 vbtheory
 verreauxblack
 vialenliyu

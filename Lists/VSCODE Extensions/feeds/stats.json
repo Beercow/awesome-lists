@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-04-27T14:29:28+00:00",
-  "total_records": 1163,
-  "total_malicious": 1091,
+  "generated_utc": "2026-04-27T16:58:28+00:00",
+  "total_records": 1173,
+  "total_malicious": 1101,
   "total_risky": 72,
   "severity_counts": {
     "critical": 320,
-    "high": 653,
+    "high": 663,
     "low": 22,
     "medium": 168
   },
@@ -13,7 +13,7 @@
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 634,
+    "impersonation": 644,
     "impersonation-malware": 5,
     "malware": 320,
     "owner-request": 6,
@@ -40,7 +40,7 @@
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 634,
+    "impersonation": 644,
     "impersonation-malware": 5,
     "malware": 320,
     "owner-request": 6,
@@ -65,11 +65,11 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 858,
+  "total_publishers": 867,
   "top_publishers": [
     [
       "gtfish1988",
-      25
+      26
     ],
     [
       "SlashMark",
