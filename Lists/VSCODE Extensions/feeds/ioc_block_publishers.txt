@@ -205,6 +205,7 @@ OktayAydoan
 OmGawande
 OmniMind
 Onaga08
+OrqentAi
 OryonTechnology
 OxfordAbstracts
 OzzyDev777
@@ -231,6 +232,7 @@ Realtek
 RecoLive
 Remotebase
 RevoData
+RiderTran
 RileyMoore
 Ritchie
 RogDeved
@@ -319,6 +321,7 @@ alberto-pilotto
 alexevanczuk
 algovscode
 alien-fish-person
+alpgul
 altynbek132
 amkig
 annacode
@@ -390,6 +393,7 @@ danieloaks
 day253
 deadman
 dechuen-lee
+deciosfernandes
 dengfy3
 devCHOUZZ
 devCharles5277
@@ -567,6 +571,7 @@ momomomowei
 mrchen
 mrcrispy
 msjsdreact
+mtc2000
 mycline
 nanmu
 naveenkunder
@@ -632,6 +637,7 @@ saltand
 sameerrahman
 samuanv
 saoudrizvsce
+saurav-sinha
 schardosin
 seHunt-20241016
 secunit
@@ -669,6 +675,7 @@ tangxia
 tanukii
 teakovva
 testrl777
+theChrisKent
 theme-cyberpunk
 thesashkin
 thewerthon

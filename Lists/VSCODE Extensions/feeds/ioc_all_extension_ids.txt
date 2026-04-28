@@ -110,6 +110,7 @@ DoroKPNC.dart-flutter-export-helper
 DoroKPNC.dart-flutter-exports-local
 DotRush.dotrushV2-0
 DoveAz.gitmojisense
+Drake90.library-roblox-api
 DylanRampage.prettier-optimized
 EHooley.solibity-lang
 ETHFoundry.etherfoundrys
@@ -276,6 +277,7 @@ OktayAydoan.smarty-formatter
 OmGawande.sonata
 OmniMind.node-ai
 Onaga08.vibecode
+OrqentAi.orqentai-code
 OryonTechnology.oryon
 OxfordAbstracts.ide-purescript-oa-hybrid
 OzzyDev777.csharp-editor-pro
@@ -331,6 +333,7 @@ Realtek.ameba
 RecoLive.lldb-dap-android
 Remotebase.snapdev
 RevoData.vscode-for-just
+RiderTran.nextg-code-review
 RileyMoore.stdrlabs-ext
 Ritchie.cursor-dark-plus
 RogDeved.Night-moonlight-theme
@@ -338,6 +341,7 @@ Rojo.rojo-roblox-vscode
 RooIncVeterinaryDev.roo-cline-pro
 Ruoqi.cf-cph
 Ruoqi.xplosion
+RustygoonersandView.skidai
 S4mu31.command-runner-v2
 S4mu31.drawfolderstructure-s4mu31
 S4mu31.s4mu31-tema-color
@@ -496,6 +500,7 @@ alexevanczuk.pks-vscode
 algovscode.algoritmika-python
 algovscode.algoritmika-python-beta
 alien-fish-person.htmltoscss
+alpgul.vscode-copilot-fallback
 altynbek132.turbo-console-log-custom
 amkig.i18n-ally-po
 annacode.pt-lab-simproc
@@ -602,6 +607,7 @@ day253.system-engineer-development-pack
 day253.system-information-status-bar
 deadman.old-drkryz-theme
 dechuen-lee.tailwindcss-intellisense-auto-space
+deciosfernandes.git-auto-set-config
 dengfy3.dengfy3
 devCHOUZZ.vscode-better-align-pro
 devCharles5277.git-commit-plugin-with-gitmoji
@@ -852,6 +858,7 @@ mrchen.vue-jump-m
 mrcrispy.cpln
 ms-vscode.vscode-embedded-tools
 msjsdreact.react-native-vsce
+mtc2000.vscode-pdf-viewer
 mycline.my-sibo-claude-dev
 nanmu.office-viewer-pro
 naveenkunder.format-html
@@ -957,6 +964,7 @@ sanchuan.kimi-copilot
 sanchuan.mimo-copilot
 sanchuan.minimax-copilot
 saoudrizvsce.claude-devsce
+saurav-sinha.CodeClaude
 schardosin.cline-for-sap-ai-core
 seHunt-20241016.seHunt-20241016
 secunit.caddyfile-syntax
@@ -1006,6 +1014,7 @@ tanmoy-debnath.faaaaaahhh
 tanukii.autoversion
 teakovva.overpy-bastion
 testrl777.Solidity-Ethereum
+theChrisKent.spfx-local-workbench
 theme-cyberpunk.theme-neon-cyberpunk
 thesashkin.krnl-execute-thesashkin
 thewerthon.thewerthon-scope-to-this
