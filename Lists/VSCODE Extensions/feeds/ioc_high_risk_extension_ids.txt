@@ -913,6 +913,7 @@ v8tech.v8-code
 val-brlt.turbo-console-no-comma
 valentinbeaumont.youtrack-vscode
 vbtheory.gitlab-pipeline-monitor-advanced
+veraeva.RojoDB
 verreauxblack.vscode-git-commands-helper
 vialenliyu.Functionsandapplications11mcgrawhillryersonpdf13-sallole
 vibe-xyz.vibe-xyz

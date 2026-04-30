@@ -563,6 +563,7 @@ clclw.php-formatterclclw
 clicli100.openclaw100
 clicli100.windsurf100
 cline-ai-main.cline-ai-agent
+clint.rust-essentials-pack
 cn00.duckdb-lab
 cn00.sqltools-duckdb
 cobot100.cosave101
@@ -1041,6 +1042,7 @@ v8tech.v8-code
 val-brlt.turbo-console-no-comma
 valentinbeaumont.youtrack-vscode
 vbtheory.gitlab-pipeline-monitor-advanced
+veraeva.RojoDB
 verreauxblack.vscode-git-commands-helper
 vfd.vs2017-light-theme
 vialenliyu.Functionsandapplications11mcgrawhillryersonpdf13-sallole
