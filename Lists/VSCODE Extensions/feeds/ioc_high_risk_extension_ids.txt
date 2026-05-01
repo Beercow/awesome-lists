@@ -192,6 +192,7 @@ KMSLV.c-ai-chan
 Kanari-Network.kari-move
 Kanishk-B.mass-rename-extension5
 KevinYouu.tailwind-raw-reorder-tw4
+Klioai.Klioai
 Knotron.treky-dev
 Kochan.vs-nord-theme
 KomaKamaki.vscode-api-client-lite
@@ -427,6 +428,7 @@ altynbek132.turbo-console-log-custom
 amkig.i18n-ally-po
 annacode.pt-lab-simproc
 anovagroups.sas-data-explorer
+ant5888.opencode-vscode-cn
 anwar.papyrus-pdf
 areynard.iceberg-theme-code-visible
 atom8n.kanban-atom8n
