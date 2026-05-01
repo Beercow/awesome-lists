@@ -330,6 +330,7 @@ RahulSinha.bracketeer-personal
 RdbtCVS.chattriggers-latest
 ReadMeAI.readmeai
 Realtek.ameba
+Realtek.realtek-ameba
 RecoLive.lldb-dap-android
 Remotebase.snapdev
 RevoData.vscode-for-just
@@ -821,6 +822,7 @@ leonardomth.claudio-code
 levicarlsson.shelly
 lijiangang.vscode-picgo-paste-adpt-wayland
 linlinzhao.turbo-console-log-enhance
+litou.transify
 littensydev.charmed-icons-pro
 littleCareless.dish-base-development-extensions-pack
 littleCareless.svn-scm-ai
@@ -995,6 +997,7 @@ solario.enhanced-favorites
 solblanco.svetle-vsce
 solidhelium.codeforces-submitter
 soongfs.gruvbox-material-continued
+soshnikov.http-proxy-toggle-soshnikov
 spmeesseman.vscode-vslauncher
 sqlmtxredev.quarto-pro
 ss13.auto-comment-blocks-dm
@@ -1023,6 +1026,7 @@ thewerthon.thewerthon-scope-to-this
 thirst.cfxlua-types-intellisense
 thirst.cfxlua-typings
 tinbox.korofileheader-tinbox
+tinysam.kanagawa-pro
 tmp-primes.wtinymist
 tohuw.focus-lines
 toilamanh.claude-usage-pilot-v2
