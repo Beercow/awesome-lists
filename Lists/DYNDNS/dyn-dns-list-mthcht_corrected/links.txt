@@ -38301,6 +38301,8 @@ umagical.su
 bdyoutube.com
 overlijdenscentrum.com
 fibla.fi
+kch-ai.cl
+numbercraftacademy.com
 dynamic-dns.net
 longmusic.com
 wikaba.com
@@ -38786,6 +38788,7 @@ roxa.org
 tôt.net
 yyuyy.com
 mytunnel.org
+xubi.org
 dynv6.net
 dns.army
 dns.navy
