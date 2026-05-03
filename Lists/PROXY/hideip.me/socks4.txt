@@ -1,21 +1,37 @@
-72.195.114.184:4145:United States
-24.249.199.12:4145:United States
 174.77.111.197:4145:United States
-184.178.172.14:4145:United States
-98.188.47.150:4145:United States
+72.195.34.58:4145:United States
+184.181.217.210:4145:United States
+98.188.47.132:4145:United States
+72.195.114.169:4145:United States
 184.181.217.206:4145:United States
-184.178.172.17:4145:United States
+184.178.172.3:4145:United States
+184.178.172.11:4145:United States
 184.181.217.194:4145:United States
+184.181.217.220:4145:United States
+192.111.138.29:4145:United States
+192.111.139.165:4145:United States
 98.170.57.249:4145:United States
 184.178.172.28:15294:United States
-198.8.94.170:4145:United States
-174.75.211.222:4145:United States
-98.170.57.241:4145:United States
+184.178.172.26:4145:United States
+184.185.2.12:4145:United States
+98.181.137.83:4145:United States
+74.119.144.60:4145:United States
+72.214.108.67:4145:United States
+72.205.0.93:4145:United States
+199.187.210.54:4145:United States
+107.152.98.5:4145:United States
 216.68.128.121:4145:United States
-98.190.239.3:4145:United States
+159.192.139.42:5678:Thailand
 184.182.240.12:4145:United States
 72.206.74.126:4145:United States
 184.182.240.211:4145:United States
-81.26.190.143:1080:Germany
+70.166.65.160:4145:United States
+72.223.188.67:4145:United States
+72.207.33.64:4145:United States
+98.191.0.47:4145:United States
+103.81.194.160:5555:Indonesia
+103.146.185.5:1083:Indonesia
+161.97.79.227:9050:United States
+103.35.191.138:1082:Moldova
 116.197.131.29:36439:Indonesia
-112.109.20.106:32031:Indonesia
+125.234.90.124:1080:Vietnam
