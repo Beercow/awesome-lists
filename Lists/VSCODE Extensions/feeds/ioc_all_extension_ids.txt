@@ -66,6 +66,7 @@ BlockchainIndustries.blockchain-toolkit
 BlockchainIndustries.hardhat-toolkit
 BlockchainIndustries.solana-toolkit
 BlockchainWEB3.blankebestxstnion
+BobCAD-CAM.bobcad-post
 Brett-Wilson.markdown-shortcuts-chinese
 CJL.todo-tree-enhanced
 COMP.sqltools-driver-postgres
@@ -76,6 +77,7 @@ CartagoNova.turbo-console-log-forked-by-cartago
 Cencurity.cencurity-connector
 CharlesHoskinson.lfamnw1
 ChristopherCRobinson.browser-tools-for-testcafe
+ClockZinc.vscode-copilot-chat-cn
 CloudianApp.CloudianCompanion-56d02aa8da72
 CodeSecureDev.dependency-scan
 Crypto-Extensions.SnowShsoNo
@@ -241,6 +243,7 @@ Malkolm.Theme-Ascetic-remake
 Malkolm.Theme-Aurora-remake
 Malkolm.Theme-azure-remake
 Malkolm.Theme-bashling-remake
+ManuelMiethe.openhab-config-aligner-2026
 MarcusHoffkin.mannequin
 MarcusLockwood.wgbk
 MarioLJFerreira.42header-plus
@@ -356,6 +359,7 @@ Sammy.clipboard-manager-with-cycling
 SamuelPinto.better-vscode-html-css
 SamuelPinto.better-vscode-html-css-support
 SamuelPinto.prettier-vscode-pluss
+Sawalhaa.sawalhaa
 Sayantan710.ollot
 SenkoTheKitsune.nomo-dark-extended
 SeoDoktoru.minimax-god-mode
@@ -481,6 +485,7 @@ Zubair.perfect-fart-error
 Zubair.shah-rukh-khan-error
 Zubair.siuuuuu-error
 Zubair.yooooooooooooooooooooooooo-error
+Zurab-mvrck.dependency-tracer
 ab-498.cppformat
 ab-498.cppplayground
 ab-498.pythonformat
@@ -606,6 +611,7 @@ d0whc3r.better-find-unused-exports
 daelmaak.next-error
 dafsfsdsfdfsdf11.randomic-slaying-pog
 danieloaks.rest-client-do
+danlt2k.sarif-monitor-v000
 day253.data-scientist-development-pack
 day253.system-engineer-development-pack
 day253.system-information-status-bar
@@ -618,6 +624,7 @@ devCharles5277.git-commit-plugin-with-gitmoji
 devCharles5277.primevue-helper-zh-tw
 devSparkle.luau-lsp-overtur
 devcodaro.codaro-pro
+devcoreAi-Coding-Agent.devcoreai-agent
 devokai.codesleep
 devokaicode.codesleepai
 devokaicode.cosave
@@ -683,6 +690,7 @@ gerson577.turbo-console-log-modify
 gglin001-vscode.vscode-mlir-custom
 gh555.qqq
 ghlandy.LiveServer-2
+gisonyeung.pika-svelte-vscode
 gitkraken-dev.gitlens-pro
 godot42.cmantic-forked
 grovejt.open-folder-in-cursor
@@ -843,6 +851,7 @@ lyywemhan.code-formatter-and-minifier-vscode
 mahdihajian.angular-files-creator
 mahdihajian.vscode-pull-request-azure-devops
 mahdihajian.vscode-shelf
+mark9804.zotero-latex-cite
 marketplacer.marketplacer
 marpo.gruvbox-material-marpo
 marvin63597.claude-dd

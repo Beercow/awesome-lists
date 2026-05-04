@@ -56,6 +56,7 @@ CartagoNova
 Cencurity
 CharlesHoskinson
 ChristopherCRobinson
+ClockZinc
 CloudianApp
 CodeSecureDev
 Crypto-Extensions
@@ -175,6 +176,7 @@ MMitsuha
 MahendrakarPrateek
 MakinCo
 Malkolm
+ManuelMiethe
 MarcusHoffkin
 MarcusLockwood
 MarioLJFerreira
@@ -392,6 +394,7 @@ d0whc3r
 daelmaak
 dafsfsdsfdfsdf11
 danieloaks
+danlt2k
 day253
 deadman
 dechuen-lee
@@ -401,6 +404,7 @@ devCHOUZZ
 devCharles5277
 devSparkle
 devcodaro
+devcoreAi-Coding-Agent
 devokai
 devokaicode
 devolutionsinc
@@ -452,6 +456,7 @@ gerson577
 gglin001-vscode
 gh555
 ghlandy
+gisonyeung
 gitkraken-dev
 godot42
 grovejt
@@ -560,6 +565,7 @@ lxl66566
 lyqu
 lyywemhan
 mahdihajian
+mark9804
 marketplacer
 marpo
 marvin63597
