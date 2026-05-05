@@ -14,9 +14,9 @@ addition,leboncoina.fr,,,,
 addition,leboncoinb.fr,,,,
 addition,leboncoinc.fr,,,,
 addition,leboncoind.fr,,,,
-addition,leboncoinf.fr,,,,
 addition,leboncoing.fr,77.72.17.122,,leboncoing.fr,ns1.hoststage.net
 addition,leboncoine.fr,81.92.80.55,,mx3.nameshield.com,ns2.observatoiredesmarques.fr
+addition,leboncoinf.fr,,,,
 addition,leboncoinh.fr,,,,
 addition,leboncoini.fr,,,,
 addition,leboncoinj.fr,,,,
@@ -783,11 +783,11 @@ replacement,leboncoih.fr,,,,
 replacement,leboncojn.fr,,,,
 replacement,leboncoun.fr,157.90.33.73,,,ns1.park-my-domain.net
 replacement,leboncpin.fr,157.90.33.73,,,ns1.park-my-domain.net
+replacement,lebondoin.fr,,,,
 replacement,lebonfoin.fr,185.158.133.1,,alt1.aspmx.l.google.com,ns81.domaincontrol.com
 replacement,lebonvoin.fr,84.16.66.164,2001:1600:0:aaaa::2:14,,ns11.infomaniak.ch
 replacement,leboncoib.fr,,,,ns1.parkingcrew.net
 replacement,leboncoon.fr,,,,ns1.parkingcrew.net
-replacement,lebondoin.fr,,,,
 replacement,lebonxoin.fr,,,,
 replacement,lebpncoin.fr,,,,ns1.parkingcrew.net
 replacement,legoncoin.fr,,,,
@@ -805,7 +805,7 @@ subdomain,le.boncoin.fr,,,,
 subdomain,leb.oncoin.fr,,,,
 subdomain,lebo.ncoin.fr,,,,
 subdomain,lebon.coin.fr,,,,
-subdomain,lebonc.oin.fr,,!ServFail,,ns1.nameshift.com
+subdomain,lebonc.oin.fr,,,,ns1.nameshift.com
 subdomain,lebonco.in.fr,,,,
 transposition,elboncoin.fr,81.92.80.55,,mx3.nameshield.com,ns2.observatoiredesmarques.fr
 transposition,lbeoncoin.fr,,,,
