@@ -445,6 +445,7 @@ automated1ogic.automated1ogic
 automatedlogic.automatedlogic
 avenableivytech.vscode-sqlite-av
 ax60.electricblackfelixdivallportvs2022
+b-shan.jsonyamlkeynavigator
 bazantici.dapsy
 bazantici.suse-valey-styleguide
 bbznop.open-in-external-app-pro
