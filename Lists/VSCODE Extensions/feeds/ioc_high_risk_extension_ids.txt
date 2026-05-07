@@ -168,6 +168,7 @@ JackHerry.neon-night-theme-ai
 JackHerry.prettier-advanced-ai
 JacobETH.solidi
 JarodWright.strict-paredit-fennel
+JaviGuarin.prompt-registry-ado-beta
 JiHoonKim.devtool-plus-kr
 Jianzhe.thief-book-plus
 Jinyuan.vscode-git-cruise-upgraded
@@ -207,6 +208,7 @@ Languages.hungarian
 LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
 LinkingMountains.SonarColorizer
+LuaShield.lua-shield
 LuizDoPc.luizdopc-turbo-console-log
 MMitsuha.vscode-docker-registry-explorer-rev
 MahendrakarPrateek.prettyxml-pro
@@ -308,7 +310,6 @@ ReadMeAI.readmeai
 Realtek.ameba
 Realtek.realtek-ameba
 RecoLive.lldb-dap-android
-Remotebase.snapdev
 RevoData.vscode-for-just
 RiderTran.nextg-code-review
 RileyMoore.stdrlabs-ext
@@ -465,6 +466,7 @@ borgius.lm-proxy-responses
 borgius.localrag
 bphpburnsus.iconesvscode
 brainz-digital-com.brainz-digital-netbeans-keybindings
+brett-pappas.claude-in-editor
 bryanlo22.vscode-rufo-fix
 btwiuse.flexport
 btwiuse.gopilot-chat
@@ -728,6 +730,7 @@ lakeFS.lakefs-dvc
 lang2hong.l2h-db-client
 lang2hong.l2h-vscode-dashboard
 leon-qiu.hexo-auto-updated
+leonardomjq.goblin-mode
 leonardomth.claudio-code
 levicarlsson.shelly
 lijiangang.vscode-picgo-paste-adpt-wayland
@@ -787,6 +790,7 @@ orca.vscode-armlite
 otimiza.local-agent-screen-viewer
 outthaway.sol2-lang
 ovixcodes.basedpyright-vscode
+owenrossikeen.script-buttons-extended
 ozz3dev.bitcoin-auto-trading
 pablaofficeal.taskmanager-vscode
 pandaexpress.Theme-Anarchist-plugin
@@ -909,11 +913,13 @@ thirst.cfxlua-types-intellisense
 thirst.cfxlua-typings
 tinbox.korofileheader-tinbox
 tinysam.kanagawa-pro
+tkafka.markdown-mermaid-updated
 tmp-primes.wtinymist
 tohuw.focus-lines
 toommyliu.cursor-dark-no-italicse
 trandaison.trandaison-git-file-history
 tria-technologies.simpleswitch-vscode
+tria-technologies.simpleswitch-vscode-tools
 trlanfeng.turbo-console-log
 tuur29.turbo-console-log
 tylerdotrar.goodbyeworld

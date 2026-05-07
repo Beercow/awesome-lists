@@ -133,6 +133,7 @@ Itchino
 JackHerry
 JacobETH
 JarodWright
+JaviGuarin
 JiHoonKim
 Jianzhe
 Jinyuan
@@ -171,6 +172,7 @@ Languages
 LiamDrew
 LiamWang
 LinkingMountains
+LuaShield
 LuizDoPc
 MMitsuha
 MahendrakarPrateek
@@ -233,7 +235,6 @@ RdbtCVS
 ReadMeAI
 Realtek
 RecoLive
-Remotebase
 RevoData
 RiderTran
 RileyMoore
@@ -356,6 +357,7 @@ bogigigigigity
 borgius
 bphpburnsus
 brainz-digital-com
+brett-pappas
 bryanlo22
 btwiuse
 bug-author
@@ -548,6 +550,7 @@ labfile
 lakeFS
 lang2hong
 leon-qiu
+leonardomjq
 leonardomth
 levicarlsson
 lijiangang
@@ -603,6 +606,7 @@ orca
 otimiza
 outthaway
 ovixcodes
+owenrossikeen
 ozz3dev
 pablaofficeal
 pandaexpress
@@ -694,6 +698,7 @@ thewerthon
 thirst
 tinbox
 tinysam
+tkafka
 tmp-primes
 tohuw
 toommyliu
