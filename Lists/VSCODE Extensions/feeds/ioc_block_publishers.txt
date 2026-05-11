@@ -60,6 +60,7 @@ ChristopherCRobinson
 ClockZinc
 CloudianApp
 CodeSecureDev
+Cognitrace3
 Crypto-Extensions
 CryptoCurrencyExtensions
 CryptoFoundation
@@ -435,6 +436,7 @@ eamodas
 ebextensions
 ecostadelle
 electropol-fr
+elliepreston
 embedd-team
 embeddteam
 emersxw
