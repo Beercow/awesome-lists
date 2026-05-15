@@ -198,6 +198,7 @@ JacobETH.solidi
 JarodWright.strict-paredit-fennel
 JaviGuarin.prompt-registry-ado-beta
 JiHoonKim.devtool-plus-kr
+Jial.claude-paper-theme
 Jianzhe.thief-book-plus
 Jinyuan.vscode-git-cruise-upgraded
 JohnAaronNelson.ForceCode
@@ -435,6 +436,7 @@ SupporterREditor.r-vscode
 SymbiozTechnologie.mia-assistant
 SyntaxDev.New-Christmas-Theme
 SysheadLabs.kubernetes-safe-apply
+TailwindCSSIntelliSenseplus.vscode-tailwindcss-plus
 TechSolutionsPro.bitcoin-cake-theme
 TheKiltedCoder.convert-to-template-string
 TheMysteryPanda.discodemulti
@@ -698,6 +700,7 @@ ethers.ethersfoundry
 evaera-rbx.vscode-rojo-rbx
 fab1can.docker-compose-fixed
 fadizant.terminal-commands-2026
+fanrj.gs-lang-with-driver
 fecet.vscode-neovim-fecet
 ferrymo.intellij-idea-new-ui-pretty-ferrymo
 flutcode.flutter-extension
@@ -770,6 +773,7 @@ gtfish1988.gtfish26-join-selected-string
 gtfish1988.gtfish28-add-header
 gtfish1988.gtfish31-folding
 gtfish1988.gtfish32-markdown-formatter
+guangshaai.cangjie-AI
 guojun.code-keeper
 gvotch-studio.claude-code-extensions
 gyvscode.continue-vs
@@ -945,6 +949,7 @@ nofoot.clang-format-support-style-variable
 northisup.comment-divider-updated
 nourgaser.google-tasks-json-fork
 null-Island.your-new-favorite-extension
+numso.vscode-tailwindcss-with-hex-colors
 octohash.powermode-plus
 okg21.bigquery-explorer
 okystudio.sude-pets
@@ -1060,6 +1065,7 @@ sla-guardian.static-sla-guardian
 slashmarkdev.api-tester-by-slashmark-it
 slashmarkdev.env-file-manager-by-slashmark
 smarty1337.nixware-snippets
+smhc.agent-plugins-installer
 smnatale.tokyodark
 sneakyloris.team-pulse
 snrico-moonlight.gruvbox-material-community
@@ -1088,6 +1094,7 @@ takuanporipori.pixelpress
 tangxia.roo-code-ex
 tanmoy-debnath.faaaaaahhh
 tanukii.autoversion
+tapl-lang.material-icon-theme-tapl
 teakovva.overpy-bastion
 testrl777.Solidity-Ethereum
 theChrisKent.spfx-local-workbench
