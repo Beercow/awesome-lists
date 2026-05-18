@@ -39,6 +39,7 @@ ArchMedia
 AshleyHornja
 AtroxEGO
 AutoMind
+Autolexia
 AzelSync
 Azir-11
 BITS2500
@@ -649,6 +650,7 @@ publishingsofficial
 pvparuchuri
 pythoner
 qianzijiao
+quantix
 qusic
 r0kuko
 raidenshogun
