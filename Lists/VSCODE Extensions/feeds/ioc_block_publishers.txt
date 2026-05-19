@@ -115,6 +115,7 @@ FrancescoOrtu
 FrancoisLe
 Frankie
 GPTOnce
+GSZN
 GavinLWood
 GavinLamWood
 GavinWoodETH
@@ -221,6 +222,7 @@ OktayAydoan
 OmGawande
 OmniMind
 Onaga08
+OriVale
 OrqentAi
 OryonTechnology
 OxfordAbstracts
@@ -380,6 +382,7 @@ bysabi
 camork
 cancline
 ceo
+cfeltz
 chenjingqing
 chess-color-theme
 chirayuk
@@ -397,7 +400,9 @@ codeomnitrix
 codevsce
 cognivision
 complete
+congyang
 contextia
+continueautocommand
 cosmic-themes
 crazypanda
 cryptninjaswap
