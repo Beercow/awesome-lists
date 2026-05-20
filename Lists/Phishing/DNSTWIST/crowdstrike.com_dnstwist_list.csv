@@ -10,10 +10,10 @@ addition,crowdstrike6.com,,,,
 addition,crowdstrike7.com,,,,
 addition,crowdstrike8.com,,,,
 addition,crowdstrike9.com,,,,
-addition,crowdstriker.com,13.248.169.48,,,ns1.afternic.com
 addition,crowdstrikea.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
+addition,crowdstrikec.com,,,,
+addition,crowdstriker.com,13.248.169.48,,,ns1.afternic.com
 addition,crowdstrikeb.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
-addition,crowdstrikec.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 addition,crowdstriked.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 addition,crowdstrikee.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 addition,crowdstrikef.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
@@ -105,9 +105,9 @@ homoglyph,crovudstrike.com,,,,
 homoglyph,crovvbstrike.com,,,,
 homoglyph,crovvclstrike.com,,,,
 homoglyph,crovvdlstrike.com,,,,
-homoglyph,crovvdstrikc.com,,,,
 homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
 homoglyph,crovvdstr1ke.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
+homoglyph,crovvdstrikc.com,,,,
 homoglyph,crovvdstrilce.com,,,,
 homoglyph,crovvdstrlke.com,,,,
 homoglyph,crowblstrike.com,,,,
@@ -7648,7 +7648,7 @@ insertion,crowdsdtrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudf
 insertion,crowdsetrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,crowdsftrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,crowdsgtrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
-insertion,crowdsqtrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
+insertion,crowdsqtrike.com,,,,
 insertion,crowdsrtrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,crowdsstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,crowdst4rike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
