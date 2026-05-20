@@ -314,6 +314,7 @@ QuantumCodeLabs.darky-ai
 QuantumCodeLabs.dracula-pro-theme
 QuantumCodeLabs.qoodo-ai-assistant
 RPinkau.al-object-id-samurai
+RYNBD.rynbd-laragon-terminal-pro
 Rabiloo.ethery
 RabobankAI.rabobank-code-assistant
 RachelFront.asdtif
@@ -987,6 +988,7 @@ wanxiong.thief-book-pro-plus
 we125182.vue-volar
 webctrl.live
 weiboplat.wecodergtfish1988.gtfish25-sql-formatter
+whatnick.acp-client-whatnick
 whoami730.cython-enhanced
 wli273088.vscode-pets-for-courses-demo
 wlnxingdev.free-senltig
