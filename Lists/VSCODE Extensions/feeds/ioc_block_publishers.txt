@@ -126,6 +126,7 @@ GustavoMaia
 HTMLLanguage
 Hakai
 HanazakiShiki
+HarshAgarwal1012
 HarshChitaliya
 HawnyJawny
 HonzaPudil
@@ -313,6 +314,7 @@ VitalikButerinETH
 VitalikButt
 VitalikLButerin
 VitalyButerin
+VivekChoudhury
 WEB3Foundation
 WavesMan
 WillZhang
@@ -707,15 +709,18 @@ sqlmtxredev
 ss13
 sseveur
 stan-stani
+stark
 sthudy
 stratomercata
 streamax
 stunning-yunwu
 sunamo-cz
+sunsetHightlight
 suspublisher18
 svltsweet
 t1mt
 tabnine-dev
+taillaaa
 tangxia
 tanukii
 tapl-lang

@@ -154,6 +154,7 @@ GustavoMaia.gruber-adapted
 HTMLLanguage.html-css-support
 Hakai.functional-purple-modified
 HanazakiShiki.emmylua-cgame
+HarshAgarwal1012.openclaude-vscode
 HarshChitaliya.harshchitaliya-ai-study-companion
 HarshChitaliya.harshchitaliya-wds-blog-search
 HawnyJawny.LuauConnect
@@ -410,6 +411,7 @@ VitalikButerinETH.vitaliketh
 VitalikButt.Solids
 VitalikLButerin.aidebut2
 VitalyButerin.hardhatjs
+VivekChoudhury.google-gui-support
 WEB3Foundation.cxzczxcxz
 WavesMan.tree-generator-defined
 WillZhang.dracula-variants
@@ -925,15 +927,18 @@ sqlmtxredev.quarto-pro
 ss13.auto-comment-blocks-dm
 sseveur.vscode-bigquery-v2
 stan-stani.autolaunch-plus
+stark.bgide
 sthudy.keil-assistant-Linux
 stratomercata.strato-mercata
 streamax.claude-dev-streamax
 stunning-yunwu.code-debugger-plus
 sunamo-cz.specstory-autosave
+sunsetHightlight.sunset-highlight
 suspublisher18.susvsex
 svltsweet.Svetle-for-Cursor
 t1mt.vsc-go-imports-sorter
 tabnine-dev.tabnine-pro
+taillaaa.codilore-ai
 tangxia.roo-code-ex
 tanukii.autoversion
 tapl-lang.material-icon-theme-tapl
