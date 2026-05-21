@@ -1048,6 +1048,7 @@ rizort.phpstorm-light-theme-109
 rizort.phpstorm-pack-109
 robna.wordcount-selection
 roboard.roboard
+romanager.ro-manager
 rpeter.python-code-lens
 rubiin.nestjs-snippets-vscode
 runsystemcopilot.runsystem-copilot-chat
