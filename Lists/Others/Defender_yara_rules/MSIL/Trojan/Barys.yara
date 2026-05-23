@@ -556,6 +556,28 @@ rule Trojan_MSIL_Barys_SG_2147901488_0
         family = "Barys"
         severity = "Critical"
         info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR"
+        threshold = "2"
+        strings_accuracy = "High"
+    strings:
+        $x_1_1 = {16 13 16 38 23 00 00 00 11 0d 6f 91 00 00 06 13 17 11 0d 6f 91 00 00 06 13 18 11 04 11 17 11 18 6f 33 00 00 0a 11 16 17 58 13 16 11 16 11 0c 3f d4 ff ff ff 11 0d 6f 92 00 00 06 11 04}  //weight: 1, accuracy: High
+        $x_1_2 = {03 6f 8a 00 00 0a 28 42 00 00 06 0c 73 10 00 00 0a 28 40 00 00 06 0d 09 07 6f 7d 00 00 0a 09 08 6f 7e 00 00 0a 25 09 6f 8b 00 00 0a}  //weight: 1, accuracy: High
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_MSIL_Barys_SG_2147901488_1
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:MSIL/Barys.SG!MTB"
+        threat_id = "2147901488"
+        type = "Trojan"
+        platform = "MSIL: .NET intermediate language scripts"
+        family = "Barys"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
         signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
         threshold = "3"
         strings_accuracy = "High"
@@ -1429,6 +1451,28 @@ rule Trojan_MSIL_Barys_SO_2147968890_0
     strings:
         $x_1_1 = {16 13 16 38 23 00 00 00 11 0d 6f 85 00 00 06 13 17 11 0d 6f 85 00 00 06 13 18 11 04 11 17 11 18 6f 35 00 00 0a 11 16 17 58 13 16 11 16 11 0c 3f d4 ff ff ff 11 0d 6f 86 00 00 06}  //weight: 1, accuracy: High
         $x_1_2 = {28 66 00 00 0a 03 6f 8c 00 00 0a 28 36 00 00 06 0c 73 12 00 00 0a 28 34 00 00 06 0d 09 07 6f 7f 00 00 0a 09 08 6f 80 00 00 0a}  //weight: 1, accuracy: High
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_MSIL_Barys_MK_2147970053_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:MSIL/Barys.MK!MTB"
+        threat_id = "2147970053"
+        type = "Trojan"
+        platform = "MSIL: .NET intermediate language scripts"
+        family = "Barys"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "35"
+        strings_accuracy = "Low"
+    strings:
+        $x_20_1 = {70 0b 07 28 ?? 00 00 0a 06 28 ?? 00 00 0a 28 ?? 00 00 06 0c 7e ?? 00 00 0a 0d 08 8e 69 6a 13 04 15 28 ?? 00 00 0a 12 03 7e ?? 00 00 0a 12 04 20 00 30 00 00 1f 40 28}  //weight: 20, accuracy: Low
+        $x_15_2 = {06 07 02 07 91 03 07 03 8e 69 5d 91 61 d2 9c 07 17 58 0b}  //weight: 15, accuracy: High
     condition:
         (filesize < 20MB) and
         (all of ($x*))
