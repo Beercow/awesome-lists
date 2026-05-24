@@ -453,6 +453,7 @@ duanyll
 dywsy21
 eamodas
 ebextensions
+eclipse-cdt
 ecostadelle
 electropol-fr
 elliepreston
@@ -472,6 +473,7 @@ fanrj
 fecet
 ferrymo
 flutcode
+flywine
 fnweoifweiofewofwoeifjwefvsjceqk
 fortune
 fq
@@ -481,6 +483,7 @@ funkyproject
 funovus
 fyzhu
 gabrielbotan
+gea-embedded
 genon
 gerson577
 gglin001-vscode
@@ -631,6 +634,7 @@ nourgaser
 numso
 octohash
 okg21
+onreal-Elysia886
 orca
 otimiza
 outthaway

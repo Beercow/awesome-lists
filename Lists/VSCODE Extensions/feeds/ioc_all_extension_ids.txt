@@ -40,6 +40,7 @@ AlissonKopp.clickup-extension
 Alleexxii.cfxlua-cheat-vscode
 AllenBarry.Solid
 Always-Victorious.trailing-spaces-always-victorious-edit
+AmirBenShimol3111824.amir-synapse-nexus
 AmsTaFFix.daemonic-lua-api
 AndreiMoraru.norrsken-semantic
 AngelSalazar-dev.all-pixel-agents
@@ -706,6 +707,7 @@ dywsy21.latex-previewer-minor-fixes
 eamodas.shiny-vscode
 ebextensions.active-clang-format
 ebextensions.clang-format-2025
+eclipse-cdt.vscode-clangd-cdtcloud
 ecostadelle.cython-syntax-fixed
 electropol-fr.vscode-drawio-VFS
 elliepreston.kiro-theme-tweaked
@@ -731,6 +733,7 @@ fanrj.gs-lang-with-driver
 fecet.vscode-neovim-fecet
 ferrymo.intellij-idea-new-ui-pretty-ferrymo
 flutcode.flutter-extension
+flywine.vscode-clangd
 fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai
 foba-language.foba-language
 fortune.investment-assistant
@@ -746,6 +749,7 @@ funovus.dcei-vscode-teal
 funovus.dceilua
 fyzhu.git-pretty-graph
 gabrielbotan.gruvbox-vim
+gea-embedded.vscode-clangd-gea-embedded
 genon.cline-for-genos
 gerson577.turbo-console-log-modify
 gglin001-vscode.vscode-mlir-custom
@@ -982,6 +986,10 @@ numso.vscode-tailwindcss-with-hex-colors
 octohash.powermode-plus
 okg21.bigquery-explorer
 okystudio.sude-pets
+onreal-Elysia886.elysia-todo-tree
+openbase.openbase-icons
+openbase.openbase-theme
+openbase.openbase-vscode
 orca.vscode-armlite
 otimiza.local-agent-screen-viewer
 outthaway.sol2-lang
@@ -1057,6 +1065,7 @@ rizort.phpstorm-light-theme-109
 rizort.phpstorm-pack-109
 robna.wordcount-selection
 roboard.roboard
+romanage.romanage
 romanager.ro-manager
 rpeter.python-code-lens
 rubiin.nestjs-snippets-vscode
