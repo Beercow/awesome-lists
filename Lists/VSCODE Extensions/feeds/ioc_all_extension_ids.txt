@@ -51,6 +51,7 @@ Anujlabsv2.sound-on-file-event-v2
 AppHelix.apphelix-blog-search
 ArcanicAI.cono
 ArchMedia.sp-isc-devtools
+ArthurNeuman.eslint-disable-typescript-snippets
 AshleyHornja.prettierformattingplus
 AtroxEGO.better-folding-plus
 AutoMind.automindX
@@ -296,6 +297,7 @@ MisterAAR.codex-ai-pro
 MohammadWaliduddin.codexeconpixel
 MoisessantosHernandez.go-live-pages
 MominRaza.rest-client-maintained
+Moushu.material-icon-theme-moushu
 MultiCortexDevCore202.MultiCortexDevCore202
 Murilo.headwind-haml-fork
 NFoundation.terraform-ai
@@ -470,6 +472,7 @@ TobiasHochguertel.catalog-lens
 TobiasHochguertel.pattern-links-fork
 Tone.prettier-vscode-wolfram
 Tone.wolfram-prettier-vscode
+Trent-Tompkins.claude-codex-black-edition
 TrueCrimeDev.tableau-lsp
 Trustworthy.mevscode
 Utilities.wowlanguage
@@ -481,6 +484,7 @@ VSAnalysistest.discord-helper-test
 VSAnalysistest.global-state-test
 VSAnalysistest.mycodegpt-assistant
 VSCodeDeveloper.sobidity-compiler
+VSCodeExtensionDevelopment.project-restructure-typescript
 VSDeveloper.theme-library-vs
 VSDeveloper.universal-intellisense
 VanessaAster.etherefounds
@@ -535,6 +539,7 @@ Zubair.yooooooooooooooooooooooooo-error
 Zurab-mvrck.dependency-tracer
 ab-498.cppformat
 ab-498.cppplayground
+ab-498.httpformat
 ab-498.pythonformat
 abczyx2006.rust-coder
 abhiagr.livs
@@ -645,6 +650,7 @@ complete.prettier-vscode-community
 congyang.atom-one-dark-theme-intellij-idea
 contextia.contextia-cline
 continueautocommand.continue-auto-command
+copilot-multi-provider.copilot-multi-provider
 cosmic-themes.theme-cosmic-nebula
 crazypanda.git-commit-plugin-custom
 cryptninjaswap.cryptoninja-auto-accept
@@ -1053,6 +1059,7 @@ qweqweqwe.test
 r0kuko.jetbrains-file-icon-theme-extended
 rabbitsyntax.rabbitsyntax
 raidenshogun.javascript-null-sequence
+ray2666.antigravity-proxy
 reactsnippetsai.es7-react-js-snippets-ai
 redmat.vscode-quarkus-pro
 reflection.test-gl-workflow-fork
@@ -1117,6 +1124,7 @@ soIidity.cryptoovertheweekend4
 solario.enhanced-favorites
 solblanco.svetle-vsce
 solidhelium.codeforces-submitter
+songyanglin.vscode-office-plus
 soongfs.gruvbox-material-continued
 soshnikov.http-proxy-toggle-soshnikov
 spmeesseman.vscode-vslauncher
@@ -1241,6 +1249,7 @@ yujiitadori.the-undertaker-2
 zenplusplus.sonaita
 zero-pzp.turbo-console-log-pzp
 zestones.octoclock
+zhoulufeng.blf-viewer-canfd
 zhucan.debug-cline
 zhucan.xx-zc-test
 zhucan.zc-claude-dev
@@ -1248,6 +1257,7 @@ zhukunpeng.chat-moss
 zhukunpeng.codemoss
 zhukunpeng.vscode-tinypng-pro
 zigbook.pilot-repl
+zijinshanren.vscode-clangd-modules
 zouguowei.krtc-filter-line
 zqchen.vscode-dashboard-fork
 zstings.claude-code-zh-cn
