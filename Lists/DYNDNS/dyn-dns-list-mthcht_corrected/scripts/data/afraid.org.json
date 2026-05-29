@@ -230218,5 +230218,17 @@
     "domain": "buf2.com",
     "age": "0 days ago (05/28/2026)",
     "retrievedAt": "2026-05-28T22:33:33.179Z"
+  },
+  {
+    "id": "1476158",
+    "domain": "dalenda.ai",
+    "age": "8 days ago (05/21/2026)",
+    "retrievedAt": "2026-05-29T22:28:58.837Z"
+  },
+  {
+    "id": "1474039",
+    "domain": "msw.cl",
+    "age": "46 days ago (04/13/2026)",
+    "retrievedAt": "2026-05-29T22:29:25.659Z"
   }
 ]
