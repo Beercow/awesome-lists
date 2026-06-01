@@ -175,6 +175,7 @@ InternetLK.username-poc
 IoliteLabs.solidity-linux
 IoliteLabs.solidity-macos
 IoliteLabs.solidity-windows
+IsagiYoichi.Json-advanced-formatter-pro
 ItalangMong.smile-editor
 Itchino.robloxlsp-for-exploit
 JackHerry.copilotx-ai-assistant
@@ -344,6 +345,7 @@ Ritchie.cursor-dark-plus
 RogDeved.Night-moonlight-theme
 Rojo.rojo-roblox-vscode
 RooIncVeterinaryDev.roo-cline-pro
+RoyHtml.xampp-manager
 Ruoqi.cf-cph
 Ruoqi.xplosion
 S4mu31.command-runner-v2
@@ -807,6 +809,7 @@ mark9804.zotero-latex-cite
 marketplacer.marketplacer
 marpo.gruvbox-material-marpo
 marvin63597.claude-dd
+mathieu42.monokai-dark-by-mathieu42
 me80758262.piiithon-linter
 meetrice.mysql-blade
 meow-d.markless-meowd

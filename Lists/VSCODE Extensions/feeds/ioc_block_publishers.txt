@@ -143,6 +143,7 @@ Infineon-technologies-ag
 InnuendoPi
 InternetLK
 IoliteLabs
+IsagiYoichi
 ItalangMong
 Itchino
 JackHerry
@@ -268,6 +269,7 @@ Ritchie
 RogDeved
 Rojo
 RooIncVeterinaryDev
+RoyHtml
 Ruoqi
 S4mu31
 SFRA-FAKA
@@ -619,6 +621,7 @@ mark9804
 marketplacer
 marpo
 marvin63597
+mathieu42
 me80758262
 meetrice
 meow-d

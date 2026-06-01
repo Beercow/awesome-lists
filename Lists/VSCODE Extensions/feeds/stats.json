@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-06-01T12:11:29+00:00",
-  "total_records": 1356,
-  "total_malicious": 1284,
+  "generated_utc": "2026-06-01T18:17:49+00:00",
+  "total_records": 1362,
+  "total_malicious": 1290,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 330,
-    "high": 754,
+    "critical": 332,
+    "high": 755,
     "low": 22,
-    "medium": 250
+    "medium": 253
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 735,
+    "impersonation": 736,
     "impersonation-malware": 5,
-    "malware": 330,
+    "malware": 332,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -31,25 +31,25 @@
     "risky-infrastructure": 4,
     "risky-remote-access": 15,
     "risky-tunnel": 5,
-    "spam": 68,
+    "spam": 70,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 107
+    "untrustworthy": 108
   },
   "malicious_category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 735,
+    "impersonation": 736,
     "impersonation-malware": 5,
-    "malware": 330,
+    "malware": 332,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
-    "spam": 68,
+    "spam": 70,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 107
+    "untrustworthy": 108
   },
   "risky_category_counts": {
     "risky-ai-code-access": 9,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1015,
+  "total_publishers": 1020,
   "top_publishers": [
     [
       "gtfish1988",
