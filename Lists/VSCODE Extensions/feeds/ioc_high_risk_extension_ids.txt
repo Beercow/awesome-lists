@@ -472,6 +472,7 @@ annacode.pt-lab-simproc
 anovagroups.sas-data-explorer
 ant5888.opencode-vscode-cn
 anwar.papyrus-pdf
+apzcode.apzcode-ai
 areynard.iceberg-theme-code-visible
 atom8n.kanban-atom8n
 atom8n.mcp-inspector-atom8n
@@ -681,6 +682,7 @@ gtfish1988.gtfish26-join-selected-string
 gtfish1988.gtfish28-add-header
 gtfish1988.gtfish31-folding
 gtfish1988.gtfish32-markdown-formatter
+guabutian.todo-tree-fix
 guangshaai.cangjie-AI
 guojun.code-keeper
 gvotch-studio.claude-code-extensions
@@ -1026,6 +1028,7 @@ we125182.vue-volar
 webctrl.live
 weiboplat.wecodergtfish1988.gtfish25-sql-formatter
 wenwj.luaforqc
+wenwj.qc-lua
 whatnick.acp-client-whatnick
 whoami730.cython-enhanced
 wli273088.vscode-pets-for-courses-demo
