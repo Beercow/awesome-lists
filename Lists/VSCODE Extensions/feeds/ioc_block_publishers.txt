@@ -154,6 +154,7 @@ JackHerry
 JacobETH
 JarodWright
 JaviGuarin
+JehanWeerasuriya
 JiHoonKim
 Jial
 Jianzhe
@@ -529,6 +530,7 @@ guangshaai
 guojun
 gvotch-studio
 gyvscode
+hakor-plugins
 hapTeam
 harrisonLin
 hatsunemikulover
@@ -542,6 +544,7 @@ hqvjet
 hsn8086
 huangshiyu
 hwrn001
+hy6
 hyoban
 hyperproof
 i18nflow
