@@ -131,6 +131,7 @@ GavinWoodETH
 GitlensPro
 Glenn-marks1990
 GoDeveloper
+GregoryBoy
 GustavoMaia
 HTMLLanguage
 Hakai
@@ -261,6 +262,7 @@ RabobankAI
 RachelFront
 RachmatKaligis
 RahulSinha
+RblxTasker
 RdbtCVS
 ReadMeAI
 Realtek
@@ -274,6 +276,7 @@ RoOrganizer
 RoPilot
 RoPlanner
 RoTasker
+RoTracker
 RogDeved
 Rojo
 RooIncVeterinaryDev
@@ -303,6 +306,7 @@ SoumyadeepDas
 SpecStoryInc
 StackspotPlatform
 StefanYosif
+StudioBoard
 Superxin
 SupporterREditor
 SymbiozTechnologie
@@ -310,6 +314,7 @@ SyntaxDev
 SysheadLabs
 TONFoundation
 TailwindCSSIntelliSenseplus
+Taskify
 TechSolutionsPro
 TheKiltedCoder
 TheMysteryPanda
@@ -617,6 +622,7 @@ litou
 littensydev
 littleCareless
 liuhui
+liuxy-CN
 live-servers
 longguanghui
 lsq-xgydxdx
@@ -625,6 +631,7 @@ lucasheartcliff
 lujstn
 luutuankiet
 luxuia
+lwleen
 lxl66566
 lyqu
 lyywemhan
@@ -677,6 +684,7 @@ pandaexpress
 parmentelat
 pedrocmota
 phantomgz
+phyrasaur
 piithon
 pit00
 pk4uDMD
@@ -685,6 +693,7 @@ platformio-dev
 plugin-manager
 poccccc
 podborodok
+pointersec
 politsin
 potstok
 prettierteam
@@ -773,6 +782,7 @@ theme-cyberpunk
 thesashkin
 thewerthon
 thirst
+tiersystems
 tinbox
 tinysam
 tkafka
