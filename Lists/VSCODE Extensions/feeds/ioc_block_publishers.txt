@@ -34,6 +34,8 @@ Always-Victorious
 AmsTaFFix
 AndreiMoraru
 AngelSalazar-dev
+AppCreationLLP
+AppCreationPLC
 AppHelix
 ArcanicAI
 ArchMedia
@@ -133,6 +135,7 @@ Glenn-marks1990
 GoDeveloper
 GregoryBoy
 GustavoMaia
+Guyutongxue
 HTMLLanguage
 Hakai
 HanazakiShiki
@@ -315,6 +318,7 @@ SyntaxDev
 SysheadLabs
 TONFoundation
 TailwindCSSIntelliSenseplus
+TaskRblx
 Taskify
 TechSolutionsPro
 TheKiltedCoder
@@ -764,6 +768,7 @@ ss13
 sseveur
 stan-stani
 stark
+state-diagram-yass-kpit
 sthudy
 stratomercata
 streamax
