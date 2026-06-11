@@ -34,6 +34,7 @@ Always-Victorious
 AmsTaFFix
 AndreiMoraru
 AngelSalazar-dev
+AnilAlapati
 AppCreationLLP
 AppCreationPLC
 AppHelix
@@ -44,6 +45,7 @@ AshleyHornja
 AtroxEGO
 AutoMind
 Autolexia
+Aveva-Technology
 AzelSync
 Azir-11
 BITS2500
@@ -57,6 +59,7 @@ BlockchainWEB3
 BloxTasker
 Brett-Wilson
 ByteBarn
+CCD-Studios
 CJL
 COMP
 CSF-RED
@@ -190,6 +193,7 @@ Knotron
 Kochan
 KomaKamaki
 KrishnaChirravuri
+KronaSecurity
 Ktoon
 KuCai
 LWilhelmer
@@ -223,8 +227,10 @@ MisterAAR
 MohammadWaliduddin
 MominRaza
 Moushu
+MrMainframe
 MultiCortexDevCore202
 Murilo
+NEVSTOP-LAB
 NFoundation
 NPC1
 Naki
@@ -357,6 +363,7 @@ Wundero
 XLRIT
 XYIAN
 YasenDimitrov
+YiEvan
 YogevAvitan
 YuTengjing
 ZAMBAR
@@ -378,6 +385,7 @@ alberto-pilotto
 alexevanczuk
 algovscode
 alien-fish-person
+alinma
 alpgul
 altynbek132
 amkig
@@ -431,11 +439,13 @@ clawdbot
 clclw
 clicli100
 cline-ai-main
+cmd-studio
 cn00
 cobot100
 codelogix
 codeomnitrix
 codevsce
+codivus
 cognivision
 complete
 congyang
@@ -475,6 +485,7 @@ dfadhel
 diamond
 diegofernandezpandiello
 dingdao-opensource
+diola
 discord-inc
 dloux
 dontdownloadthis
@@ -547,6 +558,7 @@ hoOJluGun
 hqvjet
 hsn8086
 huangshiyu
+hunterdurbin
 hwrn001
 hy6
 hyoban
@@ -727,6 +739,7 @@ rgeraskin
 rizort
 robna
 rubiin
+rwbcy
 ryanolsonx
 sachinsmc
 sadan
@@ -760,6 +773,7 @@ snrico-moonlight
 soIidity
 solario
 solblanco
+solderspark
 songyanglin
 soongfs
 soshnikov
@@ -773,6 +787,7 @@ sthudy
 stratomercata
 streamax
 stunning-yunwu
+sun-xm
 sunamo-cz
 sunsetHightlight
 suspublisher18
@@ -816,6 +831,7 @@ verreauxblack
 vialenliyu
 vibe-xyz
 vims-vsce
+visomaGmbH
 vitalik-Buterin
 vix
 vjoker
