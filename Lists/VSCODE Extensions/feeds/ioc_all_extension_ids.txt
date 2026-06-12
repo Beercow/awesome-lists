@@ -54,12 +54,14 @@ Anujlabsv2.sound-on-error-v2
 Anujlabsv2.sound-on-file-event-v2
 AppCreationLLP.boardwalkapp
 AppCreationPLC.boardwalk
+AppCreationsPLC.boardwalkdevapp
 AppHelix.apphelix-blog-search
 ArcanicAI.cono
 ArchMedia.sp-isc-devtools
 ArthurNeuman.eslint-disable-typescript-snippets
 AshleyHornja.prettierformattingplus
 AtroxEGO.better-folding-plus
+Aussie.FastTask
 AutoMind.automindX
 Autolexia.testwise
 Aveva-Technology.forge-bridge
@@ -73,6 +75,7 @@ BeyondR34CH.theme-br-monokai
 BigBlack.bitcoin-black
 BigBlack.codo-ai
 BigBlack.mrbigblacktheme
+Blamely.blamely
 BlockchainIndustries.bitcoin-toolkit
 BlockchainIndustries.blockchain-toolkit
 BlockchainIndustries.hardhat-toolkit
@@ -228,6 +231,7 @@ JackHerry.gitlens-turbocharged
 JackHerry.neon-night-theme-ai
 JackHerry.prettier-advanced-ai
 JacobETH.solidi
+JahidLimon.php-namespace-resolver-plus
 JarodWright.strict-paredit-fennel
 JaviGuarin.prompt-registry-ado-beta
 JehanWeerasuriya.vscode-nestjs-snippets-backend-development
@@ -443,9 +447,11 @@ SchlafferBenjamin.tridev-development-hub
 SecretTea.project-tea
 SenkoTheKitsune.nomo-dark-extended
 SeoDoktoru.minimax-god-mode
+SerbByteDevelopment.gpt-code-generator
 SereneStudios.Steam-Classic-Theme
 Sewara.copy-fences-lang
 ShayanAhmedKhan.visual-studio-themes
+ShopifySTORES.liquidpeptide
 ShowSnowcrypto.SnowShoNo
 Shunqian.prettier-plus
 Shuzzy.dracula-shuzzyos
@@ -636,6 +642,7 @@ avisharma.faaa
 ax60.electricblackfelixdivallportvs2022
 azure-dev.azure-cli-helper
 b-shan.jsonyamlkeynavigator
+barakolshe.forq
 bazantici.dapsy
 bazantici.suse-valey-styleguide
 bbznop.open-in-external-app-pro
@@ -978,6 +985,7 @@ kova-lang.kova-material-iconse
 krabt.krabt-extension-pack
 krabt.krabt-proto
 ktav-lang.ktav
+kudsu.sober-ssh
 kvoon.kvim
 kvoon.publish-test
 kvoon.vscode-vim-config
@@ -1001,6 +1009,7 @@ littensydev.charmed-icons-pro
 littleCareless.dish-base-development-extensions-pack
 littleCareless.svn-scm-ai
 liuhui.shadow-reader-pro
+liumeng1201.android-helper
 liuxy-CN.preview-everything
 live-servers.LiveeServer
 lone17.lone-vscode-pets
@@ -1017,6 +1026,7 @@ lwleen.vs-blue-theme
 lxl66566.vim-lxl66566
 lyqu.rest-client-fork
 lyywemhan.code-formatter-and-minifier-vscode
+madmansidea.sidetrack-music
 mahdihajian.angular-files-creator
 mahdihajian.vscode-pull-request-azure-devops
 mahdihajian.vscode-shelf
@@ -1198,6 +1208,7 @@ shellingye.xsj-emmylua
 shenlin.i18n-ally-shenlin
 shinganEuler.codex-profile-switcher
 shoaibkorai.faaah
+shogo-ai.shogo-vscode
 siehc.vscode-proto3-rebirth
 siffat-ahmed.ai-autocomplete-siffat-ahmed
 simplerjiang.oai-compatible-copilot-kong
@@ -1207,6 +1218,7 @@ slashmarkdev.env-file-manager-by-slashmark
 smarty1337.nixware-snippets
 smhc.agent-plugins-installer
 smnatale.tokyodark
+smooth-soft.assessme-flow
 sneakyloris.team-pulse
 snrico-moonlight.gruvbox-material-community
 soIidity.cryptoovertheweekend4
@@ -1268,6 +1280,8 @@ tria-technologies.simpleswitch-vscode
 tria-technologies.simpleswitch-vscode-tools
 tria.readonlywin
 trlanfeng.turbo-console-log
+tuanpham.tunas-graphql-explorer-pro
+tuanpham.tunas-ruby-call-flow
 tuur29.turbo-console-log
 txtx20.new-txtx
 txtx20.sunrise-greeter-demo

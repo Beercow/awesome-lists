@@ -54,6 +54,7 @@ Benachile-studio
 BenjaminFriedl
 BeyondR34CH
 BigBlack
+Blamely
 BlockchainIndustries
 BlockchainWEB3
 BloxTasker
@@ -158,6 +159,7 @@ ItalangMong
 Itchino
 JackHerry
 JacobETH
+JahidLimon
 JarodWright
 JaviGuarin
 JehanWeerasuriya
@@ -302,6 +304,7 @@ SenkoTheKitsune
 SeoDoktoru
 SereneStudios
 Sewara
+ShopifySTORES
 ShowSnowcrypto
 Shunqian
 Shuzzy
@@ -404,6 +407,7 @@ automatedlogic
 avenableivytech
 ax60
 b-shan
+barakolshe
 bazantici
 bbznop
 beisen
@@ -625,6 +629,7 @@ kingace2056
 kodawari
 kova-lang
 krabt
+kudsu
 kvoon
 kwitch-studio
 labfile
@@ -641,6 +646,7 @@ litou
 littensydev
 littleCareless
 liuhui
+liumeng1201
 liuxy-CN
 live-servers
 longguanghui
@@ -654,6 +660,7 @@ lwleen
 lxl66566
 lyqu
 lyywemhan
+madmansidea
 mahdihajian
 manageblox
 mark9804
@@ -768,6 +775,7 @@ simplerjiang
 smarty1337
 smhc
 smnatale
+smooth-soft
 sneakyloris
 snrico-moonlight
 soIidity
