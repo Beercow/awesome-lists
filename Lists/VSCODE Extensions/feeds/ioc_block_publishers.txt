@@ -89,6 +89,7 @@ DaveWeb3
 DavidAsh
 DevCatppuccinpro
 DevCrew
+DevMatrix
 Dhakshinesh
 DiegoPandiello
 DigitalJSMTUGroup
@@ -221,6 +222,7 @@ MarkWood
 MarketingThibs
 Marvello
 MasterByte
+MaximeKjaer
 Med-H
 MediaLLC
 MichaelBanucu
@@ -266,6 +268,7 @@ Prisma-Inc
 PriyanshuMallick
 ProjectStarboy
 Puglight
+Quantam
 QuantumCodeLabs
 RPinkau
 RYNBD
@@ -396,6 +399,7 @@ annacode
 anovagroups
 ant5888
 anwar
+appcreationsplc
 apzcode
 areynard
 atom8n
@@ -672,6 +676,7 @@ me80758262
 meetrice
 meow-d
 mercerllc
+mg-lab
 mikeljl
 minlabs
 mishannn
@@ -700,6 +705,7 @@ octohash
 okg21
 onreal-Elysia886
 orca
+ost-fh
 otimiza
 outthaway
 ovixcodes
@@ -785,6 +791,7 @@ solderspark
 songyanglin
 soongfs
 soshnikov
+spinback
 sqlmtxredev
 ss13
 sseveur
@@ -799,6 +806,7 @@ sun-xm
 sunamo-cz
 sunsetHightlight
 suspublisher18
+suyb
 svltsweet
 t1mt
 tabnine-dev
@@ -856,6 +864,7 @@ wanxiong
 we125182
 webctrl
 weiboplat
+weimh
 wenwj
 whatnick
 whoami730
@@ -879,6 +888,7 @@ xwildeyes
 xxnuo
 yamlcode
 yanfeixin
+yasbougacha
 yelmuratoff
 yfdyh000
 ygqygq2

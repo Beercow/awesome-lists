@@ -103,6 +103,7 @@ DavidAsh.gruvbox-vs
 DavidAsh.tr-lang-pack
 DevCatppuccinpro.catppuccin-pro-vsc
 DevCrew.devc-python-toolkit
+DevMatrix.devmatrix
 Dhakshinesh.sfdx-package-xml-generator-by-dk
 DiegoPandiello.aws-srp-rest-client
 DiegoPandiello.elixir-ls-test-args
@@ -268,6 +269,7 @@ MarkWood.nonmalicious2
 MarketingThibs.ampscriptsnippets
 Marvello.js-beautify-wrapper
 MasterByte.masterb-argo-kubernetes-utils
+MaximeKjaer.scala
 Med-H.git-graph-revamped
 MediaLLC.solidyy
 MichaelBanucu.vscode-mocha-test-adapter-update-to-nodejs-22
@@ -335,6 +337,7 @@ Puglight.realmvvscode
 Puglight.shadowcore
 Puglight.sysmotivate
 Puglight.vulnerabilitto
+Quantam.quantam
 QuantumCodeLabs.ai-code-explainer
 QuantumCodeLabs.ai-doc-generator
 QuantumCodeLabs.ai-test-generator
@@ -385,6 +388,7 @@ SenkoTheKitsune.nomo-dark-extended
 SeoDoktoru.minimax-god-mode
 SereneStudios.Steam-Classic-Theme
 Sewara.copy-fences-lang
+ShopifySTORES.builderliquid
 ShopifySTORES.liquidpeptide
 ShowSnowcrypto.SnowShoNo
 Shunqian.prettier-plus
@@ -501,6 +505,7 @@ annacode.pt-lab-simproc
 anovagroups.sas-data-explorer
 ant5888.opencode-vscode-cn
 anwar.papyrus-pdf
+appcreationsplc.boardwalkdev
 apzcode.apzcode-ai
 areynard.iceberg-theme-code-visible
 atom8n.kanban-atom8n
@@ -812,6 +817,7 @@ kova-lang.kova-material-iconse
 krabt.krabt-extension-pack
 krabt.krabt-proto
 kudsu.sober-ssh
+kudsu.soberssh
 kvoon.kvim
 kvoon.publish-test
 kvoon.vscode-vim-config
@@ -861,6 +867,7 @@ me80758262.piiithon-linter
 meetrice.mysql-blade
 meow-d.markless-meowd
 mercerllc.mercer-onboarding-helper
+mg-lab.mb-lab
 mikeljl.continue-ljl-fork
 minlabs.quiet-code
 mishannn.custom-turbo-console-log
@@ -890,6 +897,7 @@ octohash.powermode-plus
 okg21.bigquery-explorer
 onreal-Elysia886.elysia-todo-tree
 orca.vscode-armlite
+ost-fh.micropython-for-arduino
 otimiza.local-agent-screen-viewer
 outthaway.sol2-lang
 ovixcodes.basedpyright-vscode
@@ -1006,6 +1014,7 @@ solderspark.spark-code
 songyanglin.vscode-office-plus
 soongfs.gruvbox-material-continued
 soshnikov.http-proxy-toggle-soshnikov
+spinback.spinback
 sqlmtxredev.quarto-pro
 ss13.auto-comment-blocks-dm
 sseveur.vscode-bigquery-v2
@@ -1022,6 +1031,7 @@ sun-xm.quick-action
 sunamo-cz.specstory-autosave
 sunsetHightlight.sunset-highlight
 suspublisher18.susvsex
+suyb.v-sci-roo
 svltsweet.Svetle-for-Cursor
 t1mt.vsc-go-imports-sorter
 tabnine-dev.tabnine-pro
@@ -1084,6 +1094,7 @@ wanxiong.thief-book-pro-plus
 we125182.vue-volar
 webctrl.live
 weiboplat.wecodergtfish1988.gtfish25-sql-formatter
+weimh.opencode-conn
 wenwj.luaforqc
 wenwj.qc-lua
 whatnick.acp-client-whatnick
@@ -1111,6 +1122,10 @@ xwildeyes.vercel-vscode-by-xwildeyes
 xxnuo.mtrancode
 yamlcode.yaml-vscode-extension
 yanfeixin.king-trae-icon
+yasbougacha.state-diagram-editor-yassinebou
+yasbougacha.state-diagram-editor-yassinebouga
+yasbougacha.state-diagram-editor-yassinebougacha1
+yasbougacha.state-diagram-editor-yassinebouu
 yelmuratoff.dart-data-class-tools-dev
 yfdyh000.aar-vsc-test
 yfdyh000.aar-vscode
