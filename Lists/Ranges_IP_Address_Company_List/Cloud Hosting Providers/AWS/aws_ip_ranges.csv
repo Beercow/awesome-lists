@@ -7720,6 +7720,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 52.94.250.144/28,ap-southeast-6,EC2,ap-southeast-6
 52.95.255.96/28,us-west-1,EC2,us-west-1
 56.70.0.0/16,ap-southeast-5,EC2,ap-southeast-5
+89.60.0.0/15,eu-south-2,EC2,eu-south-2
 99.77.249.0/24,eu-west-2,EC2,eu-west-2
 99.150.88.0/21,ap-east-1,EC2,ap-east-1
 173.83.228.0/22,us-east-2,EC2,us-east-2
