@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-06-14T23:39:15+00:00",
-  "total_records": 1477,
-  "total_malicious": 1405,
+  "generated_utc": "2026-06-15T05:30:33+00:00",
+  "total_records": 1505,
+  "total_malicious": 1433,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 389,
-    "high": 781,
+    "critical": 392,
+    "high": 805,
     "low": 22,
-    "medium": 285
+    "medium": 286
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 762,
+    "impersonation": 786,
     "impersonation-malware": 5,
-    "malware": 389,
+    "malware": 392,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -34,22 +34,22 @@
     "spam": 71,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 139
+    "untrustworthy": 140
   },
   "malicious_category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 762,
+    "impersonation": 786,
     "impersonation-malware": 5,
-    "malware": 389,
+    "malware": 392,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
     "spam": 71,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 139
+    "untrustworthy": 140
   },
   "risky_category_counts": {
     "risky-ai-code-access": 9,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1115,
+  "total_publishers": 1126,
   "top_publishers": [
     [
       "gtfish1988",
@@ -78,6 +78,10 @@
     [
       "gh555com",
       19
+    ],
+    [
+      "LinJun",
+      18
     ],
     [
       "pit00",
@@ -161,10 +165,6 @@
     ],
     [
       "DevelopmentInc",
-      5
-    ],
-    [
-      "ms-azuretools",
       5
     ]
   ]
