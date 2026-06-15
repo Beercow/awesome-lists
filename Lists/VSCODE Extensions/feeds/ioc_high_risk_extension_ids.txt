@@ -182,6 +182,7 @@ HarshChitaliya.harshchitaliya-ai-study-companion
 HarshChitaliya.harshchitaliya-wds-blog-search
 HawnyJawny.LuauConnect
 HonzaPudil.vscode-theme-onedarker-custom
+Horizon-Projects.Horizon-Collaboration-Tracker
 IamTheKaaZZ.valgrind-debug
 Iconkieftwo.icon-theme-materiall
 Ilham-ahmedow.sftp20
@@ -344,6 +345,7 @@ ParthRaninga.cursor-smart-rules-demo
 ParwatKunwar.codesandbox-parwat-theme
 PeterC.i18n-ally-fork-peter
 PhungXuanAnh.auto-run-command-with-condition
+PixelLabs.boardflow
 Price.automatic-printing-codem
 Price.automatic-recording-code
 Price.code-documentation-utilities
@@ -896,6 +898,7 @@ meetrice.mysql-blade
 meow-d.markless-meowd
 mercerllc.mercer-onboarding-helper
 mg-lab.mb-lab
+mglab.mglab
 mikeljl.continue-ljl-fork
 minlabs.quiet-code
 mishannn.custom-turbo-console-log
