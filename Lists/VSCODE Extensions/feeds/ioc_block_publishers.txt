@@ -17,6 +17,7 @@ ALT5
 AMAARETS
 ANZ-BANK
 ASUS-AICS
+Abhilash001
 Acronix-dev
 AdamFortune
 AhmedCrypto
@@ -384,6 +385,7 @@ XLRIT
 XYIAN
 YasenDimitrov
 YiEvan
+YicoFighting
 YogevAvitan
 YuTengjing
 ZAMBAR
@@ -394,6 +396,7 @@ Zoosewu
 ab-498
 abczyx2006
 abstractalgo
+adwaitkeshari
 agent
 agility6
 agtest
@@ -415,7 +418,9 @@ ant5888
 anwar
 appcreationsplc
 apzcode
+arclens
 areynard
+atman-dev
 atom8n
 auguwu
 aurogon-as
@@ -534,6 +539,7 @@ ethanielliu
 ethcompiler
 ethers
 evaera-rbx
+ext-lab
 fab1can
 fadizant
 fanrj
@@ -558,6 +564,7 @@ gglin001-vscode
 gh555
 ghlandy
 gisonyeung
+git-ai-cli
 gitkraken-dev
 godot42
 grovejt
@@ -645,6 +652,7 @@ keyang
 kide
 kindly-robotics
 kingace2056
+kiracode
 kodawari
 kova-lang
 krabt
@@ -696,6 +704,7 @@ mglab
 mikeljl
 minlabs
 mishannn
+mkd-corp
 mlhiter
 momomomowei
 mrchen
@@ -811,6 +820,7 @@ solderspark
 songyanglin
 soongfs
 soshnikov
+sparrowcodes
 spinback
 sqlmtxredev
 ss13
