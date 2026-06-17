@@ -6,6 +6,7 @@
 11011.markdown-shortcuts-like-obsidian-ob
 11011.ubuntutheme11011
 318182456.legado-reader3-vscode
+360-Geelib-Copilot-Code.geelibcopilotcode
 498-00.cppformat
 498-00.cppplayground
 498-00.pythonformat
@@ -27,6 +28,7 @@ ALT5.sqflint-cn-revised
 AMAARETS.hebrew-ui-translation-amaarets
 ANZ-BANK.vscode-sysl
 ASUS-AICS.aics-copilot
+ASUS-AICS.xhis-copilot
 Abhilash001.t-ex
 Acronix-dev.Go-work-tools
 AdamFortune.ezsqlite
@@ -107,11 +109,13 @@ ClockZinc.vscode-copilot-chat-cn
 CloudianApp.CloudianCompanion-56d02aa8da72
 CodeSecureDev.dependency-scan
 Cognitrace3.cognitrace3
+CompassLLMCode.autosail
 Crypto-Extensions.SnowShsoNo
 CryptoCurrencyExtensions.blehai
 CryptoFoundation.BlehBleh
 CryptoPublisher.aidebut
 Cryptocurrency.asbaquin
+CursorFree.cursor-free
 DATEx2.vscode-gutter-preview-by-datex2l
 DaMaoCloud.damao-aie
 Damilola.azure-devops-pipelines
@@ -184,6 +188,7 @@ FRONT-END-AI.front-end-ai
 FaceCrypto.chocolatesnack
 FlowIndex.flowindex-cadence
 FlyingsMarmot.vscode-clangd-ucpp
+Forms.gitlab-workflow-kontur
 FrancescoOrtu.slurm-dashboard-orfeo
 FrancoisLe.cmake-tools-with-post-configure-task
 Frankie.vscodium-change-case
@@ -240,6 +245,7 @@ JackHerry.dark-ai
 JackHerry.gitlens-turbocharged
 JackHerry.neon-night-theme-ai
 JackHerry.prettier-advanced-ai
+JacksonChen.apifox-helper-vs
 JacobETH.solidi
 JahidLimon.php-namespace-resolver-plus
 JarodWright.strict-paredit-fennel
@@ -589,6 +595,7 @@ VibeKanban.vibe-kanban-vscode
 VibeRaven.viberaven-station
 Vikang.acnh-vscode-theme
 Vikang.vscode-acnh-icon-theme
+Vistagi.vista-code-agent
 VisualStudioCodeStaffTeam.mannequin2
 VisualStudioOnlineApplicationInsights.application-insights
 VitalikB.solidit-lang
@@ -603,6 +610,7 @@ WEB3Foundation.cxzczxcxz
 WavesMan.tree-generator-defined
 WhenSunset.chatgpt-china
 WillZhang.dracula-variants
+Worklink-Copilot.worklinkcopilot
 WuZhiguo.callviz
 Wumpus.bold-end
 Wundero.wundero-package-json-upgrade
@@ -815,6 +823,7 @@ dingdao-opensource.pwa-kit-studio
 diola.vscode-agent-tour
 discord-inc.discord-rich-presence-rpc
 dloux.i18n-ally-skip-duplicate
+doctorliang-continue.local-continue
 dontdownloadthis.dontdownloadthis
 dopbop-studio.vscode-tailwindcss-extension-toolkit
 dorry.smart-json
@@ -846,6 +855,7 @@ ethanielliu.audit-helper
 ethcompiler.among-eth
 ethers.ethersfoundry
 evaera-rbx.vscode-rojo-rbx
+ext-lab.ftp-supports
 ext-lab.git-history-plus
 fab1can.docker-compose-fixed
 fadizant.terminal-commands-2026
@@ -935,6 +945,7 @@ hajoo.poisoned-extension
 hakor-plugins.modux-tooling
 hakor-plugins.tabletype
 hakor-plugins.tsmap-vscode
+hanan.hanan-code
 hapTeam.hap-eslint
 harrisonLin.fcbox-ai-code
 haseeb-raza.terminal-faah
@@ -1022,6 +1033,7 @@ kast789.visual-studio-2022-theme
 kast789.vs-2019-theme
 kazi08.mcp-audit-pii-guard
 kd100100.kd100100-cline
+keeptrack.keeptrack-notes-manager
 keindl29.opencodegui-kei
 kevin12314.svn-scm-ai-next
 keyang.vscode-leetcode-enhanced
@@ -1150,6 +1162,7 @@ ost-fh.micropython-for-arduino
 otimiza.local-agent-screen-viewer
 outthaway.sol2-lang
 ovixcodes.basedpyright-vscode
+ovolab-veritas.codesnap-neo
 owenrossikeen.script-buttons-extended
 ozz3dev.bitcoin-auto-trading
 pablaofficeal.taskmanager-vscode
@@ -1224,6 +1237,7 @@ remimarsal.prettier-now
 reorx.github-abs-vscode-theme
 rfkhusnutdinov.pug-ecsstractor
 rg-ImTheDragonFly.ori-sucks
+rgcode.rgcode
 rgeraskin.vscode-commitizen-rg
 rizort.laravel-pack-109
 rizort.phpstorm-light-theme-109
@@ -1270,6 +1284,7 @@ shellingye.jx3-emmylua
 shellingye.xsj-emmylua
 shenlin.i18n-ally-shenlin
 shinganEuler.codex-profile-switcher
+shinganEuler.vscode-unity-debug
 shoaibkorai.faaah
 shogo-ai.shogo-vscode
 siehc.vscode-proto3-rebirth
@@ -1391,6 +1406,7 @@ walteh.protolsp
 wanxiong.thief-book-pro-plus
 we125182.vue-volar
 webctrl.live
+weiboplat.wecoder
 weiboplat.wecodergtfish1988.gtfish25-sql-formatter
 weimh.opencode-conn
 wenox.wenox
@@ -1398,6 +1414,7 @@ wenwj.luaforqc
 wenwj.qc-lua
 whatnick.acp-client-whatnick
 whoami730.cython-enhanced
+windy.windy-minecraft-debugger
 wli273088.vscode-pets-for-courses-demo
 wlnxingdev.free-senltig
 wtklbm.code-debuger-fork
