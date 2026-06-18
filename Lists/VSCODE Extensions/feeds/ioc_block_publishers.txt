@@ -213,6 +213,7 @@ KrishnaChirravuri
 KronaSecurity
 Ktoon
 KuCai
+LBGroup
 LWilhelmer
 LaineHallot
 LangNico
@@ -399,6 +400,7 @@ ZAMBAR
 ZaqueuRodrigues
 Zeron1337
 ZhangQuan
+Zlmiles
 Zoosewu
 ab-498
 abczyx2006
@@ -483,6 +485,7 @@ codivus
 cognivision
 complete
 congyang
+consistem-sistemas
 contextia
 continueautocommand
 copilot-multi-provider
@@ -708,6 +711,7 @@ me80758262
 meetrice
 meow-d
 mercerllc
+metagogo
 mg-lab
 mglab
 mikeljl
@@ -945,6 +949,7 @@ zhoulufeng
 zhucan
 zigbook
 zijinshanren
+zjt
 zouguowei
 zqchen
 zstings
