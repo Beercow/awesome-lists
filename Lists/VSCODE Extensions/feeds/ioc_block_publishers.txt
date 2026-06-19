@@ -86,6 +86,7 @@ CryptoFoundation
 CryptoPublisher
 Cryptocurrency
 CursorFree
+CyrusRune
 DATEx2
 DaMaoCloud
 Damilola
@@ -140,6 +141,7 @@ FrancescoOrtu
 FrancoisLe
 Frankie
 FreeIdom
+GB0099
 GPTOnce
 GSZN
 GavinLWood
@@ -362,6 +364,7 @@ Tone
 Trent-Tompkins
 TrueCrimeDev
 Trustworthy
+TuyaOpen
 Utilities
 VKTeam
 VSAnalysistest
@@ -448,6 +451,7 @@ benkeen
 benpzhao
 better-sollidity
 betterthanalltime
+bismarkvargas
 bl-vc-java
 blackforest
 blaz
@@ -766,6 +770,7 @@ platformio-dev
 plugin-manager
 poccccc
 podborodok
+pogacic
 pointersec
 politsin
 potstok

@@ -116,6 +116,7 @@ CryptoFoundation.BlehBleh
 CryptoPublisher.aidebut
 Cryptocurrency.asbaquin
 CursorFree.cursor-free
+CyrusRune.codearts-cli-launcher
 DATEx2.vscode-gutter-preview-by-datex2l
 DaMaoCloud.damao-aie
 Damilola.azure-devops-pipelines
@@ -194,6 +195,7 @@ FrancoisLe.cmake-tools-with-post-configure-task
 Frankie.vscodium-change-case
 FreeIdom.cs-fluent-icons
 FreeIdom.cs-symbols
+GB0099.gb0099-liquid
 GCIDCAIAmericasAndAsia.A11y-Agent
 GPTOnce.codepilot-vscode
 GSZN.cangjie-ai-code
@@ -579,6 +581,7 @@ Tone.wolfram-prettier-vscode
 Trent-Tompkins.claude-codex-black-edition
 TrueCrimeDev.tableau-lsp
 Trustworthy.mevscode
+TuyaOpen.TuyaOpenIDE
 Utilities.wowlanguage
 VKTeam.com
 VSAnalysistest.clipboard-helper-vscode
@@ -712,6 +715,7 @@ benkeen.pnpm-catalog-lens-rush-fork
 benpzhao.emmylua-aoe
 better-sollidity.sollidity-plus
 betterthanalltime.calva-vscode
+bismarkvargas.bkcode
 bl-vc-java.bl-tomcat
 blackforest.blackforest-1234
 blaz.vim-with-visual-mode-fixed
@@ -862,6 +866,7 @@ ethanielliu.audit-helper
 ethcompiler.among-eth
 ethers.ethersfoundry
 evaera-rbx.vscode-rojo-rbx
+everyapi-ai.everyapi-vscode
 ext-lab.ftp-supports
 ext-lab.git-history-plus
 fab1can.docker-compose-fixed
@@ -1226,6 +1231,7 @@ platformio-dev.platform-io
 plugin-manager.vscode-notes-manager
 poccccc.Download-Openal32dll-File-For-Dirt-2-Crack-kadiysy
 podborodok.dbtoolsforpythonv2
+pogacic.vscode-proto3-upkeep
 pointersec.vsix
 politsin.cline-pached
 potstok.dotnet-runtime-extension
