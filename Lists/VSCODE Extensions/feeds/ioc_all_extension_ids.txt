@@ -1,5 +1,6 @@
 06a678fb-6fc1-623d-88d6-77ab9a4932cc.open-vs-embedded-browser
 0miles.vscode-git-graph-alter
+0x7a69.whhid
 0xS1rx58D3V.ChatGPT-B0T
 11011.blenderPluginDevTool11011
 11011.markdown-shortcuts-like-obsidian-merge
@@ -819,6 +820,7 @@ devCharles5277.primevue-helper-zh-tw
 devSparkle.luau-lsp-overtur
 devcodaro.codaro-pro
 devcoreAi-Coding-Agent.devcoreai-agent
+devnazir.gosh-interpreter
 devokai.codesleep
 devokaicode.codesleepai
 devokaicode.cosave
@@ -1175,6 +1177,7 @@ openbase.openbase-vscode
 orca.vscode-armlite
 ost-fh.micropython-for-arduino
 otimiza.local-agent-screen-viewer
+outstand.outstand-elixir-ls
 outthaway.sol2-lang
 ovixcodes.basedpyright-vscode
 ovolab-veritas.codesnap-neo
@@ -1249,6 +1252,7 @@ profezzional.package-json-upgrade-fork
 przybylski.cursor-harpoon
 publishingsofficial.prettier-plus-vscode
 publishingsofficial.prettier-vscode-plus
+pvjagtap.arxml-workbench
 pvparuchuri.sas
 pythoner.Black-Molokai-Theme
 qianzijiao.continue-with-code-swift
@@ -1393,6 +1397,7 @@ tmp-primes.wtinymist
 tohuw.focus-lines
 toilamanh.claude-usage-pilot-v2
 toommyliu.cursor-dark-no-italicse
+touchlab.touchlab-vscode-office
 trandaison.trandaison-git-file-history
 tria-technologies.simpleswitch-vscode
 tria-technologies.simpleswitch-vscode-tools

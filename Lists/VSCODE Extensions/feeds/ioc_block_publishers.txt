@@ -519,6 +519,7 @@ devCharles5277
 devSparkle
 devcodaro
 devcoreAi-Coding-Agent
+devnazir
 devokai
 devokaicode
 devolutionsinc
@@ -752,6 +753,7 @@ onreal-Elysia886
 orca
 ost-fh
 otimiza
+outstand
 outthaway
 ovixcodes
 ovolab-veritas
@@ -781,6 +783,7 @@ probes-team
 profezzional
 przybylski
 publishingsofficial
+pvjagtap
 pvparuchuri
 pythoner
 qianzijiao
@@ -880,6 +883,7 @@ tkafka
 tmp-primes
 tohuw
 toommyliu
+touchlab
 trandaison
 tria
 tria-technologies
