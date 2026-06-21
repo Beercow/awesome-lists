@@ -925,6 +925,7 @@ mahdihajian.vscode-pull-request-azure-devops
 mahdihajian.vscode-shelf
 manageblox.manageblox
 mark9804.zotero-latex-cite
+markdown-office-viewer.markdown-office-viewer-pro
 marketplacer.marketplacer
 marpo.gruvbox-material-marpo
 marvin63597.claude-dd

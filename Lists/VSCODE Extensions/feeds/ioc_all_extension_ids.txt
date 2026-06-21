@@ -560,6 +560,7 @@ Superxin.ctagsc
 SupporterREditor.r-vscode
 SymbiozTechnologie.mia-assistant
 SyntaxDev.New-Christmas-Theme
+Synthetixfordebug.synthetix-debugger
 SysheadLabs.kubernetes-safe-apply
 TONCoreLabs.func-syntax-tool
 TONFoundation.func-language
@@ -1116,6 +1117,7 @@ mahdihajian.vscode-shelf
 manageblox.manageblox
 mariovalney.wordpress-readme-to-markdown
 mark9804.zotero-latex-cite
+markdown-office-viewer.markdown-office-viewer-pro
 marketplacer.marketplacer
 marpo.gruvbox-material-marpo
 marvin63597.claude-dd
@@ -1462,6 +1464,7 @@ wumo1016.vue-legacy-extension-1
 wuyifeng.ai-svn-scm
 wuyifeng.vscode-database-client
 wym.demo-wym001
+xhastudio.SynthetixMyanmar
 xiaolvpuzi.vim-smart-input-pro
 xiaym-gh.background-cover-simplified
 xicunyang.ts-space-prompt
