@@ -315,6 +315,7 @@ RoPilot
 RoPlanner
 RoTasker
 RoTracker
+RoamAI
 RogDeved
 Roger-Han
 Rojo
@@ -737,6 +738,7 @@ namhhitvn
 nanmu
 naveenkunder
 newsporcolec
+ng-jk
 nicovy
 nikitakolesnikov
 nilaykd
@@ -801,6 +803,7 @@ reorx
 rfkhusnutdinov
 rgcode
 rgeraskin
+richardgubangxa
 rizort
 robna
 rubiin
