@@ -531,7 +531,6 @@ dest_ip,dest_port,dest_country,metadata_file
 47.243.181.85,55013,Taiwan,https.txt
 47.243.181.85,41716,United States,https.txt
 47.243.181.85,55015,Taiwan,https.txt
-47.243.181.85,41798,Brazil,https.txt
 128.84.46.176,443,United States,https.txt
 47.243.181.85,55001,Taiwan,https.txt
 47.243.181.85,41311,Taiwan,https.txt
@@ -756,7 +755,6 @@ dest_ip,dest_port,dest_country,metadata_file
 34.47.173.196,443,India,https.txt
 37.203.35.5,443,Latvia,https.txt
 64.176.42.56,8444,Japan,https.txt
-47.243.181.85,41303,Taiwan,https.txt
 47.243.181.85,41419,Japan,https.txt
 47.243.181.85,55002,Taiwan,https.txt
 13.48.13.125,551,Denmark,https.txt
@@ -891,7 +889,6 @@ dest_ip,dest_port,dest_country,metadata_file
 206.188.212.3,8447,United States,https.txt
 47.243.181.85,41487,Hong Kong,https.txt
 195.182.74.92,42443,Lithuania,https.txt
-47.243.181.85,41692,United States,https.txt
 47.243.181.85,41799,Brazil,https.txt
 47.243.181.85,55006,Taiwan,https.txt
 13.114.169.120,443,Japan,https.txt
@@ -920,7 +917,6 @@ dest_ip,dest_port,dest_country,metadata_file
 205.178.144.150,8447,United States,https.txt
 3.255.243.218,443,Ireland,https.txt
 54.215.41.74,28768,The Netherlands,https.txt
-3.137.86.220,443,United States,https.txt
 103.70.115.234,8443,Vietnam,https.txt
 13.75.44.184,8443,Hong Kong,https.txt
 45.76.75.193,7443,United States,https.txt
@@ -1275,11 +1271,9 @@ dest_ip,dest_port,dest_country,metadata_file
 159.54.148.142,1080,Mexico,socks5.txt
 160.22.17.4,9988,Vietnam,socks5.txt
 206.123.156.220,4759,Bulgaria,socks5.txt
-206.123.156.238,7707,India,socks5.txt
 89.22.226.129,1080,Sweden,socks5.txt
 206.123.156.223,5455,South Africa,socks5.txt
 220.158.232.118,1080,Cambodia,socks5.txt
-91.98.161.17,1080,Albania,socks5.txt
 185.103.103.140,1080,Russia,socks5.txt
 220.158.234.84,1080,Cambodia,socks5.txt
 141.148.158.143,1080,United States,socks5.txt
@@ -1311,7 +1305,6 @@ dest_ip,dest_port,dest_country,metadata_file
 116.101.75.173,1081,Vietnam,socks5.txt
 116.101.9.20,1081,Vietnam,socks5.txt
 77.239.106.24,1080,United States,socks5.txt
-206.123.156.206,7777,Bulgaria,socks5.txt
 8.215.47.191,10080,Indonesia,socks5.txt
 206.123.156.223,8839,Canada,socks5.txt
 206.123.156.221,9975,India,socks5.txt
@@ -1338,16 +1331,11 @@ dest_ip,dest_port,dest_country,metadata_file
 206.123.156.236,11753,United States,socks5.txt
 206.123.156.235,5288,Germany,socks5.txt
 206.123.156.218,6131,India,socks5.txt
-206.123.156.220,4223,United States,socks5.txt
 206.123.156.238,4269,United States,socks5.txt
-206.123.156.234,12163,France,socks5.txt
-206.123.156.223,6936,United States,socks5.txt
 206.123.156.222,7516,India,socks5.txt
 206.123.156.223,8197,India,socks5.txt
 206.123.156.213,6209,United States,socks5.txt
 206.123.156.224,9108,United States,socks5.txt
-206.123.156.222,6928,India,socks5.txt
-206.123.156.223,6922,United States,socks5.txt
 206.123.156.222,14463,United States,socks5.txt
 206.123.156.223,6731,Japan,socks5.txt
 116.101.9.20,1056,Vietnam,socks5.txt
@@ -1357,7 +1345,6 @@ dest_ip,dest_port,dest_country,metadata_file
 206.123.156.223,6653,United States,socks5.txt
 206.123.156.233,6916,Germany,socks5.txt
 206.123.156.240,18084,India,socks5.txt
-206.123.156.243,4849,Austria,socks5.txt
 206.123.156.213,7099,India,socks5.txt
 116.101.13.80,1064,Vietnam,socks5.txt
 116.101.13.80,1089,Vietnam,socks5.txt
@@ -1366,10 +1353,8 @@ dest_ip,dest_port,dest_country,metadata_file
 103.231.57.65,5555,Hong Kong,socks5.txt
 206.123.156.210,7236,Poland,socks5.txt
 8.219.90.69,8888,Singapore,socks5.txt
-206.123.156.234,18212,France,socks5.txt
 116.101.13.80,1076,Vietnam,socks5.txt
 206.123.156.233,40929,United States,socks5.txt
-206.123.156.223,5898,Vietnam,socks5.txt
 206.123.156.211,7679,India,socks5.txt
 103.173.139.22,8080,Indonesia,http.txt
 38.123.212.243,999,Mexico,http.txt
