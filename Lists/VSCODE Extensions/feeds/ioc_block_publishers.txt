@@ -37,6 +37,7 @@ Always-Victorious
 AmsTaFFix
 AndreiMoraru
 AngelSalazar-dev
+AnhNT
 AnilAlapati
 AppCreatePLC
 AppCreationLLP
@@ -168,6 +169,7 @@ HarshChitaliya
 HawnyJawny
 HonzaPudil
 Horizon-Projects
+HrushikeshPhapale
 IamTheKaaZZ
 Iconkieftwo
 Ilham-ahmedow
@@ -501,6 +503,7 @@ contextia
 continueautocommand
 copilot-multi-provider
 cosmic-themes
+cot-eis-team
 crazypanda
 cryptninjaswap
 csvmech
@@ -568,6 +571,7 @@ fab1can
 fadizant
 fanrj
 fecet
+felcadev
 ferrymo
 fibanez
 flutcode
@@ -627,6 +631,7 @@ iblea
 iceeedR
 idanSaban
 idlesilver
+ifplusor
 ihyajb
 illbeurs
 illusions-x
@@ -776,6 +781,7 @@ pablaofficeal
 pandaexpress
 parmentelat
 pascal-lab
+paul0dev
 pedrocmota
 phantomgz
 phyrasaur
@@ -873,6 +879,7 @@ sthudy
 stratomercata
 streamax
 stunning-yunwu
+stx-emma
 sun-xm
 sunamo-cz
 sunsetHightlight
@@ -941,6 +948,7 @@ weimh
 wenwj
 whatnick
 whoami730
+wincell
 windy
 wli273088
 wlnxingdev

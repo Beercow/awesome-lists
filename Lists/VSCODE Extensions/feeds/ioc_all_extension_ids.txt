@@ -51,6 +51,7 @@ AmirBenShimol3111824.amir-synapse-nexus
 AmsTaFFix.daemonic-lua-api
 AndreiMoraru.norrsken-semantic
 AngelSalazar-dev.all-pixel-agents
+AnhNT.claude-commit-ai
 AnilAlapati.leancontext
 AnilAlapati.pqc-beta
 AnujLabs.sound-on-error
@@ -113,6 +114,7 @@ ChristopherCRobinson.browser-tools-for-testcafe
 CipherLabs.CipherLabsApplication
 ClockZinc.vscode-copilot-chat-cn
 CloudianApp.CloudianCompanion-56d02aa8da72
+ClovisReyes.boardhub
 CodeSecureDev.dependency-scan
 Cognitrace3.cognitrace3
 CompassLLMCode.autosail
@@ -232,6 +234,7 @@ HeleneSmith.rSW
 Hidden-Pixel.vscode-chippy
 HonzaPudil.vscode-theme-onedarker-custom
 Horizon-Projects.Horizon-Collaboration-Tracker
+HrushikeshPhapale.ClaudeCodeForVS
 HuxLabs.huxlabsapp
 IZOT-TE-3-FINAL.static-code-parser-FINAL
 IZOT-TE-3.static-code-parser
@@ -293,6 +296,7 @@ KeeleyLednergznl.ri7
 KevinYouu.tailwind-raw-reorder-tw4
 Kickbacksai.kickbacks-ai
 Kiki67.gambling-corner
+KineticBrew.boardspacedev
 KirillKnize.test-extension-vscode
 Klioai.Klioai
 Knotron.treky-dev
@@ -584,6 +588,7 @@ TheRealGorgan.copilot-chat-history-fork
 TheRealGorgan.vscode-google-tasks-extension
 ThreatVector.threatvault-vscode
 Tier2Paladin-waterfall.waterfall2
+TiroTeam.tiro-application-toolkit
 ToanNguyen.claude-remote
 TobiasHochguertel.catalog-lens
 TobiasHochguertel.pattern-links-fork
@@ -796,6 +801,9 @@ contextia.contextia-cline
 continueautocommand.continue-auto-command
 copilot-multi-provider.copilot-multi-provider
 cosmic-themes.theme-cosmic-nebula
+cot-eis-team.cot-eis-team-bytestream-route-designer
+cot-eis-team.cot-eis-team-extension-pack
+cot-eis-team.cot-eis-team-solution-development-studio
 crazypanda.git-commit-plugin-custom
 cryptninjaswap.cryptoninja-auto-accept
 cryptninjaswap.cryptoninja-code-review
@@ -852,6 +860,7 @@ diola.vscode-agent-tour
 discord-inc.discord-rich-presence-rpc
 dloux.i18n-ally-skip-duplicate
 doctorliang-continue.local-continue
+dongtran.cds-debug
 dontdownloadthis.dontdownloadthis
 dopbop-studio.vscode-tailwindcss-extension-toolkit
 dorry.smart-json
@@ -891,6 +900,7 @@ fab1can.docker-compose-fixed
 fadizant.terminal-commands-2026
 fanrj.gs-lang-with-driver
 fecet.vscode-neovim-fecet
+felcadev.sweetdraculav2
 ferrymo.intellij-idea-new-ui-pretty-ferrymo
 fibanez.sftp-sync-maintained
 flutcode.flutter-extension
@@ -1005,6 +1015,7 @@ iblea.vscode-paste-image-iblea
 iceeedR.amxx-pawn-language-editor
 idanSaban.turbo-console-debuglog
 idlesilver.comment-driver
+ifplusor.semantic-lunaria
 ihyajb.cfxlua-intellisense
 illbeurs.team-vibe
 illusions-x.yeleee-faaaah
@@ -1058,6 +1069,7 @@ juanblancodevelopment.ether-solid
 juancryptoblanco.ether-solidt
 juanmaguitar.cursor-rules-downloader
 juanmaguitar.custom-cursor-rules-multirepo
+jzeeed.jzeeed
 kaighe.esp-idf-light
 kaijialin.pvts
 kaiwu-probes.Probes-ai
@@ -1167,6 +1179,7 @@ mtglitch.claude-usage-bars
 mtglitch.claude-usage-monitor-mtg
 muhammadirfangorsi.api-stress-tester
 mycline.my-sibo-claude-dev
+n3tw4lk3r.tomorrow-night-rusty
 namhhitvn.gitlens-support-symbolic-link
 nanmu.office-viewer-pro
 naveenkunder.format-html
@@ -1211,6 +1224,7 @@ pandaexpress.Theme-ant-plugin
 pandaexpress.Theme-arstotzka-plugin
 parmentelat.vscode-jupytext-parmentelat
 pascal-lab.vide-ide
+paul0dev.deepseek-copilot-byok
 pedrocmota.workspace-formatter-multiple
 pemhkakbh.theme-helper-utils
 phantomgz.vscode-theme-onedark-c
@@ -1386,6 +1400,7 @@ sthudy.keil-assistant-Linux
 stratomercata.strato-mercata
 streamax.claude-dev-streamax
 stunning-yunwu.code-debugger-plus
+stx-emma.git-e-graph
 sun-xm.quick-action
 sunamo-cz.specstory-autosave
 sunsetHightlight.sunset-highlight
@@ -1477,6 +1492,7 @@ wenwj.luaforqc
 wenwj.qc-lua
 whatnick.acp-client-whatnick
 whoami730.cython-enhanced
+wincell.vlog-tb-instance-gen
 windy.windy-minecraft-debugger
 wli273088.vscode-pets-for-courses-demo
 wlnxingdev.free-senltig
