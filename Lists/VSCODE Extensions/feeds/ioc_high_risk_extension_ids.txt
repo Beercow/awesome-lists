@@ -912,6 +912,7 @@ kvoon.publish-test
 kvoon.vscode-vim-config
 kwitch-studio.auto-run-command-extension
 kyledunne.aios-icon-theme
+kzhoa.sftp-x
 labfile.labfile
 lakeFS.lakefs-dvc
 lang2hong.l2h-db-client
@@ -1069,6 +1070,7 @@ priskinski.Theme-Amy-remake
 probes-team.probes
 profezzional.package-json-upgrade-fork
 przybylski.cursor-harpoon
+ps-aditya.redis-live
 publishingsofficial.prettier-plus-vscode
 publishingsofficial.prettier-vscode-plus
 pvjagtap.arxml-workbench
@@ -1128,6 +1130,7 @@ shinganEuler.vscode-unity-debug
 siehc.vscode-proto3-rebirth
 siffat-ahmed.ai-autocomplete-siffat-ahmed
 simplerjiang.oai-compatible-copilot-kong
+smartflow.sf-stream
 smarty1337.nixware-snippets
 smhc.agent-plugins-installer
 smnatale.tokyodark

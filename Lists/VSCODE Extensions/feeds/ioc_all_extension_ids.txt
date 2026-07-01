@@ -116,6 +116,7 @@ ClockZinc.vscode-copilot-chat-cn
 CloudianApp.CloudianCompanion-56d02aa8da72
 ClovisReyes.boardhub
 CodeSecureDev.dependency-scan
+Cognicio.sftp-deployment
 Cognitrace3.cognitrace3
 CompassLLMCode.autosail
 Crypto-Extensions.SnowShsoNo
@@ -763,6 +764,7 @@ ceo.sammarco
 cfeltz.taskpanel
 charcoal141II.imu-view
 chat-gimay-agent.chat-gimay-agent
+chenjianan.battle-city-for-vscode
 chenjingqing.yuque-editor
 chery-brake-tools.chery-brake-tools
 chess-color-theme.chess-svelte-5-snippets
@@ -1113,6 +1115,7 @@ kvoon.vscode-vim-config
 kwitch-studio.auto-run-command-extension
 kyledunne.aios-icon-theme
 kyleobr.Paste-Image-zen
+kzhoa.sftp-x
 labfile.labfile
 lakeFS.lakefs-dvc
 lakshits11.fresh-material-theme
@@ -1294,6 +1297,7 @@ prnx.synapsez-ext
 probes-team.probes
 profezzional.package-json-upgrade-fork
 przybylski.cursor-harpoon
+ps-aditya.redis-live
 publishingsofficial.prettier-plus-vscode
 publishingsofficial.prettier-vscode-plus
 pvjagtap.arxml-workbench
@@ -1378,6 +1382,7 @@ simplerjiang.oai-compatible-copilot-kong
 sla-guardian.static-sla-guardian
 slashmarkdev.api-tester-by-slashmark-it
 slashmarkdev.env-file-manager-by-slashmark
+smartflow.sf-stream
 smarty1337.nixware-snippets
 smhc.agent-plugins-installer
 smnatale.tokyodark
