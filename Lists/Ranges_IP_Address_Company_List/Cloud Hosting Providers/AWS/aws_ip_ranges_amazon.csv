@@ -1380,6 +1380,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 15.230.72.192/26,af-south-1,AMAZON,af-south-1
 15.230.111.0/24,eu-central-1,AMAZON,eu-central-1
 18.60.0.0/15,ap-south-2,AMAZON,ap-south-2
+35.71.92.0/24,me-west-1,AMAZON,me-west-1
 52.57.0.0/16,eu-central-1,AMAZON,eu-central-1
 52.93.126.123/32,us-east-1,AMAZON,us-east-1
 52.94.124.0/22,us-east-1,AMAZON,us-east-1
