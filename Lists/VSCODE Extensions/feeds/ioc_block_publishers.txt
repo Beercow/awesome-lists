@@ -187,6 +187,7 @@ JacobETH
 JahidLimon
 JarodWright
 JaviGuarin
+JavvDev
 JehanWeerasuriya
 JiHoonKim
 Jial
@@ -364,6 +365,7 @@ SyntaxDev
 SysheadLabs
 TONFoundation
 TailwindCSSIntelliSenseplus
+Taro-Native
 TaskRblx
 Taskify
 TechSolutionsPro
@@ -516,6 +518,7 @@ culvequeaka
 cweijamysq
 cyrilproletuzi
 d0whc3r
+dabidsillo
 daelmaak
 dafsfsdsfdfsdf11
 danieloaks
@@ -626,6 +629,7 @@ hwrn001
 hy6
 hyoban
 hyperproof
+hzcheng
 i18nflow
 iSayme
 iabacus-publisher
@@ -854,6 +858,7 @@ senseDevpro
 seolmuah
 serialt
 sgds
+shao
 shaokun
 shellingye
 shenlin
@@ -879,6 +884,7 @@ soongfs
 soshnikov
 sparrowcodes
 spinback
+spshah
 sqlmtxredev
 ss13
 sseveur
