@@ -66,6 +66,7 @@ Aveva-Technology.forge-bridge
 AzelSync.alk-icons
 Azir-11.azir-vscode-theme
 BITS2500.bits-codon
+Barkerbg001.xaml-lineup
 Batch.Docker-Vscode-V2
 Benachile-studio.protobuf-pro
 BenjaminFriedl.lexica-img-fix
@@ -682,6 +683,7 @@ daelmaak.next-error
 dafsfsdsfdfsdf11.randomic-slaying-pog
 danieloaks.rest-client-do
 danlt2k.sarif-monitor-v000
+dastan-prince.cline-cn-ai
 day253.data-scientist-development-pack
 day253.system-engineer-development-pack
 day253.system-information-status-bar
@@ -695,6 +697,7 @@ devCharles5277.primevue-helper-zh-tw
 devSparkle.luau-lsp-overtur
 devcodaro.codaro-pro
 devcoreAi-Coding-Agent.devcoreai-agent
+devflowtools.projectflow
 devnazir.gosh-interpreter
 devokai.codesleep
 devokaicode.codesleepai
@@ -953,6 +956,7 @@ mahdihajian.angular-files-creator
 mahdihajian.vscode-pull-request-azure-devops
 mahdihajian.vscode-shelf
 manageblox.manageblox
+mangaba-ai.mangaba-ai
 mark9804.zotero-latex-cite
 markdown-office-viewer.markdown-office-viewer-pro
 marketplacer.marketplacer

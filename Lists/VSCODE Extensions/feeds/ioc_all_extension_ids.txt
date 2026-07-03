@@ -80,6 +80,7 @@ Aveva-Technology.forge-bridge
 AzelSync.alk-icons
 Azir-11.azir-vscode-theme
 BITS2500.bits-codon
+Barkerbg001.xaml-lineup
 Batch.Docker-Vscode-V2
 Benachile-studio.protobuf-pro
 BenjaminFriedl.lexica-img-fix
@@ -88,6 +89,7 @@ BigBlack.bitcoin-black
 BigBlack.codo-ai
 BigBlack.mrbigblacktheme
 Blamely.blamely
+BlocWeave.blocweave
 BlockchainIndustries.bitcoin-toolkit
 BlockchainIndustries.blockchain-toolkit
 BlockchainIndustries.hardhat-toolkit
@@ -840,12 +842,14 @@ daelmaak.next-error
 dafsfsdsfdfsdf11.randomic-slaying-pog
 danieloaks.rest-client-do
 danlt2k.sarif-monitor-v000
+dastan-prince.cline-cn-ai
 day253.data-scientist-development-pack
 day253.system-engineer-development-pack
 day253.system-information-status-bar
 deadman.old-drkryz-theme
 dechuen-lee.tailwindcss-intellisense-auto-space
 deciosfernandes.git-auto-set-config
+deepsweep-ai.deepsweep
 deltalenz.deltalenz
 dengfy3.dengfy3
 devCHOUZZ.vscode-better-align-pro
@@ -854,6 +858,7 @@ devCharles5277.primevue-helper-zh-tw
 devSparkle.luau-lsp-overtur
 devcodaro.codaro-pro
 devcoreAi-Coding-Agent.devcoreai-agent
+devflowtools.projectflow
 devnazir.gosh-interpreter
 devokai.codesleep
 devokaicode.codesleepai
@@ -1163,6 +1168,7 @@ mahdihajian.angular-files-creator
 mahdihajian.vscode-pull-request-azure-devops
 mahdihajian.vscode-shelf
 manageblox.manageblox
+mangaba-ai.mangaba-ai
 mariovalney.wordpress-readme-to-markdown
 mark9804.zotero-latex-cite
 markdown-office-viewer.markdown-office-viewer-pro
@@ -1475,6 +1481,7 @@ txtx20.new-txtx
 txtx20.sunrise-greeter-demo
 tylerdotrar.goodbyeworld
 tylerdotrar.goodbyeworldng
+uai-systems.uai-extension
 uladluch.antigravity-mobile-connector
 uladluch.cursor-mobile-connector
 ultimateBroK.symbols-enhance
@@ -1558,6 +1565,7 @@ yelmuratoff.dart-data-class-tools-dev
 yfdyh000.aar-vsc-test
 yfdyh000.aar-vscode
 ygqygq2.turbo-print-log
+yhx6071.nc
 yishifuhua.highlight-line-new
 yishifuhua.local-history-chinese
 ynqq.comment-anchors-ynqq

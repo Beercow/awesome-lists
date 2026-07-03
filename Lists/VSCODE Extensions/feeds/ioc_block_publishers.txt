@@ -59,6 +59,7 @@ Aveva-Technology
 AzelSync
 Azir-11
 BITS2500
+Barkerbg001
 Batch
 Benachile-studio
 BenjaminFriedl
@@ -523,6 +524,7 @@ daelmaak
 dafsfsdsfdfsdf11
 danieloaks
 danlt2k
+dastan-prince
 day253
 deadman
 dechuen-lee
@@ -533,6 +535,7 @@ devCharles5277
 devSparkle
 devcodaro
 devcoreAi-Coding-Agent
+devflowtools
 devnazir
 devokai
 devokaicode
@@ -734,6 +737,7 @@ lyywemhan
 madmansidea
 mahdihajian
 manageblox
+mangaba-ai
 mark9804
 markdown-office-viewer
 marketplacer
