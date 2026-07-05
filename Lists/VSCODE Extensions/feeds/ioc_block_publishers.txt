@@ -106,6 +106,7 @@ DaveWeb3
 DavidAsh
 DevCatppuccinpro
 DevCrew
+DevFlowHub
 DevMatrix
 Dhakshinesh
 DiegoPandiello
@@ -276,6 +277,7 @@ Noe
 NolanWang
 NordicMidnight
 NotToTest
+OIOXO
 OPENEDAI
 OfekBickel
 OktayAydoan
