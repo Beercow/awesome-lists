@@ -2333,3 +2333,80 @@ rule Trojan_MSIL_Injector_BAV_2147972970_0
         (all of ($x*))
 }
 
+rule Trojan_MSIL_Injector_AYB_2147973034_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:MSIL/Injector.AYB!MTB"
+        threat_id = "2147973034"
+        type = "Trojan"
+        platform = "MSIL: .NET intermediate language scripts"
+        family = "Injector"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "8"
+        strings_accuracy = "High"
+    strings:
+        $x_5_1 = {11 06 11 05 8e 69 2f 2a 11 05 11 06 07 6f 30 00 00 0a 11 09 11 06 06 8e 69 5d 58 47 61 d2 9c 11 06 17 58 13 06 11 0c 17 58 13 0c 11 0c 08 19 5a 32 ce}  //weight: 5, accuracy: High
+        $x_2_2 = "XOR_Loader.pdb" ascii //weight: 2
+        $x_1_3 = "DecryptSafe" ascii //weight: 1
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_MSIL_Injector_AYC_2147973036_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:MSIL/Injector.AYC!MTB"
+        threat_id = "2147973036"
+        type = "Trojan"
+        platform = "MSIL: .NET intermediate language scripts"
+        family = "Injector"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "8"
+        strings_accuracy = "High"
+    strings:
+        $x_5_1 = {06 08 8f 53 00 00 01 25 47 07 08 07 8e 69 5d 91 61 d2 52 08 17 58 0c 08 06 8e 69 32 e3}  //weight: 5, accuracy: High
+        $x_2_2 = "SELECT TotalPhysicalMemory FROM Win32_ComputerSystem" wide //weight: 2
+        $x_1_3 = "WindowStyle Hidden -NonInteractive -Command Add-MpPreference -ExclusionPath" wide //weight: 1
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_MSIL_Injector_NYA_2147973043_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:MSIL/Injector.NYA!MTB"
+        threat_id = "2147973043"
+        type = "Trojan"
+        platform = "MSIL: .NET intermediate language scripts"
+        family = "Injector"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "7"
+        strings_accuracy = "Low"
+    strings:
+        $x_2_1 = {43 00 3a 00 5c 00 55 00 73 00 65 00 72 00 73 00 5c 00 56 00 49 00 43 00 54 00 4f 00 52 00 5c 00 44 00 6f 00 63 00 75 00 6d 00 65 00 6e 00 74 00 73 00 5c 00 43 00 72 00 79 00 70 00 74 00 6f 00 4f 00 62 00 66 00 75 00 73 00 63 00 61 00 74 00 6f 00 72 00 5f 00 4f 00 75 00 74 00 70 00 75 00 74 00 5c 00 [0-31] 2e 00 70 00 64 00 62 00}  //weight: 2, accuracy: Low
+        $x_2_2 = {43 3a 5c 55 73 65 72 73 5c 56 49 43 54 4f 52 5c 44 6f 63 75 6d 65 6e 74 73 5c 43 72 79 70 74 6f 4f 62 66 75 73 63 61 74 6f 72 5f 4f 75 74 70 75 74 5c [0-31] 2e 70 64 62}  //weight: 2, accuracy: Low
+        $x_1_3 = "GetProcAddress" ascii //weight: 1
+        $x_1_4 = "FromBase64String" ascii //weight: 1
+        $x_1_5 = "baseAddress" ascii //weight: 1
+        $x_1_6 = "3D9B94A98B-76A8-4810-B1A0-4BE7C4F9C98DA2#" ascii //weight: 1
+        $x_1_7 = "DESCryptoServiceProvider" ascii //weight: 1
+    condition:
+        (filesize < 20MB) and
+        (
+            ((1 of ($x_2_*) and 5 of ($x_1_*))) or
+            ((2 of ($x_2_*) and 3 of ($x_1_*))) or
+            (all of ($x*))
+        )
+}
+
