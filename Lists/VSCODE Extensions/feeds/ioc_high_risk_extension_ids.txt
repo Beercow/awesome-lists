@@ -992,6 +992,7 @@ mycline.my-sibo-claude-dev
 namhhitvn.gitlens-support-symbolic-link
 nanmu.office-viewer-pro
 naveenkunder.format-html
+nbreier.virtualworkspacesf
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
 ng-jk.sftp-ng-jk
 nicovy.symbolsnicovy
