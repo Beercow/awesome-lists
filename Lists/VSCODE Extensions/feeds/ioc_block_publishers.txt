@@ -512,6 +512,7 @@ contextia
 continueautocommand
 copilot-multi-provider
 cosmic-themes
+cot-eis-dev
 cot-eis-team
 crazypanda
 cryptninjaswap

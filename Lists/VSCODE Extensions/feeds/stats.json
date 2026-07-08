@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-07-08T14:43:01+00:00",
-  "total_records": 1675,
-  "total_malicious": 1603,
+  "generated_utc": "2026-07-08T16:52:15+00:00",
+  "total_records": 1684,
+  "total_malicious": 1612,
   "total_risky": 72,
   "severity_counts": {
     "critical": 430,
-    "high": 897,
+    "high": 905,
     "low": 22,
-    "medium": 326
+    "medium": 327
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 878,
+    "impersonation": 886,
     "impersonation-malware": 5,
     "malware": 430,
     "owner-request": 8,
@@ -34,13 +34,13 @@
     "spam": 71,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 180
+    "untrustworthy": 181
   },
   "malicious_category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 878,
+    "impersonation": 886,
     "impersonation-malware": 5,
     "malware": 430,
     "owner-request": 8,
@@ -49,7 +49,7 @@
     "spam": 71,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 180
+    "untrustworthy": 181
   },
   "risky_category_counts": {
     "risky-ai-code-access": 9,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1263,
+  "total_publishers": 1265,
   "top_publishers": [
     [
       "pit00",
@@ -98,6 +98,10 @@
     [
       "cryptninjaswap",
       10
+    ],
+    [
+      "yonbip",
+      8
     ],
     [
       "Extensions-Topic",
@@ -161,10 +165,6 @@
     ],
     [
       "ms-vscode",
-      5
-    ],
-    [
-      "DevelopmentInc",
       5
     ]
   ]
