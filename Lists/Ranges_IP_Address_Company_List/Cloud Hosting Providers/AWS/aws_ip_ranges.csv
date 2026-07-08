@@ -5831,6 +5831,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 16.16.108.0/23,eu-north-1,AMAZON,eu-north-1
 16.170.199.0/26,eu-north-1,AMAZON,eu-north-1
 16.171.80.0/22,eu-north-1,AMAZON,eu-north-1
+16.192.132.0/23,eu-north-1,AMAZON,eu-north-1
 51.21.133.128/25,eu-north-1,AMAZON,eu-north-1
 51.21.183.0/24,eu-north-1,AMAZON,eu-north-1
 15.160.90.64/26,eu-south-1,AMAZON,eu-south-1
