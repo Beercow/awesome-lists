@@ -20,7 +20,7 @@ addition,crowdstrikef.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudfl
 addition,crowdstrikeg.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 addition,crowdstrikeh.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 addition,crowdstrikei.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
-addition,crowdstrikej.com,,,,
+addition,crowdstrikej.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 addition,crowdstrikek.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 addition,crowdstrikel.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 addition,crowdstrikem.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
