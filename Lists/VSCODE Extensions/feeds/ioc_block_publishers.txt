@@ -705,6 +705,7 @@ kindly-robotics
 kingace2056
 kiracode
 kodawari
+kokoma
 kova-lang
 krabt
 kudsu
@@ -785,6 +786,7 @@ nocnokneo
 nofoot
 northisup
 nourgaser
+numa-forge
 numso
 octohash
 okg21
