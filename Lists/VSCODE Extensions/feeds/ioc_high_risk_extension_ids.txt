@@ -985,6 +985,8 @@ minlabs.quiet-code
 mishannn.custom-turbo-console-log
 mkd-corp.keural-vscode
 mlhiter.sline
+mo-masoud.claude-code-rtl-arabic
+mo7ammedd.vscode-blur
 momomomowei.element-plus-mo
 mrchen.vue-jump-m
 mrcrispy.cpln
@@ -1122,6 +1124,7 @@ rubiin.nestjs-snippets-vscode
 rustcc.rust-analyzer-cn
 rwbcy.trwbcy-poc
 ryanolsonx.poimandres-contrast
+rzkyagngngr.kylo
 sachinsmc.turbo-rust-println
 sadan.insight-doc
 sahil92552.cbe-456
@@ -1219,6 +1222,7 @@ tria-technologies.simpleswitch-vscode
 tria-technologies.simpleswitch-vscode-tools
 tria.readonlywin
 trlanfeng.turbo-console-log
+ts-org.one-dark-remix
 tuur29.turbo-console-log
 txtx20.new-txtx
 tylerdotrar.goodbyeworld
@@ -1267,6 +1271,7 @@ wli273088.vscode-pets-for-courses-demo
 wlnxingdev.free-senltig
 worldline.aicodefix
 worldline.wlpfo-toolkit
+worma.worma-vscode
 wtklbm.code-debuger-fork
 wumo1016.i18n-pro
 wumo1016.vue-legacy-extension
