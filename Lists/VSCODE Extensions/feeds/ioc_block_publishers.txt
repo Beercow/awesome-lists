@@ -96,6 +96,7 @@ Cryptocurrency
 CursorFree
 CyrusRune
 DATEx2
+DRAWNCODES
 DaMaoCloud
 Damilola
 DanielBlockchain
@@ -497,6 +498,7 @@ clawdbot
 clclw
 clicli100
 cline-ai-main
+cloorc
 cmd-studio
 cn00
 cobot100
@@ -828,6 +830,7 @@ probes-team
 profezzional
 przybylski
 ps-aditya
+ptanmay143
 publishingsofficial
 pvjagtap
 pvparuchuri
