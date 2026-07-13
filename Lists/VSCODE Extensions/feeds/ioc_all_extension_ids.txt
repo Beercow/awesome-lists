@@ -80,6 +80,7 @@ AtroxEGO.better-folding-plus
 Aussie.FastTask
 AutoMind.automindX
 Autolexia.testwise
+AutomationStudio.automation-studio
 Aveva-Technology.forge-bridge
 AzelSync.alk-icons
 Azir-11.azir-vscode-theme
@@ -249,6 +250,7 @@ HonzaPudil.vscode-theme-onedarker-custom
 Horizon-Projects.Horizon-Collaboration-Tracker
 HrushikeshPhapale.ClaudeCodeForVS
 HuxLabs.huxlabsapp
+IONDev.iondev
 IZOT-TE-3-FINAL.static-code-parser-FINAL
 IZOT-TE-3.static-code-parser
 IamTheKaaZZ.valgrind-debug
@@ -529,6 +531,7 @@ Sawalhaa.sawalhaa
 Sayantan710.ollot
 SchlafferBenjamin.terminal-compiler
 SchlafferBenjamin.tridev-development-hub
+ScrambleCloudUG.lurus-code-vscode
 SecretTea.project-tea
 Senforsce.tndr
 Senforsce.vscode-tndr
@@ -780,6 +783,7 @@ camsAI.camsAI
 cancline.cancline-dev
 capplicorn.plaintextplus
 carrycodeai.carrycode-vscode
+cassandragargoyle.portunix-pdf-viewer
 ceo.sammarco
 cfeltz.taskpanel
 charcoal141II.imu-view
@@ -801,6 +805,8 @@ clicli100.windsurf100
 cline-ai-main.cline-ai-agent
 clint.rust-essentials-pack
 cloorc.graphing
+cloorc.kubernetes-tools
+cloorc.vscefiles
 cmd-studio.pua
 cn00.duckdb-lab
 cn00.sqltools-duckdb
@@ -886,6 +892,7 @@ devsessioncanvas.dev-session-canvas
 devsessioncanvas.dev-session-canvas-notifier
 devxlogan.jetbrains-rider-new-ui-theme-fixed
 dfadhel.vscodepython
+dg19.todo-atlas
 dhakshnamoorthi.nexus-code-agent
 diamond.diamond
 diegofernandezpandiello.super-elixir-ls
@@ -1140,6 +1147,7 @@ kokoma.nvm-studio
 kova-lang.kova-material-iconse
 krabt.krabt-extension-pack
 krabt.krabt-proto
+krzysztof-d.justybaselite-netezza
 ktav-lang.ktav
 kudsu.sober-ssh
 kudsu.soberssh
