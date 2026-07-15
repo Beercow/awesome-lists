@@ -6598,12 +6598,12 @@ rule Trojan_Win64_Lazy_PGLQ_2147972939_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_Lazy_NA_2147973416_0
+rule Trojan_Win64_Lazy_NA_2147973443_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Lazy.NA!MTB"
-        threat_id = "2147973416"
+        threat_id = "2147973443"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Lazy"
@@ -6627,12 +6627,12 @@ rule Trojan_Win64_Lazy_NA_2147973416_0
         )
 }
 
-rule Trojan_Win64_Lazy_PGLS_2147973473_0
+rule Trojan_Win64_Lazy_PGLS_2147973501_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Lazy.PGLS!MTB"
-        threat_id = "2147973473"
+        threat_id = "2147973501"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Lazy"
@@ -6651,12 +6651,12 @@ rule Trojan_Win64_Lazy_PGLS_2147973473_0
         (3 of ($x*))
 }
 
-rule Trojan_Win64_Lazy_AHV_2147973486_0
+rule Trojan_Win64_Lazy_AHV_2147973514_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Lazy.AHV!MTB"
-        threat_id = "2147973486"
+        threat_id = "2147973514"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Lazy"
@@ -6672,12 +6672,12 @@ rule Trojan_Win64_Lazy_AHV_2147973486_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_Lazy_AHR_2147973493_0
+rule Trojan_Win64_Lazy_AHR_2147973521_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Lazy.AHR!MTB"
-        threat_id = "2147973493"
+        threat_id = "2147973521"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Lazy"
@@ -6695,12 +6695,12 @@ rule Trojan_Win64_Lazy_AHR_2147973493_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_Lazy_MKV_2147973528_0
+rule Trojan_Win64_Lazy_MKV_2147973556_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Lazy.MKV!MTB"
-        threat_id = "2147973528"
+        threat_id = "2147973556"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Lazy"
@@ -6717,12 +6717,12 @@ rule Trojan_Win64_Lazy_MKV_2147973528_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_Lazy_MKX_2147973536_0
+rule Trojan_Win64_Lazy_MKX_2147973564_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Lazy.MKX!MTB"
-        threat_id = "2147973536"
+        threat_id = "2147973564"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Lazy"
@@ -6739,12 +6739,12 @@ rule Trojan_Win64_Lazy_MKX_2147973536_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_Lazy_MKY_2147973539_0
+rule Trojan_Win64_Lazy_MKY_2147973567_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Lazy.MKY!MTB"
-        threat_id = "2147973539"
+        threat_id = "2147973567"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Lazy"
@@ -6763,12 +6763,12 @@ rule Trojan_Win64_Lazy_MKY_2147973539_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_Lazy_MKZ_2147973541_0
+rule Trojan_Win64_Lazy_MKZ_2147973569_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Lazy.MKZ!MTB"
-        threat_id = "2147973541"
+        threat_id = "2147973569"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Lazy"
