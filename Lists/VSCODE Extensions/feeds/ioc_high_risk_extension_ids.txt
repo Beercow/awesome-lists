@@ -922,6 +922,7 @@ kaighe.esp-idf-light
 kaijialin.pvts
 kaiwu-probes.Probes-ai
 karlosasortico.Theme-Abyss-remastered
+kauricre.vscode-styled-components-modern
 kazan.myworldline
 kazi08.mcp-audit-pii-guard
 kd100100.kd100100-cline
@@ -1010,6 +1011,7 @@ mo7ammedd.vscode-blur
 momomomowei.element-plus-mo
 mrchen.vue-jump-m
 mrcrispy.cpln
+ms-gmolveau.vscode-hadolint2
 msjsdreact.react-native-vsce
 mtc2000.vscode-pdf-viewer
 mtglitch.claude-usage-bars
@@ -1057,6 +1059,7 @@ pascal-lab.vide-ide
 paul0dev.deepseek-copilot-byok
 pedrocmota.workspace-formatter-multiple
 phantomgz.vscode-theme-onedark-c
+phillip-merritt.vscode-beads-rust
 phyrasaur.vscodian
 piithon.piiithon-linter
 pit00.brackets-scopes

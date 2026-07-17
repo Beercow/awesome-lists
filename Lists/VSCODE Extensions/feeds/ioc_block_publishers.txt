@@ -704,6 +704,7 @@ kaighe
 kaijialin
 kaiwu-probes
 karlosasortico
+kauricre
 kazan
 kazi08
 kd100100
@@ -779,6 +780,7 @@ mo7ammedd
 momomomowei
 mrchen
 mrcrispy
+ms-gmolveau
 msjsdreact
 mtc2000
 mtglitch
@@ -820,6 +822,7 @@ pascal-lab
 paul0dev
 pedrocmota
 phantomgz
+phillip-merritt
 phyrasaur
 piithon
 pit00

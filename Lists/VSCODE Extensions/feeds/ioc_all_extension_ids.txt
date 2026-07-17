@@ -1144,6 +1144,7 @@ kaiwu-probes.Probes-ai
 karlosasortico.Theme-Abyss-remastered
 kast789.visual-studio-2022-theme
 kast789.vs-2019-theme
+kauricre.vscode-styled-components-modern
 kazan.myworldline
 kazi08.mcp-audit-pii-guard
 kd100100.kd100100-cline
@@ -1248,6 +1249,7 @@ mpw.ccbscf-snippets
 mpw.ccbscf-ui-transfer
 mrchen.vue-jump-m
 mrcrispy.cpln
+ms-gmolveau.vscode-hadolint2
 ms-vscode.vscode-embedded-tools
 msjsdreact.react-native-vsce
 mtc2000.vscode-pdf-viewer
@@ -1306,6 +1308,7 @@ paul0dev.deepseek-copilot-byok
 pedrocmota.workspace-formatter-multiple
 pemhkakbh.theme-helper-utils
 phantomgz.vscode-theme-onedark-c
+phillip-merritt.vscode-beads-rust
 phpLens.phpLens
 phyrasaur.vscodian
 piithon.piiithon-linter
