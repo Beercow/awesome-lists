@@ -1,9 +1,9 @@
-rule Trojan_Win64_LegacyHive_DA_2147973467_0
+rule Trojan_Win64_LegacyHive_DA_2147973491_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/LegacyHive.DA!MTB"
-        threat_id = "2147973467"
+        threat_id = "2147973491"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "LegacyHive"
@@ -24,12 +24,12 @@ rule Trojan_Win64_LegacyHive_DA_2147973467_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_LegacyHive_DB_2147973468_0
+rule Trojan_Win64_LegacyHive_DB_2147973492_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/LegacyHive.DB!MTB"
-        threat_id = "2147973468"
+        threat_id = "2147973492"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "LegacyHive"

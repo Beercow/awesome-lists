@@ -1,9 +1,9 @@
-rule Ransom_Win32_Cortizol_YDQ_2147973516_0
+rule Ransom_Win32_Cortizol_YDQ_2147973541_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Ransom:Win32/Cortizol.YDQ!MTB"
-        threat_id = "2147973516"
+        threat_id = "2147973541"
         type = "Ransom"
         platform = "Win32: Windows 32-bit platform"
         family = "Cortizol"
