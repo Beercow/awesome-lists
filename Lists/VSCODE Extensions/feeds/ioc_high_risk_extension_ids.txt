@@ -775,6 +775,7 @@ fiyqkrc.vscode-acp-chat
 flutcode.flutter-extension
 flywine.vscode-clangd
 fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai
+force1-app.force1-app
 fortune.investment-assistant
 fq.markdown-checkbox-with-timestamp-at-creation
 frunoob.ankimini
@@ -939,6 +940,7 @@ kodawari.error-lens-Japanese
 kodawari.gitlens-japanese
 kodawari.gitlens-zh
 kokoma.nvm-studio
+konyshevav.dbml-schema-visualizer
 kova-lang.kova-material-iconse
 krabt.krabt-extension-pack
 krabt.krabt-proto
@@ -1042,6 +1044,8 @@ onreal-Elysia886.elysia-todo-tree
 orca.vscode-armlite
 ost-fh.micropython-for-arduino
 otimiza.local-agent-screen-viewer
+oub.lucide-product-icon-theme-fork
+oub.theme-bluloco-light-oub-rmx
 outstand.outstand-elixir-ls
 outthaway.sol2-lang
 ovixcodes.basedpyright-vscode
