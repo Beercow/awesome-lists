@@ -223,6 +223,8 @@ FreeIdom.cs-fluent-icons
 FreeIdom.cs-symbols
 GB0099.gb0099-liquid
 GCIDCAIAmericasAndAsia.A11y-Agent
+GHT.gpp
+GHT.java-compiler
 GPTOnce.codepilot-vscode
 GSZN.cangjie-ai-code
 GavinLWood.introai
@@ -391,6 +393,8 @@ MarkH.python-obfuscator-vscode
 MarkH.rust-compiler-vs
 MarkHutchins.markdown-preview-vs
 MarkWood.nonmalicious2
+MarkdownLinks.markdown-links-pro
+MarkdownLinks.tunnel-pro
 MarketingThibs.ampscriptsnippets
 Marvello.js-beautify-wrapper
 MasterByte.masterb-argo-kubernetes-utils
@@ -880,6 +884,7 @@ daelmaak.next-error
 dafsfsdsfdfsdf11.randomic-slaying-pog
 danieloaks.rest-client-do
 danlt2k.sarif-monitor-v000
+dark-matter7232.stm32-for-vscode-community
 dastan-prince.cline-cn-ai
 day253.data-scientist-development-pack
 day253.system-engineer-development-pack
@@ -953,6 +958,7 @@ ethanielliu.audit-helper
 ethcompiler.among-eth
 ethers.ethersfoundry
 evaera-rbx.vscode-rojo-rbx
+everestsystems.lotse-language-vscode
 everyapi-ai.everyapi-vscode
 ext-lab.ftp-supports
 ext-lab.git-history-plus
