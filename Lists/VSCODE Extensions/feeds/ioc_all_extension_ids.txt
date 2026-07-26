@@ -457,6 +457,8 @@ PCODE-pl.vscode-autohide-plus
 PCODE-pl.vscode-favorites-plus
 PCODE-pl.vscode-phpmd-suppress
 POCreations.worklane
+PTIT.ptit-cpp-timeline
+PTIT.ptit-java-timeline
 PallasUI.panda-css-pallasui
 PapaVault.papa-vault
 ParthRaninga.cursor-ai-rules
@@ -508,6 +510,7 @@ RandomityGuy.torquescript-support
 RblxTasker.RblxTasker
 RdbtCVS.chattriggers-latest
 ReadMeAI.readmeai
+RealismHub.trello-management
 Realtek.ameba
 Realtek.realtek-ameba
 RecoLive.lldb-dap-android
@@ -1267,6 +1270,7 @@ metagogo.metagogo
 mg-lab.mb-lab
 mglab.mglab
 mikeljl.continue-ljl-fork
+mindandhand.vscode-zhihu-maintained
 minlabs.quiet-code
 mirrorflat.mirrorflatlog
 mishannn.custom-turbo-console-log
@@ -1327,6 +1331,7 @@ oub.theme-bluloco-light-oub-rmx
 outstand.outstand-elixir-ls
 outthaway.sol2-lang
 ovixcodes.basedpyright-vscode
+ovolab-veritas.codesnap-lite
 ovolab-veritas.codesnap-neo
 owenrossikeen.script-buttons-extended
 ozz3dev.bitcoin-auto-trading
@@ -1407,6 +1412,7 @@ publishingsofficial.prettier-vscode-plus
 pvjagtap.arxml-workbench
 pvparuchuri.sas
 pythoner.Black-Molokai-Theme
+qaqulya2.ai-autocomplete2
 qianzijiao.continue-with-code-swift
 qiyefazhan.super-agent
 qpluslang.qplusos
@@ -1530,6 +1536,7 @@ stx-emma.git-e-graph
 sun-xm.quick-action
 sunamo-cz.specstory-autosave
 sunsetHightlight.sunset-highlight
+sunstoneapps.opencode-selection
 suspublisher18.susvsex
 suyb.u-sci-roo
 suyb.v-sci-roo
