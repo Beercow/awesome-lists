@@ -404,6 +404,7 @@ MarkdownLinks.tunnel-pro
 MarketingThibs.ampscriptsnippets
 Marvello.js-beautify-wrapper
 MasterByte.masterb-argo-kubernetes-utils
+MatthewEvans.click-board
 MaximeKjaer.scala
 MeaghanBass.quantum-developer-theme
 Med-H.git-graph-revamped
@@ -758,6 +759,7 @@ arclens.arc-lens
 areynard.iceberg-theme-code-visible
 ashutosh-sanodia.riai-marketplace-mcp
 ashutosh-sanodia.translator-plugin
+atharkes.vscode-yaml-formatter
 atman-dev.opencode-chat-unofficial-custom
 atom8n.kanban-atom8n
 atom8n.mcp-inspector-atom8n
@@ -896,6 +898,7 @@ daelmaak.next-error
 dafsfsdsfdfsdf11.randomic-slaying-pog
 danieloaks.rest-client-do
 danlt2k.sarif-monitor-v000
+danylobodnar.rose-pine-black
 dark-matter7232.stm32-for-vscode-community
 dastan-prince.cline-cn-ai
 day253.data-scientist-development-pack
@@ -1104,6 +1107,7 @@ iblea.markdown-preview-base64-iblea
 iblea.vscode-paste-image-iblea
 iceeedR.amxx-pawn-language-editor
 idanSaban.turbo-console-debuglog
+idea-icons-themes-for-vscode.idea-icons-themes-for-vscode
 idlesilver.comment-driver
 ifplusor.semantic-lunaria
 ihyajb.cfxlua-intellisense
@@ -1178,6 +1182,7 @@ kaiwu-probes.Probes-ai
 karlosasortico.Theme-Abyss-remastered
 kast789.visual-studio-2022-theme
 kast789.vs-2019-theme
+katrine-jensen.vscode-language-pack-da
 kauricre.vscode-styled-components-modern
 kazan.myworldline
 kazi08.mcp-audit-pii-guard
@@ -1321,6 +1326,7 @@ numa-forge.sftp-enhanced
 numso.vscode-tailwindcss-with-hex-colors
 octohash.powermode-plus
 okg21.bigquery-explorer
+okok909090.csv-grid-editor-plus
 okystudio.sude-pets
 oleg-the-developer.sftp-sync-fork
 onreal-Elysia886.elysia-todo-tree
@@ -1423,6 +1429,7 @@ qpluslang.qplusos
 quantix.quantix-pro
 quartz.quartz-markdown-editor
 qusic.easysass-ng
+qutto.markdown-navigation-new
 qweqweqwe.test
 r0kuko.jetbrains-file-icon-theme-extended
 rabbitsyntax.rabbitsyntax
@@ -1575,6 +1582,7 @@ tohuw.focus-lines
 toilamanh.claude-usage-pilot-v2
 toommyliu.cursor-dark-no-italicse
 touchlab.touchlab-vscode-office
+tpill90.latex-utilities-fork
 trandaison.trandaison-git-file-history
 tria-technologies.simpleswitch-vscode
 tria-technologies.simpleswitch-vscode-tools

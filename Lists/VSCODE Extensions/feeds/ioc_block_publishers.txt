@@ -260,6 +260,7 @@ MarkdownLinks
 MarketingThibs
 Marvello
 MasterByte
+MatthewEvans
 MaximeKjaer
 Med-H
 MediaLLC
@@ -465,6 +466,7 @@ apzcode
 arclens
 areynard
 ashutosh-sanodia
+atharkes
 atman-dev
 atom8n
 auguwu
@@ -546,6 +548,7 @@ daelmaak
 dafsfsdsfdfsdf11
 danieloaks
 danlt2k
+danylobodnar
 dark-matter7232
 dastan-prince
 day253
@@ -669,6 +672,7 @@ iabacus-publisher
 iblea
 iceeedR
 idanSaban
+idea-icons-themes-for-vscode
 idlesilver
 ifplusor
 ihyajb
@@ -721,6 +725,7 @@ kaighe
 kaijialin
 kaiwu-probes
 karlosasortico
+katrine-jensen
 kauricre
 kazan
 kazi08
@@ -828,6 +833,7 @@ numa-forge
 numso
 octohash
 okg21
+okok909090
 oleg-the-developer
 onreal-Elysia886
 orca
@@ -876,6 +882,7 @@ qianzijiao
 qiyefazhan
 quantix
 qusic
+qutto
 r0kuko
 raidenshogun
 rainbowflesh
@@ -983,6 +990,7 @@ tmp-primes
 tohuw
 toommyliu
 touchlab
+tpill90
 trandaison
 tria
 tria-technologies
