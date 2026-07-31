@@ -453,6 +453,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 52.219.68.0/22,ap-northeast-1,AMAZON,ap-northeast-1
 54.229.0.0/16,eu-west-1,AMAZON,eu-west-1
 54.239.1.96/28,eu-north-1,AMAZON,eu-north-1
+66.36.10.0/24,us-east-1,AMAZON,us-east-1
 104.255.56.64/32,us-east-1,AMAZON,us-east-1
 104.255.59.103/32,ap-southeast-3,AMAZON,ap-southeast-3
 108.166.244.63/32,us-east-2,AMAZON,us-east-2
