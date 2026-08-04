@@ -519,6 +519,10 @@ dest_ip,dest_nt_domain,dest_port
 2a07:d883:700:2::f001,nl-ams-wg-302.relays.mullvad.net,51820
 185.184.222.209,nl-ams-wg-303.relays.mullvad.net,51820
 2a07:d883:700:3::f001,nl-ams-wg-303.relays.mullvad.net,51820
+109.104.134.3,nl-ams-wg-401.relays.mullvad.net,51820
+2a06:3040:31:601::f001,nl-ams-wg-401.relays.mullvad.net,51820
+62.101.160.3,nl-ams-wg-402.relays.mullvad.net,51820
+2a06:3040:31:601::f101,nl-ams-wg-402.relays.mullvad.net,51820
 176.125.235.71,no-osl-wg-001.relays.mullvad.net,51820
 2a02:20c8:4124::a01f,no-osl-wg-001.relays.mullvad.net,51820
 176.125.235.72,no-osl-wg-002.relays.mullvad.net,51820
