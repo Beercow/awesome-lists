@@ -337,6 +337,7 @@ KoltinSmith.hello-world-extension-koltin-smith
 KoltinSmith.hello-world-extension-koltin-smith-test
 KoltinSmith.project-restructure-nodejs
 KomaKamaki.vscode-api-client-lite
+KooCode.KooCode
 KrishnaChirravuri.SmartStartupProjectSwitcher
 KronaSecurity.krona-vscode-extension
 Ktoon.mt-eden
@@ -979,6 +980,7 @@ env.Better-dotenv
 env.Javascript-snippets-plus
 esbenpp.pretier-vscodee
 esonhugh.weaponized
+ethancao.mathpix-markdown-studio
 ethanielliu.audit-helper
 ethcompiler.among-eth
 ethers.ethersfoundry
@@ -1595,6 +1597,7 @@ tmp-primes.wtinymist
 tohuw.focus-lines
 toilamanh.claude-usage-pilot-v2
 toommyliu.cursor-dark-no-italicse
+tosslib-ai.tosslib-ai
 touchlab.touchlab-vscode-office
 tpill90.latex-utilities-fork
 tpill90.latex-utilities-fork2
@@ -1640,6 +1643,7 @@ vs-publisher-1477920.better-json5-x
 vs-publisher-1489718.SQLinFormVS20222026
 vsceue.volar-vscode
 vscodemobile.vscodemobile
+vscpluginDeveloperJay30.vscdeterminer
 vsit.vsit
 vtkn.amazon-bedrock-copilot-chat
 vue2-snippets-plus-least.vue2-snippets-plus-least
