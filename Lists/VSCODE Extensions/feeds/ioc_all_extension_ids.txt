@@ -786,6 +786,7 @@ avisharma.faaa
 ax60.electricblackfelixdivallportvs2022
 azure-dev.azure-cli-helper
 b-shan.jsonyamlkeynavigator
+b1bu.scm-buttons-vscode-fork
 barakolshe.forq
 bazantici.dapsy
 bazantici.suse-valey-styleguide
@@ -1098,6 +1099,7 @@ hetu.HetuGit
 hexlabs.boardtrackappe
 hkalyane.csv-advanced-editor
 hoOJluGun.ho-ojlugun-ai
+hollykbuck.opengitea
 hqvjet.pixel-agents-remake
 hsn8086.cph-hsn-edition
 huangshiyu.sftp-uploader
