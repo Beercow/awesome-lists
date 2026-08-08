@@ -1004,6 +1004,7 @@ ferrymo.intellij-idea-new-ui-pretty-ferrymo
 fibanez.sftp-sync-maintained
 fiyqkrc.opencode-vscode-client
 fiyqkrc.vscode-acp-chat
+flarre.flarre
 flutcode.flutter-extension
 flywine.vscode-clangd
 fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai
@@ -1214,6 +1215,7 @@ kodawari.error-lens-Japanese
 kodawari.gitlens-japanese
 kodawari.gitlens-zh
 kokoma.nvm-studio
+kolling88.claude-code-chats
 konyshevav.dbml-schema-visualizer
 kova-lang.kova-material-iconse
 krabt.krabt-extension-pack
@@ -1604,6 +1606,7 @@ tohuw.focus-lines
 toilamanh.claude-usage-pilot-v2
 toommyliu.cursor-dark-no-italicse
 tosslib-ai.tosslib-ai
+tosslib-tools.tosslib-tool
 touchlab.touchlab-vscode-office
 tpill90.latex-utilities-fork
 tpill90.latex-utilities-fork2
@@ -1738,6 +1741,7 @@ zhukunpeng.codemoss
 zhukunpeng.vscode-tinypng-pro
 zigbook.pilot-repl
 zijinshanren.vscode-clangd-modules
+ziop.jetgit
 zjt.zjt-onedark-modern
 zouguowei.krtc-filter-line
 zqchen.vscode-dashboard-fork
