@@ -377,6 +377,7 @@ SpecStoryInc
 StackspotPlatform
 StefanYosif
 StudioBoard
+Studiooo
 Superxin
 SupporterREditor
 SymbiozTechnologie
@@ -752,6 +753,7 @@ kolling88
 konyshevav
 kova-lang
 krabt
+kruton
 kudsu
 kvoon
 kwitch-studio
@@ -863,6 +865,7 @@ pablaofficeal
 pandaexpress
 parmentelat
 pascal-lab
+pascalabcnet
 paul0dev
 pedrocmota
 phantomgz

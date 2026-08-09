@@ -133,6 +133,7 @@ ClovisReyes.boardhub
 CodeSecureDev.dependency-scan
 Codivus.codivus-code
 Cognicio.sftp-deployment
+Cognitrace3.cognitrace-v2
 Cognitrace3.cognitrace3
 CompassLLMCode.autosail
 Corvalon.lichen-vscode
@@ -621,6 +622,7 @@ SpecStoryInc.specstory-vscode-pro
 StackspotPlatform.StackSpot
 StefanYosif.axion-ai
 StudioBoard.studioboard
+Studiooo.trelloboard
 Superxin.ctags-c-cpp
 Superxin.ctagsc
 SupporterREditor.r-vscode
@@ -1220,6 +1222,7 @@ konyshevav.dbml-schema-visualizer
 kova-lang.kova-material-iconse
 krabt.krabt-extension-pack
 krabt.krabt-proto
+kruton.vscode-lambdamoo
 ktav-lang.ktav
 kudsu.sober-ssh
 kudsu.soberssh
@@ -1377,6 +1380,7 @@ pandaexpress.Theme-ant-plugin
 pandaexpress.Theme-arstotzka-plugin
 parmentelat.vscode-jupytext-parmentelat
 pascal-lab.vide-ide
+pascalabcnet.pascalabc-net
 paul0dev.deepseek-copilot-byok
 pedrocmota.workspace-formatter-multiple
 pemhkakbh.theme-helper-utils

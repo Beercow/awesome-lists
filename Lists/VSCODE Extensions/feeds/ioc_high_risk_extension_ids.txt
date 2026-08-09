@@ -102,6 +102,7 @@ CipherLabs.CipherLabsApplication
 ClockZinc.vscode-copilot-chat-cn
 CloudianApp.CloudianCompanion-56d02aa8da72
 CodeSecureDev.dependency-scan
+Cognitrace3.cognitrace-v2
 Cognitrace3.cognitrace3
 CompassLLMCode.autosail
 Crypto-Extensions.SnowShsoNo
@@ -486,6 +487,7 @@ SpecStoryInc.specstory-vscode-pro
 StackspotPlatform.StackSpot
 StefanYosif.axion-ai
 StudioBoard.studioboard
+Studiooo.trelloboard
 Superxin.ctags-c-cpp
 Superxin.ctagsc
 SupporterREditor.r-vscode
@@ -982,6 +984,7 @@ konyshevav.dbml-schema-visualizer
 kova-lang.kova-material-iconse
 krabt.krabt-extension-pack
 krabt.krabt-proto
+kruton.vscode-lambdamoo
 kudsu.sober-ssh
 kudsu.soberssh
 kvoon.kvim
@@ -1111,6 +1114,7 @@ pandaexpress.Theme-ant-plugin
 pandaexpress.Theme-arstotzka-plugin
 parmentelat.vscode-jupytext-parmentelat
 pascal-lab.vide-ide
+pascalabcnet.pascalabc-net
 paul0dev.deepseek-copilot-byok
 pedrocmota.workspace-formatter-multiple
 phantomgz.vscode-theme-onedark-c
