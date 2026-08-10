@@ -358,6 +358,7 @@ LeiaBalan.romanager
 LesMiserablesMod.hoi4modutilities-maintained
 LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
+LihengLuo.proxy-bridge-extension-pack
 LinJun.aws-s3-support
 LinJun.bigquery-support
 LinJun.cassandra-support
@@ -1021,8 +1022,12 @@ fsiovn.chat-provider
 fsiovn.coper-copilot
 fsiovn.copilot-provider
 funkyproject.vscode-phpunit-funky-fork
+funovus.dcei-trdb
 funovus.dcei-vscode-teal
 funovus.dceilua
+funovus.funovus-trdb
+funovus.funovus-vscode-teal
+funovus.funovuslua
 fyzhu.git-pretty-graph
 gabrielbotan.gruvbox-vim
 gdnwxf.search-like-intellij
@@ -1615,6 +1620,7 @@ touchlab.touchlab-vscode-office
 tpill90.latex-utilities-fork
 tpill90.latex-utilities-fork2
 trandaison.trandaison-git-file-history
+transitrix.transitrix-studio
 tria-technologies.simpleswitch-vscode
 tria-technologies.simpleswitch-vscode-tools
 tria.readonlywin

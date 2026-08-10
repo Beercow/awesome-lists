@@ -243,6 +243,7 @@ Languages
 LesMiserablesMod
 LiamDrew
 LiamWang
+LihengLuo
 LinJun
 LinkingMountains
 LuaShield
@@ -1010,6 +1011,7 @@ tosslib-tools
 touchlab
 tpill90
 trandaison
+transitrix
 tria
 tria-technologies
 trlanfeng
