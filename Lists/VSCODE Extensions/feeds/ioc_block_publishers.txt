@@ -236,6 +236,7 @@ KomaKamaki
 KooCode
 KrishnaChirravuri
 KronaSecurity
+KsWpsClaude
 Ktoon
 KuCai
 LBGroup
@@ -479,6 +480,7 @@ appcreationsplc
 apzcode
 arclens
 areynard
+ascii-fetcher
 ashutosh-sanodia
 atharkes
 atman-dev
@@ -1107,6 +1109,7 @@ zijinshanren
 ziop
 zjt
 zouguowei
+zpy-ai
 zqchen
 zstings
 zwyyy456
