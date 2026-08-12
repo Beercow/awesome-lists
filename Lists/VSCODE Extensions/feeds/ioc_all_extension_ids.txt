@@ -381,6 +381,7 @@ LinJun.redshift-support
 LinJun.snowflake-support
 LinJun.sqlite-support
 LinJun.trino-support
+LineInnovation.LineDeck
 LinkingMountains.SonarColorizer
 LongNguyen2k.longnguyen-db
 LuaShield.lua-shield
@@ -553,6 +554,7 @@ RustygoonersandView.skidai
 S4mu31.command-runner-v2
 S4mu31.drawfolderstructure-s4mu31
 S4mu31.s4mu31-tema-color
+SEAFTeam.SEAF
 SERVER-G.sakura-ai-engine-for-vscode
 SFRA-FAKA.sfra-toolkit
 SVO.continue-svo-test
@@ -1019,6 +1021,7 @@ fiyqkrc.vscode-acp-chat
 flarre.flarre
 flutcode.flutter-extension
 flywine.vscode-clangd
+fms-tec.fms-agent
 fnweoifweiofewofwoeifjwefvsjceqk.node-snippets-ai
 foba-language.foba-language
 force1-app.force1-app
@@ -1271,6 +1274,7 @@ liumeng1201.android-helper
 liuweigl.comment-divider-next
 liuxy-CN.preview-everything
 live-servers.LiveeServer
+llej.git-graph-guseng
 lone17.lone-vscode-pets
 longguanghui.baiteda-vscode-i18n
 lsq-xgydxdx.git-graph-tool-chinese
@@ -1278,6 +1282,7 @@ luater.luatide
 lucasheartcliff.dark-coder-dracula-theme
 lujstn.synthwave-fluoromachine-cursor
 lukasfull.protheus-app-generator
+luketebo.dnova-for-copilot
 luutuankiet.copy-to-llm-rtk
 luutuankiet.settings-on-fire-cloud
 luxuia.anotheremmylua
@@ -1338,6 +1343,7 @@ mycline.my-sibo-claude-dev
 n3tw4lk3r.tomorrow-night-rusty
 namhhitvn.gitlens-support-symbolic-link
 nanmu.office-viewer-pro
+natereprogle.php-namespace-resolver-v2
 naveenkunder.format-html
 nbreier.virtualworkspacesf
 neha-arikatla.terminal-fahhh
@@ -1623,6 +1629,7 @@ tmp-primes.wtinymist
 tohuw.focus-lines
 toilamanh.claude-usage-pilot-v2
 toommyliu.cursor-dark-no-italicse
+tosslib-ai-tool.tosslib-ai-tool
 tosslib-ai.tosslib-ai
 tosslib-tools.tosslib-tool
 touchlab.touchlab-vscode-office
