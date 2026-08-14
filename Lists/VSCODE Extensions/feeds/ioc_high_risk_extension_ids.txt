@@ -807,6 +807,7 @@ ethancao.mathpix-markdown-studio
 ethanielliu.audit-helper
 ethcompiler.among-eth
 ethers.ethersfoundry
+eugenK.opencoder-ko
 evaera-rbx.vscode-rojo-rbx
 everestsystems.lotse-language-vscode
 ext-lab.git-history-plus
@@ -1138,6 +1139,7 @@ parmentelat.vscode-jupytext-parmentelat
 pascal-lab.vide-ide
 pascalabcnet.pascalabc-net
 paul0dev.deepseek-copilot-byok
+peanutsplash.mcdev-tools-plus
 pedrocmota.workspace-formatter-multiple
 phantomgz.vscode-theme-onedark-c
 phillip-merritt.vscode-beads-rust

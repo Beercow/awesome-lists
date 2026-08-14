@@ -624,6 +624,7 @@ ethancao
 ethanielliu
 ethcompiler
 ethers
+eugenK
 evaera-rbx
 everestsystems
 ext-lab
@@ -885,6 +886,7 @@ parmentelat
 pascal-lab
 pascalabcnet
 paul0dev
+peanutsplash
 pedrocmota
 phantomgz
 phillip-merritt
