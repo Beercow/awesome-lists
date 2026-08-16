@@ -683,6 +683,7 @@ hazi
 heartacker
 hetu
 hexlabs
+hikaoxx-tech
 hkalyane
 hoOJluGun
 hollykbuck
@@ -770,6 +771,7 @@ kiracode
 kodawari
 kokoma
 kolling88
+kongdetuo
 konyshevav
 kova-lang
 krabt
@@ -1032,6 +1034,7 @@ tohuw
 toommyliu
 tosslib-ai
 tosslib-ai-tool
+tosslib-tool
 tosslib-tools
 touchlab
 tpill90
