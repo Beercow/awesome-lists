@@ -231634,5 +231634,17 @@
     "domain": "utexas.eu",
     "age": "0 days ago (08/16/2026)",
     "retrievedAt": "2026-08-16T21:16:54.171Z"
+  },
+  {
+    "id": "1480327",
+    "domain": "minatosaba.ru",
+    "age": "9 days ago (08/09/2026)",
+    "retrievedAt": "2026-08-18T21:20:44.113Z"
+  },
+  {
+    "id": "1480525",
+    "domain": "zooskool.com",
+    "age": "3 days ago (08/14/2026)",
+    "retrievedAt": "2026-08-18T21:20:49.940Z"
   }
 ]
