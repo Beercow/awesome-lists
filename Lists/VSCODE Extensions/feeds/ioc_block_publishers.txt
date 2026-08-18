@@ -262,6 +262,7 @@ LuaShield
 LuizDoPc
 MMitsuha
 MN34studio
+MagicTeatime
 MahendrakarPrateek
 MakinCo
 Malkolm
@@ -648,6 +649,7 @@ ferrymo
 fibanez
 fiyqkrc
 flarre
+floatinghotpot
 flutcode
 flywine
 fms-tec
@@ -859,6 +861,7 @@ ms-gmolveau
 msjsdreact
 mtc2000
 mtglitch
+mttankkeo
 mycline
 namhhitvn
 nanmu
@@ -1127,6 +1130,7 @@ yishifuhua
 ynqq
 yonbip
 yujiitadori
+yunhaoli24
 zenplusplus
 zero-pzp
 zhoulufeng
