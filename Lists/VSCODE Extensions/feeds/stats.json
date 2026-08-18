@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-08-18T04:54:46+00:00",
-  "total_records": 1866,
-  "total_malicious": 1794,
+  "generated_utc": "2026-08-18T05:48:16+00:00",
+  "total_records": 1879,
+  "total_malicious": 1807,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 459,
+    "critical": 472,
     "high": 1018,
     "low": 22,
     "medium": 367
@@ -15,7 +15,7 @@
     "expired-domain": 1,
     "impersonation": 999,
     "impersonation-malware": 5,
-    "malware": 459,
+    "malware": 472,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -42,7 +42,7 @@
     "expired-domain": 1,
     "impersonation": 999,
     "impersonation-malware": 5,
-    "malware": 459,
+    "malware": 472,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1410,
+  "total_publishers": 1418,
   "top_publishers": [
     [
       "pit00",
@@ -132,6 +132,10 @@
       6
     ],
     [
+      "SadiqShuaibu",
+      6
+    ],
+    [
       "VSAnalysistest",
       6
     ],
@@ -161,10 +165,6 @@
     ],
     [
       "priskinski",
-      5
-    ],
-    [
-      "devshub-ai",
       5
     ]
   ]

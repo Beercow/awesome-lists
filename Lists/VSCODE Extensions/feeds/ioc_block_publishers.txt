@@ -60,6 +60,7 @@ Autolexia
 AutomationStudio
 Avan0203
 Aveva-Technology
+Azalea
 AzelSync
 Azir-11
 BFCollective
@@ -68,6 +69,7 @@ BITS2500
 BLSoftworks
 Barkerbg001
 Batch
+Baue
 Benachile-studio
 BenjaminFriedl
 BeyondR34CH
@@ -83,6 +85,7 @@ CJL
 CMSbrand
 COMP
 CSF-RED
+Cairo
 CalebBaird
 CartagoNova
 Cencurity
@@ -111,6 +114,7 @@ Dart-vsc
 DataScienceResearchPeru
 DaveWeb3
 DavidAsh
+Dean
 DevCatppuccinpro
 DevCrew
 DevFlowHub
@@ -163,6 +167,7 @@ GB0099
 GFSoftworks
 GMSoftwares
 GPTOnce
+GRSoftworks
 GSZN
 GavinLWood
 GavinLamWood
@@ -202,6 +207,7 @@ JarodWright
 JaviGuarin
 JavvDev
 JehanWeerasuriya
+JessieAAA
 JiHoonKim
 Jial
 Jianzhe
@@ -364,6 +370,7 @@ S4mu31
 SEAFTeam
 SFRA-FAKA
 SVO
+SadiqShuaibu
 Sammy
 SamuelPinto
 Sayantan710
@@ -1089,6 +1096,7 @@ wincell
 windy
 wli273088
 wlnxingdev
+workern
 worldline
 worma
 wtklbm
