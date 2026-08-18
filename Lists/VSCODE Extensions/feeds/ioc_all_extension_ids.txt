@@ -1373,6 +1373,7 @@ natereprogle.php-namespace-resolver-v2
 naveenkunder.format-html
 nbreier.virtualworkspacesf
 neha-arikatla.terminal-fahhh
+nevalang.vscode-nevalang
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
 ng-jk.sftp-ng-jk
 nicovy.symbolsnicovy
