@@ -263,6 +263,9 @@ Glenn-marks1990.live-sass-compiler
 GoDeveloper.go-developer-support-extension
 Gopherlume.colorloco
 GregoryBoy.ropanel
+GumAAA.gum-aa
+GumAAA.gum-dep-audit
+GumAAA.gum-dep-checker
 GustavoMaia.gruber-adapted
 Guyutongxue.gts-vscode
 HTMLLanguage.html-css-support
@@ -792,6 +795,7 @@ alinma.alinma-dev-studio
 alpgul.vscode-copilot-fallback
 altynbek132.turbo-console-log-custom
 amkig.i18n-ally-po
+amr-elzoghby.opencode-native
 annacode.pt-lab-simproc
 anovagroups.sas-data-explorer
 ant5888.opencode-vscode-cn
@@ -826,6 +830,7 @@ azure-dev.azure-cli-helper
 b-shan.jsonyamlkeynavigator
 b1bu.scm-buttons-vscode-fork
 barakolshe.forq
+baseballyama.rsvelte-vscode
 bazantici.dapsy
 bazantici.suse-valey-styleguide
 bbznop.open-in-external-app-pro
@@ -1043,6 +1048,7 @@ fibanez.sftp-sync-maintained
 fiyqkrc.opencode-vscode-client
 fiyqkrc.vscode-acp-chat
 flarre.flarre
+flarreai.flarre-ai
 floatinghotpot.deepseek-harness-web-for-vscode
 flutcode.flutter-extension
 flywine.vscode-clangd
@@ -1238,6 +1244,7 @@ k-lani.k-lani-code-translator
 kaighe.esp-idf-light
 kaijialin.pvts
 kaiwu-probes.Probes-ai
+kangaechu.open-in-github-kangaechu
 karlosasortico.Theme-Abyss-remastered
 kast789.visual-studio-2022-theme
 kast789.vs-2019-theme
@@ -1539,6 +1546,7 @@ robna.wordcount-selection
 roboard.roboard
 romanage.romanage
 romanager.ro-manager
+ronakmaheshwari.purrfect-code
 rpeter.python-code-lens
 rubiin.nestjs-snippets-vscode
 runsystemcopilot.runsystem-copilot-chat
@@ -1563,6 +1571,7 @@ sanchuan.minimax-copilot
 saoudrizvsce.claude-devsce
 saurav-sinha.CodeClaude
 schardosin.cline-for-sap-ai-core
+sci-inc-publisher.sci-inc
 seHunt-20241016.seHunt-20241016
 secunit.caddyfile-syntax
 seeker.super-change-case-fork
@@ -1607,6 +1616,7 @@ songyanglin.office-viewer-vditor
 songyanglin.vscode-office-plus
 soongfs.gruvbox-material-continued
 soshnikov.http-proxy-toggle-soshnikov
+souhailaserbout.codelight
 sparrowcodes.sparrowcodes
 spinback.spinback
 spmeesseman.vscode-vslauncher
@@ -1682,6 +1692,13 @@ txtx20.new-txtx
 txtx20.sunrise-greeter-demo
 tylerdotrar.goodbyeworld
 tylerdotrar.goodbyeworldng
+u-agentix.agent-builder
+u-agentix.community-hub
+u-agentix.compliance-monitor
+u-agentix.data-explorer
+u-agentix.spec-team
+u-agentix.teach-team
+u-agentix.trading-terminal
 uai-systems.uai-extension
 uladluch.antigravity-mobile-connector
 uladluch.cursor-mobile-connector
@@ -1694,6 +1711,8 @@ val-brlt.turbo-console-no-comma
 valentinbeaumont.youtrack-vscode
 vbtheory.gitlab-pipeline-monitor-advanced
 veraeva.RojoDB
+verified.pypi-deepseek
+verified.pypi-keyBank
 verreauxblack.vscode-git-commands-helper
 vextlabs.theron-vext
 vfd.vs2017-light-theme
