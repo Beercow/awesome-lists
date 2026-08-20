@@ -146,6 +146,7 @@ EricWrite
 ErickChandra
 EtherFoundation
 EthersFoundation
+EvaLiu
 EvgeniiShapovalov
 Expressjs
 Extensions-A
@@ -394,6 +395,7 @@ SoliditFoundation
 SoulFriends
 SoumyadeepDas
 SpecStoryInc
+StackStudios
 StackspotPlatform
 StefanYosif
 Studio-Co
@@ -589,6 +591,7 @@ day253
 deadman
 dechuen-lee
 deciosfernandes
+deepseek-harness-remote
 dengfy3
 devCHOUZZ
 devCharles5277
@@ -816,6 +819,7 @@ liuweigl
 liuxy-CN
 live-servers
 llej
+logicalrblx7
 longguanghui
 lsq-xgydxdx
 luater
