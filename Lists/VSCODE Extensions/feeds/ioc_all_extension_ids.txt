@@ -467,6 +467,7 @@ Noe.noe-tokyo-night-horizon
 NolanWang.omnimedia-player
 NordicMidnight.codesilence
 NormB.kamailio-lsp
+NormB.opensips-lsp
 NotToTest.NotToTest
 OIOXO.oioxo-vscode
 OPENEDAI.OPENEDAI
@@ -1364,6 +1365,7 @@ mirrorflat.mirrorflatlog
 mishannn.custom-turbo-console-log
 mkd-corp.keural-vscode
 mlhiter.sline
+mnjit.mnjit-vscode
 mo-masoud.claude-code-rtl-arabic
 mo7ammedd.vscode-blur
 model-selection.TerminalRun
