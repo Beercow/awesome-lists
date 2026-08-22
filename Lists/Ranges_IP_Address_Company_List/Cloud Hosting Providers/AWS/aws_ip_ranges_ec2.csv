@@ -1162,6 +1162,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 18.204.0.0/14,us-east-1,EC2,us-east-1
 35.178.0.0/15,eu-west-2,EC2,eu-west-2
 54.88.0.0/14,us-east-1,EC2,us-east-1
+23.254.40.0/23,ca-central-1,EC2,ca-central-1
 35.50.224.0/24,ap-northeast-1,EC2,ap-northeast-1
 52.94.116.0/22,us-west-2,EC2,us-west-2
 64.66.128.0/24,us-west-2,EC2,us-west-2
