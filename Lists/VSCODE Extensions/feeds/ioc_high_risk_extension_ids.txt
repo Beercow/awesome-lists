@@ -1073,6 +1073,7 @@ luater.luatide
 lucasheartcliff.dark-coder-dracula-theme
 lujstn.synthwave-fluoromachine-cursor
 luketebo.dnova-for-copilot
+luo2430.luo2430-npmx
 luutuankiet.copy-to-llm-rtk
 luutuankiet.settings-on-fire-cloud
 luxuia.anotheremmylua
@@ -1126,6 +1127,7 @@ mttankkeo.vscode-flutter-widget-preview
 mycline.my-sibo-claude-dev
 namhhitvn.gitlens-support-symbolic-link
 nanmu.office-viewer-pro
+naruse-love.google-antigravity-zh-cn
 natereprogle.php-namespace-resolver-v2
 naveenkunder.format-html
 nbreier.virtualworkspacesf
