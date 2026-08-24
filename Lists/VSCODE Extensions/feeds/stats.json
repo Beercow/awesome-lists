@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-08-24T03:18:34+00:00",
-  "total_records": 1913,
-  "total_malicious": 1841,
+  "generated_utc": "2026-08-24T05:04:41+00:00",
+  "total_records": 1920,
+  "total_malicious": 1848,
   "total_risky": 72,
   "severity_counts": {
     "critical": 481,
-    "high": 1032,
+    "high": 1038,
     "low": 22,
-    "medium": 378
+    "medium": 379
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1013,
+    "impersonation": 1019,
     "impersonation-malware": 5,
     "malware": 481,
     "owner-request": 8,
@@ -34,13 +34,13 @@
     "spam": 82,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 221
+    "untrustworthy": 222
   },
   "malicious_category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1013,
+    "impersonation": 1019,
     "impersonation-malware": 5,
     "malware": 481,
     "owner-request": 8,
@@ -49,7 +49,7 @@
     "spam": 82,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 221
+    "untrustworthy": 222
   },
   "risky_category_counts": {
     "risky-ai-code-access": 9,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1442,
+  "total_publishers": 1445,
   "top_publishers": [
     [
       "pit00",

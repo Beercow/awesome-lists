@@ -473,6 +473,7 @@ adi-trev
 adr-org
 adwaitkeshari
 agent
+agentself
 agility6
 agtest
 ahban
@@ -483,6 +484,7 @@ alanguo
 alberto-pilotto
 alex-fitzgerald
 alexevanczuk
+alexhicks
 algovscode
 alien-fish-person
 alinma
