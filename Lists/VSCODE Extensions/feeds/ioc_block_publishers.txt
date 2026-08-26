@@ -22,6 +22,8 @@ ASUS-AICS
 Abhilash001
 Acronix-dev
 AdamFortune
+AgendaStudios
+AgentChatBus
 AhmedCrypto
 AhmedSleem
 AhmedSlem
@@ -83,6 +85,7 @@ ByteBarn
 CCD-Studios
 CJL
 CMSbrand
+CODEZPC
 COMP
 CSF-RED
 Cairo
@@ -346,6 +349,7 @@ RachelFront
 RachmatKaligis
 RahulSinha
 RandomityGuy
+RandomityMB
 RblxTasker
 RdbtCVS
 ReadMeAI
@@ -384,6 +388,7 @@ SereneStudios
 Sewara
 ShopifySTORES
 ShowSnowcrypto
+ShunichiHorigome
 Shunqian
 Shuzzy
 Sm1lerrpasy
@@ -415,6 +420,7 @@ TechSolutionsPro
 TheKiltedCoder
 TheMysteryPanda
 TheRealGorgan
+TianliangQi
 TobiasHochguertel
 Tone
 TrelloSoftWorks
@@ -434,6 +440,7 @@ VanessaAster
 VelocityCoderPro
 VibeKanban
 Vikang
+VincentUllmann
 Vistagi
 VisualStudioCodeStaffTeam
 VitalikB
@@ -446,6 +453,7 @@ VitalyButerin
 VivekChoudhury
 WEB3Foundation
 WavesMan
+WellinWorks
 WillZhang
 Worklink-Copilot
 WuZhiguo
@@ -621,6 +629,7 @@ dopbop-studio
 dorry
 dotatong
 drzorm
+dsh-vscode-plugin
 duailibe
 duanyll
 dutu-mike
@@ -853,6 +862,7 @@ me80758262
 meetrice
 meow-d
 mercerllc
+mervick
 metagogo
 mg-lab
 mglab
@@ -969,6 +979,7 @@ richardgubangxa
 rizort
 robna
 ronakmaheshwari
+ronakmaheshwari077
 rubiin
 rustcc
 rwbcy

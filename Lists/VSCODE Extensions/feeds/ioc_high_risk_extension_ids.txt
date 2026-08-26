@@ -29,6 +29,8 @@ ASUS-AICS.xhis-copilot
 Abhilash001.t-ex
 Acronix-dev.Go-work-tools
 AdamFortune.ezsqlite
+AgendaStudios.frux-board
+AgentChatBus.deepseek-gold-harness
 AhmedCrypto.ahmedcrypto1
 AhmedSleem.secure-code
 AhmedSlem.secure-codee
@@ -95,6 +97,7 @@ ByteBarn.byte-barn-devkit
 CCD-Studios.ccd-sftp
 CJL.todo-tree-enhanced
 CMSbrand.liquidfred
+CODEZPC.deepseek-statusbar
 COMP.sqltools-driver-postgres
 COMP.sqltools-enhanced
 CSF-RED.CSF-RED
@@ -447,6 +450,8 @@ RahulSinha.bracketeer-personal
 RandomityGuy.torquescript-debug
 RandomityGuy.torquescript-intellisense
 RandomityGuy.torquescript-support
+RandomityMB.torquescript-debugger
+RandomityMB.torquescript-language-support
 RblxTasker.RblxTasker
 RdbtCVS.chattriggers-latest
 ReadMeAI.readmeai
@@ -499,6 +504,7 @@ Sewara.copy-fences-lang
 ShopifySTORES.builderliquid
 ShopifySTORES.liquidpeptide
 ShowSnowcrypto.SnowShoNo
+ShunichiHorigome.vscode-log-viewer-fork
 Shunqian.prettier-plus
 Shuzzy.dracula-shuzzyos
 Sm1lerrpasy.ton-func-syntax-highlighter
@@ -538,6 +544,7 @@ TheMysteryPanda.discodemulti
 TheRealGorgan.better-sidebar-markdown-notes
 TheRealGorgan.copilot-chat-history-fork
 TheRealGorgan.vscode-google-tasks-extension
+TianliangQi.antigravity-usage-monitor
 TobiasHochguertel.catalog-lens
 TobiasHochguertel.pattern-links-fork
 Tone.prettier-vscode-wolfram
@@ -566,6 +573,7 @@ VelocityCoderPro.velocitycodeproupdate
 VibeKanban.vibe-kanban-vscode
 Vikang.acnh-vscode-theme
 Vikang.vscode-acnh-icon-theme
+VincentUllmann.vscode-nuke
 Vistagi.vista-code-agent
 VisualStudioCodeStaffTeam.mannequin2
 VitalikB.solidit-lang
@@ -578,6 +586,7 @@ VitalyButerin.hardhatjs
 VivekChoudhury.google-gui-support
 WEB3Foundation.cxzczxcxz
 WavesMan.tree-generator-defined
+WellinWorks.arux-board
 WillZhang.dracula-variants
 Worklink-Copilot.worklinkcopilot
 WuZhiguo.callgraph-viz
@@ -807,6 +816,7 @@ dopbop-studio.vscode-tailwindcss-extension-toolkit
 dorry.smart-json
 dotatong.wt-prettier-vscode
 drzorm.vscode-fast-folder-structure-custom
+dsh-vscode-plugin.dsh-vscode-plugin
 duailibe.miniprettier
 duanyll.image-gallery
 dutu-mike.vim-cheatsheet-cn
@@ -1080,6 +1090,7 @@ lucasheartcliff.dark-coder-dracula-theme
 lujstn.synthwave-fluoromachine-cursor
 luketebo.dnova-for-copilot
 luo2430.luo2430-npmx
+luo2430.luo2430-npmx-0
 luutuankiet.copy-to-llm-rtk
 luutuankiet.settings-on-fire-cloud
 luxuia.anotheremmylua
@@ -1107,6 +1118,7 @@ me80758262.piiithon-linter
 meetrice.mysql-blade
 meow-d.markless-meowd
 mercerllc.mercer-onboarding-helper
+mervick.deepseek-peak-hours
 metagogo.metagogo
 mg-lab.mb-lab
 mglab.mglab
@@ -1273,6 +1285,7 @@ rizort.phpstorm-light-theme-109
 rizort.phpstorm-pack-109
 robna.wordcount-selection
 ronakmaheshwari.purrfect-code
+ronakmaheshwari077.Cat-Code
 rubiin.nestjs-snippets-vscode
 rustcc.rust-analyzer-cn
 rwbcy.trwbcy-poc
