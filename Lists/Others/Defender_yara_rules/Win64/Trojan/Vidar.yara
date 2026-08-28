@@ -83,6 +83,28 @@ rule Trojan_Win64_Vidar_AB_2147893043_1
         (all of ($x*))
 }
 
+rule Trojan_Win64_Vidar_AB_2147893043_2
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:Win64/Vidar.AB!MTB"
+        threat_id = "2147893043"
+        type = "Trojan"
+        platform = "Win64: Windows 64-bit platform"
+        family = "Vidar"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "10"
+        strings_accuracy = "Low"
+    strings:
+        $x_5_1 = {0f b6 14 01 30 14 06 48 83 c0 01 48 39 c3 77}  //weight: 5, accuracy: High
+        $x_5_2 = {0f b6 14 01 83 f2 [0-4] 41 88 14 04 48 83 c0 01 48 83 f8 0c 75}  //weight: 5, accuracy: Low
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
 rule Trojan_Win64_Vidar_PSD_2147899275_0
 {
     meta:
@@ -4146,6 +4168,30 @@ rule Trojan_Win64_Vidar_NX_2147977046_0
         $x_1_6 = "[reg_vals] FAIL" ascii //weight: 1
         $x_1_7 = "SystemManufacturer = QEMU" ascii //weight: 1
         $x_1_8 = "[smbios] FAIL" ascii //weight: 1
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_Win64_Vidar_ND_2147977138_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:Win64/Vidar.ND!MTB"
+        threat_id = "2147977138"
+        type = "Trojan"
+        platform = "Win64: Windows 64-bit platform"
+        family = "Vidar"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "6"
+        strings_accuracy = "High"
+    strings:
+        $x_2_1 = {48 f7 ef 48 01 fa 48 c1 fa 06 4c 29 ca 48 6b d2 61 49 89 f9 48 29 d7 31 f7 48 89 ca 48 c1 e1 05 48 29 d1 31 f9 41 88 0c 10 48 89 d1}  //weight: 2, accuracy: High
+        $x_2_2 = {0f b6 34 01 31 d6 31 ce 40 88 34 08 48 ff c1}  //weight: 2, accuracy: High
+        $x_1_3 = "VirtualAllocinvalid slothost is downill" ascii //weight: 1
+        $x_1_4 = "TERMbindsync" ascii //weight: 1
     condition:
         (filesize < 20MB) and
         (all of ($x*))
