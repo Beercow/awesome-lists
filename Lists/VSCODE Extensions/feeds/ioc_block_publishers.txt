@@ -177,6 +177,7 @@ GavinLWood
 GavinLamWood
 GavinWoodETH
 GitDEV
+Gitea
 GitlensPro
 Glenn-marks1990
 GoDeveloper
@@ -338,6 +339,7 @@ PriyanshuMallick
 ProjectStarboy
 Pstudio
 Puglight
+QOBYN
 Quant
 Quantam
 QuantumCodeLabs
@@ -420,6 +422,8 @@ TechSolutionsPro
 TheKiltedCoder
 TheMysteryPanda
 TheRealGorgan
+ThinkCreations
+ThinkWorks
 TianliangQi
 TobiasHochguertel
 Tone
@@ -467,6 +471,7 @@ YiEvan
 YicoFighting
 YogevAvitan
 YuTengjing
+YummyGroup
 ZAMBAR
 ZaqueuRodrigues
 Zaur
@@ -529,6 +534,7 @@ bbznop
 beisen
 ben14
 benkeen
+bennett
 benpzhao
 better-sollidity
 betterthanalltime
@@ -882,6 +888,7 @@ mrchen
 mrcrispy
 ms-gmolveau
 msjsdreact
+mskelton
 mtc2000
 mtglitch
 mttankkeo
@@ -929,6 +936,7 @@ pascalabcnet
 paul0dev
 peanutsplash
 pedrocmota
+peterdmv
 phantomgz
 phillip-merritt
 phyrasaur
