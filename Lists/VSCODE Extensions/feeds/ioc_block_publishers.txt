@@ -569,6 +569,7 @@ clawdbot
 clclw
 clicli100
 cline-ai-main
+clode-agentstop
 cloorc
 cmd-studio
 cn00
