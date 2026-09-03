@@ -202,6 +202,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 18.99.128.0/20,ca-west-1,EC2,ca-west-1
 64.66.140.0/24,ap-northeast-1,EC2,ap-northeast-1
 99.77.238.0/24,ap-south-1,EC2,ap-south-1
+16.15.60.0/22,us-south-1,EC2,us-south-1
 35.50.239.0/24,ap-northeast-2,EC2,ap-northeast-2
 35.55.15.0/24,ap-south-1,EC2,ap-south-1
 54.144.0.0/14,us-east-1,EC2,us-east-1
