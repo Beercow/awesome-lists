@@ -325,6 +325,7 @@ OryonTechnology
 OxfordAbstracts
 OzzyDev777
 PCODE-pl
+PRSoftworks
 PallasUI
 ParthRaninga
 ParwatKunwar
@@ -434,6 +435,7 @@ Trent-Tompkins
 TrueCrimeDev
 Trustworthy
 TuyaOpen
+TypinKey
 Utilities
 VKTeam
 VSAnalysistest
@@ -483,6 +485,7 @@ Zlmiles
 Zoosewu
 ab-498
 abczyx2006
+abersheeran
 abstractalgo
 adi-trev
 adr-org
