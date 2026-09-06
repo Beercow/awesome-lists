@@ -297,6 +297,7 @@ KsWpsClaude.wps-claude-vscode
 Ktoon.mt-eden
 Ktoon.recce-ai
 KuCai.kucai-autojs6-vscode-ext
+Kxnrl.vsc-panorama-ext
 LBGroup.lineputscript-formatter
 LWilhelmer.reflow-markdown-plus
 LaineHallot.astrolize-plus-plus
@@ -453,11 +454,13 @@ RabobankAI.rabobank-code-assistant
 RachelFront.asdtif
 RachmatKaligis.robotcode-gherkin-extended
 RahulSinha.bracketeer-personal
+RamiAbughazaleh.RamiAbughazalehDiffFinderVS2026
 RandomityGuy.torquescript-debug
 RandomityGuy.torquescript-intellisense
 RandomityGuy.torquescript-support
 RandomityMB.torquescript-debugger
 RandomityMB.torquescript-language-support
+RavidAmar.resources-monitor
 RblxTasker.RblxTasker
 RdbtCVS.chattriggers-latest
 ReadMeAI.readmeai
@@ -622,6 +625,7 @@ Zeron1337.Zeron-CySec
 ZhangQuan.code-translate-enhanced
 Zlmiles.zlmiles-liquid
 Zoosewu.project-manager-zoo
+a7bz.svn-a7bz
 ab-498.cppformat
 ab-498.cppplayground
 ab-498.httpformat
@@ -1342,6 +1346,7 @@ shinganEuler.codex-profile-switcher
 shinganEuler.vscode-unity-debug
 siehc.vscode-proto3-rebirth
 siffat-ahmed.ai-autocomplete-siffat-ahmed
+silvercastledigital.archclive
 simplerjiang.oai-compatible-copilot-kong
 smartflow.sf-stream
 smarty1337.nixware-snippets

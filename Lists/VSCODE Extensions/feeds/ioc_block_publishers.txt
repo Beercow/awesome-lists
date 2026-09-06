@@ -255,6 +255,7 @@ KronaSecurity
 KsWpsClaude
 Ktoon
 KuCai
+Kxnrl
 LBGroup
 LWilhelmer
 LaineHallot
@@ -354,8 +355,10 @@ RabobankAI
 RachelFront
 RachmatKaligis
 RahulSinha
+RamiAbughazaleh
 RandomityGuy
 RandomityMB
+RavidAmar
 RblxTasker
 RdbtCVS
 ReadMeAI
@@ -486,6 +489,7 @@ Zeron1337
 ZhangQuan
 Zlmiles
 Zoosewu
+a7bz
 ab-498
 abczyx2006
 abersheeran
@@ -1030,6 +1034,7 @@ shenlin
 shinganEuler
 siehc
 siffat-ahmed
+silvercastledigital
 simplerjiang
 smartflow
 smarty1337

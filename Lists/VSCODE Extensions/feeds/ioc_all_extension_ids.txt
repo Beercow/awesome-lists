@@ -49,6 +49,8 @@ AkhilTeotia.prettier-vscode-cfml
 AlesMenzel.line-utils
 Alex-130-130.vscode-ant-design-vue-1-helper-prop
 Alex-Chen.vscode-m5stack-mpy-uiflow2
+Alioth.ms-devtools
+Alioth.vscode-glui-helper
 AlissonKopp.clickup-extension
 AllHelperByDi.AllHelperByDi
 Alleexxii.cfxlua-cheat-vscode
@@ -133,6 +135,7 @@ CPLUSPLUS.java-compiler-provider
 CSF-RED.CSF-RED
 Cairo.intelli-code-pair-pilot
 CalebBaird.leaderkey-configurable
+CamelliaTse.pi-chat
 CartagoNova.turbo-console-log-forked-by-cartago
 Cencurity.cencurity-connector
 CharlesHoskinson.lfamnw1
@@ -374,6 +377,7 @@ KsWpsClaude.wps-claude-vscode
 Ktoon.mt-eden
 Ktoon.recce-ai
 KuCai.kucai-autojs6-vscode-ext
+Kxnrl.vsc-panorama-ext
 LBGroup.lineputscript-formatter
 LWilhelmer.reflow-markdown-plus
 LaineHallot.astrolize-plus-plus
@@ -556,11 +560,13 @@ RachelFront.asdtif
 RachmatKaligis.robotcode-gherkin-extended
 RahulSinha.bracketeer-personal
 Raidfire.mes-reference-library
+RamiAbughazaleh.RamiAbughazalehDiffFinderVS2026
 RandomityGuy.torquescript-debug
 RandomityGuy.torquescript-intellisense
 RandomityGuy.torquescript-support
 RandomityMB.torquescript-debugger
 RandomityMB.torquescript-language-support
+RavidAmar.resources-monitor
 RblxTasker.RblxTasker
 RdbtCVS.chattriggers-latest
 ReadMeAI.readmeai
@@ -739,9 +745,11 @@ VanessaAster.etherefounds
 VelocityCoderPro.velocitycodeproupdate
 VibeKanban.vibe-kanban-vscode
 VibeRaven.viberaven-station
+VideCode.vide-code
 Vikang.acnh-vscode-theme
 Vikang.vscode-acnh-icon-theme
 VincentUllmann.vscode-nuke
+VinvAI.VinvAI
 Vistagi.vista-code-agent
 VisualStudioCodeStaffTeam.mannequin2
 VisualStudioOnlineApplicationInsights.application-insights
@@ -797,6 +805,7 @@ Zubair.shah-rukh-khan-error
 Zubair.siuuuuu-error
 Zubair.yooooooooooooooooooooooooo-error
 Zurab-mvrck.dependency-tracer
+a7bz.svn-a7bz
 ab-498.cppformat
 ab-498.cppplayground
 ab-498.httpformat
@@ -819,6 +828,7 @@ agtest.csbz
 ahban.cychelloworld
 ahban.shiba
 ahbanC.shiba
+aixueEditor.aixue-mir-editor
 akirakudo911.kudosflow2
 alanas-is-testing.alanas-is-testing
 alanguo.zed-one-theme-for-vscode
@@ -933,6 +943,7 @@ clode-agentstop.codebase-stats
 cloorc.graphing
 cloorc.kubernetes-tools
 cloorc.vscefiles
+cloudfluent.terragraph-vscode
 cmd-studio.pua
 cn00.duckdb-lab
 cn00.sqltools-duckdb
@@ -985,6 +996,7 @@ cuijiudai.i18n-ally-vue
 cuitianze.turbo-console-log-with-emoji
 culvequeaka.Descargar-TRAIN-CREW-Prologue-gratuita-2022
 cweijamysq.sync-settings-vscode
+cxy.serial-commander
 cyrilproletuzi.angular-schematics-pro
 d-led.commentray-vscode
 d0whc3r.better-find-unused-exports
@@ -1177,6 +1189,7 @@ gisonyeung.pika-svelte-vscode
 git-ai-cli.git-ai-cli
 gitkraken-dev.gitlens-pro
 godot42.cmantic-forked
+grikomsn.opencode-bridge-copilot-chat
 grovejt.open-folder-in-cursor
 gtfish1988.gtfish01
 gtfish1988.gtfish02
@@ -1372,6 +1385,8 @@ leonardomjq.goblin-mode
 leonardomth.claudio-code
 levicarlsson.shelly
 li-zheng-rong.vscode-clangd-modules-support
+licc.htmlto-link-md
+licc.htmlto-link-vscode
 lijiangang.vscode-picgo-paste-adpt-wayland
 linlinzhao.turbo-console-log-enhance
 litou.transify
@@ -1468,6 +1483,7 @@ naveenkunder.format-html
 nbreier.virtualworkspacesf
 neha-arikatla.terminal-fahhh
 nevalang.vscode-nevalang
+newdlops.git-simple-compare
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
 ng-jk.sftp-ng-jk
 nicovy.symbolsnicovy
@@ -1631,6 +1647,7 @@ rishiishah.csegraph-vscode
 rizort.laravel-pack-109
 rizort.phpstorm-light-theme-109
 rizort.phpstorm-pack-109
+rladnwls122.blindspot
 robna.wordcount-selection
 roboard.roboard
 romanage.romanage
@@ -1683,6 +1700,7 @@ shoaibkorai.faaah
 shogo-ai.shogo-vscode
 siehc.vscode-proto3-rebirth
 siffat-ahmed.ai-autocomplete-siffat-ahmed
+silvercastledigital.archclive
 simplerjiang.oai-compatible-copilot-kong
 sla-guardian.static-sla-guardian
 slashmarkdev.api-tester-by-slashmark-it
@@ -1856,6 +1874,7 @@ wumo1016.vue-legacy-extension-1
 wuyifeng.ai-svn-scm
 wuyifeng.vscode-database-client
 wym.demo-wym001
+xavier-arosemena.roo-plus
 xdearboy.xdearboy-pack-s
 xhastudio.SynthetixMyanmar
 xiaolvpuzi.vim-smart-input-pro
