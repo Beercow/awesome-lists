@@ -30,6 +30,7 @@ Abhilash001.t-ex
 Acronix-dev.Go-work-tools
 AdamFortune.ezsqlite
 Aelionyxe.cobnox-language-support
+AgendaLLC.zlux-board
 AgendaStudios.frux-board
 AgentChatBus.deepseek-gold-harness
 AhmedCrypto.ahmedcrypto1
@@ -274,6 +275,7 @@ JuanCrypto.juancrypto
 JuanFBlanco.awswhh
 JuanFlanco.Soquidity
 JuanFrBlanco.outtro
+JuanFra.sol-prac
 JuanFranBlanco.solidit-vscode
 JuanFranBlancoExtensions.AmitAssaraf
 JuanRiseETH.solidit
@@ -386,6 +388,7 @@ Noe.noe-tokyo-night-horizon
 NolanWang.omnimedia-player
 NordicMidnight.codesilence
 NotToTest.NotToTest
+NotePadExtra.notepadextraplus
 OIOXO.oioxo-vscode
 OPENEDAI.OPENEDAI
 OfekBickel.wpp
@@ -1069,6 +1072,7 @@ kokoma.nvm-studio
 kolling88.claude-code-chats
 kongdetuo.AxamlCraft
 konyshevav.dbml-schema-visualizer
+kototok903.vscode-harbor-bronze
 kova-lang.kova-material-iconse
 krabt.krabt-extension-pack
 krabt.krabt-proto
@@ -1217,6 +1221,7 @@ pandaexpress.Theme-arstotzka-plugin
 parmentelat.vscode-jupytext-parmentelat
 pascal-lab.vide-ide
 pascalabcnet.pascalabc-net
+pathvela.pathvela
 paul0dev.deepseek-copilot-byok
 peanutsplash.mcdev-tools-plus
 pedrocmota.workspace-formatter-multiple
