@@ -553,6 +553,7 @@ Taro-Native.taro-native-language-support
 TaskRblx.taskrblx
 Taskify.taskify
 TechSolutionsPro.bitcoin-cake-theme
+TestZeron-CySec.TestZeron-CySec
 TheKiltedCoder.convert-to-template-string
 TheMysteryPanda.discodemulti
 TheRealGorgan.better-sidebar-markdown-notes
@@ -1341,6 +1342,7 @@ senseDevpro.profiler-php-pro
 seolmuah.jupyter-live-share
 serialt.sugar-extension-pack
 serialt.sugar-proto
+serviceme.serviceme-devtools
 sgds.uss
 shao.deepcode-fx
 shaokun.cangjie-code

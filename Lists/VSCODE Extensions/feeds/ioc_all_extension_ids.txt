@@ -522,6 +522,7 @@ ParwatKunwar.codesandbox-parwat-theme
 PatchLabs.boardtrack
 PeterC.i18n-ally-fork-peter
 PetrosPanayi.ucy-cs-homework-editor
+PetrosPanayi.ucy-cs-lab-homework-editor
 PhungXuanAnh.auto-run-command-with-condition
 PixelLabs.boardflow
 Price.automatic-printing-codem
@@ -706,6 +707,7 @@ Taro-Native.taro-native-language-support
 TaskRblx.taskrblx
 Taskify.taskify
 TechSolutionsPro.bitcoin-cake-theme
+TestZeron-CySec.TestZeron-CySec
 TheKiltedCoder.convert-to-template-string
 TheMysteryPanda.discodemulti
 TheRealGorgan.better-sidebar-markdown-notes
@@ -1692,6 +1694,7 @@ sentinelvs.sentinel-debug
 seolmuah.jupyter-live-share
 serialt.sugar-extension-pack
 serialt.sugar-proto
+serviceme.serviceme-devtools
 sgds.uss
 shahul-dev.internal
 shao.deepcode-fx
