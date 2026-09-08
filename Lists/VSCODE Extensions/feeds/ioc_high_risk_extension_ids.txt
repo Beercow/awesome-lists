@@ -126,6 +126,7 @@ CursorFree.cursor-free
 CyrusRune.codearts-cli-launcher
 DATEx2.vscode-gutter-preview-by-datex2l
 DRAWNCODES.sftp-sync-drawncodes
+DaChengZhou.zed-theme-recreated
 DaMaoCloud.damao-aie
 Damilola.azure-devops-pipelines
 DanielBlockchain.chocosnack
@@ -623,6 +624,7 @@ YicoFighting.line-lens
 YogevAvitan.codeivri-vscode
 YuTengjing.vscode-colorize-plus
 YuTengjing.vscode-github-actions-tj
+YummyGroup.Fristaylo-sessions
 YummyGroup.claude-multi-sessions
 ZAMBAR.riscv-venus-cs110
 ZaqueuRodrigues.vscode-eclipse-keymap-complete
@@ -729,6 +731,7 @@ bysabi.prettier-vscode-standard
 camork.fonted-plus
 cancline.cancline-dev
 cassandragargoyle.portunix-pdf-viewer
+ccimage.ccimage-emoji-log
 ceo.sammarco
 cfeltz.taskpanel
 chenjingqing.yuque-editor
@@ -882,6 +885,7 @@ fab1can.docker-compose-fixed
 fadizant.terminal-commands-2026
 famibee2.skynovel2
 fanrj.gs-lang-with-driver
+faxes.autominifyfiles
 fecet.vscode-neovim-fecet
 felcadev.sweetdraculav2
 ferrymo.intellij-idea-new-ui-pretty-ferrymo
@@ -1132,6 +1136,7 @@ madmansidea.sidetrack-music
 mahdihajian.angular-files-creator
 mahdihajian.vscode-pull-request-azure-devops
 mahdihajian.vscode-shelf
+maizhuoying.vscode-office-enhance
 manageblox.manageblox
 mangaba-ai.mangaba-ai
 mantasmikaI.vscode-theme-pIuto
@@ -1401,6 +1406,7 @@ svltsweet.Svetle-for-Cursor
 swarmiq-os.swarmiq-connect
 t1mt.vsc-go-imports-sorter
 tabnine-dev.tabnine-pro
+tae-h-yang.vscode-3d-preview-true-origin
 taillaaa.codilore-ai
 tangxia.roo-code-ex
 tanukii.autoversion
