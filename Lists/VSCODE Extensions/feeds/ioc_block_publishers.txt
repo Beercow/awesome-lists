@@ -71,6 +71,7 @@ BFCollective
 BFSoftworks
 BITS2500
 BLSoftworks
+BadginLNN
 Barkerbg001
 Batch
 Baue
@@ -439,6 +440,7 @@ ThinkWorks
 TianliangQi
 TobiasHochguertel
 Tone
+TrellKhan
 TrelloSoftWorks
 TrelloWorks
 Trent-Tompkins

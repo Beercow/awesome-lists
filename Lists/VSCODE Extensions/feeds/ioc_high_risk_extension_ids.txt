@@ -78,6 +78,7 @@ BFCollective.pulse-board
 BFSoftworks.flux-board
 BITS2500.bits-codon
 BLSoftworks.FocusDeck
+BadginLNN.badgerposts
 Barkerbg001.xaml-lineup
 Batch.Docker-Vscode-V2
 Baue.update-fetcher
@@ -566,6 +567,7 @@ TobiasHochguertel.catalog-lens
 TobiasHochguertel.pattern-links-fork
 Tone.prettier-vscode-wolfram
 Tone.wolfram-prettier-vscode
+TrellKhan.devora
 TrelloSoftWorks.trello-deck
 TrelloWorks.trello-board
 Trent-Tompkins.claude-codex-black-edition
