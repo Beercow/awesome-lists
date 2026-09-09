@@ -50,6 +50,7 @@ AppCreationLTD
 AppCreationPLC
 AppHelix
 AppLabs
+AppLaunchLLC
 AppPublishPLC
 AppPublishersPLC
 AppReleasePLC
@@ -126,6 +127,7 @@ DevCatppuccinpro
 DevCrew
 DevFlowHub
 DevMatrix
+DevoraBoarding
 Dhakshinesh
 DiegoPandiello
 DigitalJSMTUGroup
@@ -199,6 +201,7 @@ HernandoR
 HonzaPudil
 Horizon-Projects
 HrushikeshPhapale
+HypeShowG
 IamTheKaaZZ
 Iconkieftwo
 Ilham-ahmedow
@@ -265,6 +268,7 @@ LWilhelmer
 LaineHallot
 LangNico
 Languages
+LaunchAppsLLC
 LesMiserablesMod
 LiamDrew
 LiamWang
@@ -274,6 +278,7 @@ LineInnovation
 LinkingMountains
 LuaShield
 LuizDoPc
+Lunascape
 MMitsuha
 MN34studio
 MagicTeatime
@@ -306,6 +311,7 @@ Moushu
 MrMainframe
 MultiCortexDevCore202
 Murilo
+MusicCreates
 Muzammil
 NEVSTOP-LAB
 NFoundation
@@ -525,6 +531,7 @@ alpgul
 altynbek132
 amkig
 amr-elzoghby
+anaer
 annacode
 anovagroups
 ant5888
@@ -1191,6 +1198,7 @@ xxnuo
 yamlcode
 yanfeixin
 yasbougacha
+yeceen
 yelmuratoff
 yfdyh000
 ygqygq2

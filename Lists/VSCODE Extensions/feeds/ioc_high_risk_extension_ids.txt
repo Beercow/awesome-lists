@@ -57,6 +57,11 @@ AppCreationLTD.dockyardapp
 AppCreationPLC.boardwalk
 AppHelix.apphelix-blog-search
 AppLabs.boardstep
+AppLaunchLLC.desk-20948159
+AppLaunchLLC.desk-24129806
+AppLaunchLLC.desk-67475651
+AppLaunchLLC.desk-73007551
+AppLaunchLLC.desk-85941343
 AppPublishPLC.boardtrackappel
 AppPublishersPLC.boardlinkapp
 AppReleasePLC.boardlinkapplication
@@ -142,6 +147,7 @@ DevCatppuccinpro.catppuccin-pro-vsc
 DevCrew.devc-python-toolkit
 DevFlowHub.devflowhub
 DevMatrix.devmatrix
+DevoraBoarding.devora-board
 Dhakshinesh.sfdx-package-xml-generator-by-dk
 DiegoPandiello.aws-srp-rest-client
 DiegoPandiello.elixir-ls-test-args
@@ -233,6 +239,7 @@ HernandoR.duck-viewer
 HonzaPudil.vscode-theme-onedarker-custom
 Horizon-Projects.Horizon-Collaboration-Tracker
 HrushikeshPhapale.ClaudeCodeForVS
+HypeShowG.fastmusicgen
 IamTheKaaZZ.valgrind-debug
 Iconkieftwo.icon-theme-materiall
 Ilham-ahmedow.sftp20
@@ -307,6 +314,12 @@ LWilhelmer.reflow-markdown-plus
 LaineHallot.astrolize-plus-plus
 LangNico.maxima-syntax-highlighting-new
 Languages.hungarian
+LaunchAppsLLC.desk-28944594
+LaunchAppsLLC.desk-44851403
+LaunchAppsLLC.desk-47747973
+LaunchAppsLLC.desk-59838605
+LaunchAppsLLC.desk-94262049
+LaunchAppsLLC.launchdesk-app
 LesMiserablesMod.hoi4modutilities-maintained
 LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
@@ -333,6 +346,7 @@ LineInnovation.LineDeck
 LinkingMountains.SonarColorizer
 LuaShield.lua-shield
 LuizDoPc.luizdopc-turbo-console-log
+Lunascape.lunascape-doc
 MMitsuha.vscode-docker-registry-explorer-rev
 MN34studio.cph-2077
 MagicTeatime.student-cline
@@ -376,6 +390,7 @@ Moushu.material-icon-theme-moushu
 MrMainframe.pitel-library
 MultiCortexDevCore202.MultiCortexDevCore202
 Murilo.headwind-haml-fork
+MusicCreates.musicicgen
 Muzammil.smart-attach
 NEVSTOP-LAB.csm-vsc-support
 NFoundation.terraform-ai
@@ -670,6 +685,7 @@ alpgul.vscode-copilot-fallback
 altynbek132.turbo-console-log-custom
 amkig.i18n-ally-po
 amr-elzoghby.opencode-native
+anaer.a-git-log
 annacode.pt-lab-simproc
 anovagroups.sas-data-explorer
 ant5888.opencode-vscode-cn
@@ -1524,6 +1540,7 @@ yasbougacha.state-diagram-editor-yassinebou
 yasbougacha.state-diagram-editor-yassinebouga
 yasbougacha.state-diagram-editor-yassinebougacha1
 yasbougacha.state-diagram-editor-yassinebouu
+yeceen.har-auto-analyzer
 yelmuratoff.dart-data-class-tools-dev
 yfdyh000.aar-vsc-test
 yfdyh000.aar-vscode

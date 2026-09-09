@@ -76,6 +76,11 @@ AppCreationPLC.boardwalk
 AppCreationsPLC.boardwalkdevapp
 AppHelix.apphelix-blog-search
 AppLabs.boardstep
+AppLaunchLLC.desk-20948159
+AppLaunchLLC.desk-24129806
+AppLaunchLLC.desk-67475651
+AppLaunchLLC.desk-73007551
+AppLaunchLLC.desk-85941343
 AppPublishPLC.boardtrackappel
 AppPublishersPLC.boardlinkapp
 AppReleasePLC.boardlinkapplication
@@ -186,6 +191,7 @@ DevelopmentInc.kombai-vs
 DevelopmentInc.minecraftsnippets
 DevelopmentInc.pokemon
 DevelopmentInc.torizon-vs
+DevoraBoarding.devora-board
 Dhakshinesh.sfdx-package-xml-generator-by-dk
 DiegoPandiello.aws-srp-rest-client
 DiegoPandiello.elixir-ls-test-args
@@ -296,6 +302,7 @@ HonzaPudil.vscode-theme-onedarker-custom
 Horizon-Projects.Horizon-Collaboration-Tracker
 HrushikeshPhapale.ClaudeCodeForVS
 HuxLabs.huxlabsapp
+HypeShowG.fastmusicgen
 IONDev.iondev
 IZOT-TE-3-FINAL.static-code-parser-FINAL
 IZOT-TE-3.static-code-parser
@@ -388,6 +395,12 @@ LaineHallot.astrolize-plus-plus
 LangNico.maxima-syntax-highlighting-new
 Languages.hungarian
 Lars-Ve.cses-tracker
+LaunchAppsLLC.desk-28944594
+LaunchAppsLLC.desk-44851403
+LaunchAppsLLC.desk-47747973
+LaunchAppsLLC.desk-59838605
+LaunchAppsLLC.desk-94262049
+LaunchAppsLLC.launchdesk-app
 LeiaBalan.LeiaBalan
 LeiaBalan.luaulink
 LeiaBalan.roblox-sync
@@ -419,6 +432,7 @@ LinkingMountains.SonarColorizer
 LongNguyen2k.longnguyen-db
 LuaShield.lua-shield
 LuizDoPc.luizdopc-turbo-console-log
+Lunascape.lunascape-doc
 MMitsuha.vscode-docker-registry-explorer-rev
 MN34studio.cph-2077
 MachineConfiguration-test.machine-configuration
@@ -468,6 +482,7 @@ Moushu.material-icon-theme-moushu
 MrMainframe.pitel-library
 MultiCortexDevCore202.MultiCortexDevCore202
 Murilo.headwind-haml-fork
+MusicCreates.musicicgen
 Muzammil.smart-attach
 NEVSTOP-LAB.csm-vsc-support
 NEVSTOP-LAB.vsc-open-in-integrated-browser
@@ -837,7 +852,6 @@ agtest.csbz
 ahban.cychelloworld
 ahban.shiba
 ahbanC.shiba
-aixueEditor.aixue-mir-editor
 akirakudo911.kudosflow2
 alanas-is-testing.alanas-is-testing
 alanguo.zed-one-theme-for-vscode
@@ -855,6 +869,7 @@ alpgul.vscode-copilot-fallback
 altynbek132.turbo-console-log-custom
 amkig.i18n-ally-po
 amr-elzoghby.opencode-native
+anaer.a-git-log
 annacode.pt-lab-simproc
 anovagroups.sas-data-explorer
 ant5888.opencode-vscode-cn
@@ -1918,6 +1933,7 @@ yasbougacha.state-diagram-editor-yassinebouu
 yasosubin.yasosubin-vscode
 yassinebougacha.state-diagram-editor-exe
 yassinebougacha.state-diagram-editor-yassine-V10-exe
+yeceen.har-auto-analyzer
 yelmuratoff.dart-data-class-tools-dev
 yfdyh000.aar-vsc-test
 yfdyh000.aar-vscode
