@@ -9119,6 +9119,33 @@ rule Trojan_Win64_CobaltStrike_CH_2147851264_1
         (all of ($x*))
 }
 
+rule Trojan_Win64_CobaltStrike_CH_2147851264_2
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:Win64/CobaltStrike.CH!MTB"
+        threat_id = "2147851264"
+        type = "Trojan"
+        platform = "Win64: Windows 64-bit platform"
+        family = "CobaltStrike"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "14"
+        strings_accuracy = "High"
+    strings:
+        $x_2_1 = "nekoTssecorPnepO" ascii //weight: 2
+        $x_2_2 = "noitamrofnInekoTteG" ascii //weight: 2
+        $x_2_3 = "sehcaorppAtceteD" ascii //weight: 2
+        $x_2_4 = "llDdaolnUrdL" ascii //weight: 2
+        $x_2_5 = "Error GetModule NTDLL_HASH" ascii //weight: 2
+        $x_2_6 = "Error GetModule KERNELBASE_HASH" ascii //weight: 2
+        $x_2_7 = "Error During KERNEL32DLL_HASH" ascii //weight: 2
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
 rule Trojan_Win64_CobaltStrike_CI_2147851265_0
 {
     meta:
@@ -19724,6 +19751,30 @@ rule Trojan_Win64_CobaltStrike_PLA_2147976869_0
         strings_accuracy = "High"
     strings:
         $x_1_1 = {46 8d 04 18 45 0f b6 d8 45 0f b6 c0 46 0f b6 a4 04 70 01 00 00 44 88 a4 14 70 01 00 00 42 88 84 04 70 01 00 00 02 84 14 70 01 00 00 0f b6 c0 0f b6 84 04 70 01 00 00 30 01 48 83 c1 01 4c 39 d1 75 ab}  //weight: 1, accuracy: High
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_Win64_CobaltStrike_PAE_2147977876_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:Win64/CobaltStrike.PAE!MTB"
+        threat_id = "2147977876"
+        type = "Trojan"
+        platform = "Win64: Windows 64-bit platform"
+        family = "CobaltStrike"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "5"
+        strings_accuracy = "High"
+    strings:
+        $x_2_1 = {48 8b 3e 48 8b 4e 08 48 2b cf 33 d2 49 8b c0 48 f7 f1 0f b6 04 3a 41 30 04 18 49 ff c0 4d 3b c1 72 de}  //weight: 2, accuracy: High
+        $x_1_2 = "encrypt" ascii //weight: 1
+        $x_1_3 = "VirtualAlloc failed." ascii //weight: 1
+        $x_1_4 = "VirtualProtect failed." ascii //weight: 1
     condition:
         (filesize < 20MB) and
         (all of ($x*))
