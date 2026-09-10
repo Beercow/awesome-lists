@@ -197,6 +197,7 @@ FengXCs.best-novel-reader
 Floriani.mcp-hub
 FlowIndex.flowindex-cadence
 FlyingsMarmot.vscode-clangd-ucpp
+FontingFonts.monkeyfont
 Forms.gitlab-workflow-kontur
 FrancescoOrtu.slurm-dashboard-orfeo
 FrancoisLe.cmake-tools-with-post-configure-task
@@ -705,6 +706,7 @@ atom8n.n8n-atom-v3
 atom8n.tampermonkey-atom8n
 atom8n.thor-client-atom8n
 atom8n.vscode-extensionpack
+augura-team.augura-dev
 auguwu.opentofu-vscode
 aurogon-as.unreal-angelscript-aurogon
 aurora-them-creator.theme-aurora-nocturne
