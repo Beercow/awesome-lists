@@ -410,6 +410,7 @@ LesMiserablesMod.hoi4modutilities-maintained
 LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
 LihengLuo.proxy-bridge-extension-pack
+Lily-Pathvela.lily-pathvela
 LinJun.aws-s3-support
 LinJun.bigquery-support
 LinJun.cassandra-support
@@ -504,6 +505,7 @@ NormB.kamailio-lsp
 NormB.opensips-lsp
 NotToTest.NotToTest
 NotePadExtra.notepadextraplus
+Nyisulya.bongocode-ai
 OIOXO.oioxo-vscode
 OPENEDAI.OPENEDAI
 OfekBickel.wpp
@@ -634,6 +636,7 @@ SafeBreach.safebreach-visual-attack-studio
 Sajjad19397.baburao-sound-track
 Sajjad19397.brother-ewww-sound
 Sajjad19397.faah-error-sound
+SalHax.keil-helper-plus
 Sammy.clipboard-manager-with-cycling
 SamuelPinto.better-vscode-html-css
 SamuelPinto.better-vscode-html-css-support
@@ -712,6 +715,7 @@ Studiooo.trelloboard
 Superxin.ctags-c-cpp
 Superxin.ctagsc
 SupporterREditor.r-vscode
+SuyuDiao.bios-build-assistant
 SymbiozTechnologie.mia-assistant
 SyntaxDev.New-Christmas-Theme
 Synthetixfordebug.synthetix-debugger
@@ -791,6 +795,7 @@ WellinWorks.arux-board
 WhenSunset.chatgpt-china
 WillZhang.dracula-variants
 Worklink-Copilot.worklinkcopilot
+WorkoraNet.workora
 WuZhiguo.callgraph-viz
 WuZhiguo.callviz
 Wumpus.bold-end
@@ -830,6 +835,7 @@ Zubair.shah-rukh-khan-error
 Zubair.siuuuuu-error
 Zubair.yooooooooooooooooooooooooo-error
 Zurab-mvrck.dependency-tracer
+a1phaZ.mr-creator
 a7bz.svn-a7bz
 ab-498.cppformat
 ab-498.cppplayground
@@ -1007,6 +1013,7 @@ cot-eis-team.cot-eis-team-bytestream-route-designer
 cot-eis-team.cot-eis-team-extension-pack
 cot-eis-team.cot-eis-team-solution-development-studio
 crazypanda.git-commit-plugin-custom
+creeperw.polyllm
 cryptninjaswap.cryptoninja-auto-accept
 cryptninjaswap.cryptoninja-code-review
 cryptninjaswap.cryptoninja-color-picker
@@ -1084,6 +1091,7 @@ dontdownloadthis.dontdownloadthis
 dopbop-studio.vscode-tailwindcss-extension-toolkit
 dorry.smart-json
 dotatong.wt-prettier-vscode
+drmrStudio.opencode-scribe
 drzorm.vscode-fast-folder-structure-custom
 dsanms.dsanms
 dsh-vscode-plugin.dsh-vscode-plugin
@@ -1314,6 +1322,7 @@ jameszhanga.even-prettier
 jamiewest.theme-light-vs-mac
 jangxyz.svelte-infile-component-vscode
 jarekw.Ric
+jasonbg-koi.koi-markt-bug1
 jaw3l.cisco-ng
 jaywoo0830a.modern-php-8-snippets
 jeronimodevex.color-picker-pro
@@ -1470,6 +1479,7 @@ mathieu42.monokai-dark-by-mathieu42
 matthewbill.hue-code
 me80758262.piiithon-linter
 meetrice.mysql-blade
+meijiahao.video-preview-fast
 meow-d.markless-meowd
 mercerllc.mercer-onboarding-helper
 mervick.deepseek-peak-hours
@@ -1733,6 +1743,7 @@ shoaibkorai.faaah
 shogo-ai.shogo-vscode
 siehc.vscode-proto3-rebirth
 siffat-ahmed.ai-autocomplete-siffat-ahmed
+sighted2.sighted2-vscode
 silvercastledigital.archclive
 simplerjiang.oai-compatible-copilot-kong
 sla-guardian.static-sla-guardian
