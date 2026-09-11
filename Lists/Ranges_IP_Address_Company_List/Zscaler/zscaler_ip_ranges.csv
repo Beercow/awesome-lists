@@ -143,6 +143,7 @@ src_ip,metadata_reference
 137.31.30.0/23,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 137.31.56.0/23,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 137.31.64.0/20,https://config.zscaler.com/api/zscalertwo.net/cenr/json
+137.31.80.0/21,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 137.31.88.0/23,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 137.31.94.0/23,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 137.31.102.0/23,https://config.zscaler.com/api/zscalertwo.net/cenr/json
@@ -619,6 +620,7 @@ src_ip,metadata_reference
 2605:4300:3700::/40,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 2605:4300:3800::/40,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 2605:4300:3a00::/40,https://config.zscaler.com/api/zscalertwo.net/cenr/json
+2605:4300:3d00::/40,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 2605:4300:e200::/40,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 2605:4300:e300::/40,https://config.zscaler.com/api/zscalertwo.net/cenr/json
 2605:4300:e400::/40,https://config.zscaler.com/api/zscalertwo.net/cenr/json
