@@ -1581,6 +1581,7 @@ zhucan.zc-claude-dev
 zigbook.pilot-repl
 zijinshanren.vscode-clangd-modules
 ziop.jetgit
+zjqtzzc.make-git-great-again
 zjt.zjt-onedark-modern
 zouguowei.krtc-filter-line
 zpy-ai.clinez
