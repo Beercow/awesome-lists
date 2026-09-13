@@ -944,6 +944,7 @@ naruse-love
 natereprogle
 naveenkunder
 nbreier
+nerfine-dev
 newsporcolec
 ng-jk
 nicovy
@@ -969,6 +970,7 @@ otimiza
 oub
 outstand
 outthaway
+ovcharik
 ovixcodes
 ovolab-veritas
 owenrossikeen

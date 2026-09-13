@@ -1213,6 +1213,7 @@ naruse-love.google-antigravity-zh-cn
 natereprogle.php-namespace-resolver-v2
 naveenkunder.format-html
 nbreier.virtualworkspacesf
+nerfine-dev.projectly-app
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
 ng-jk.sftp-ng-jk
 nicovy.symbolsnicovy
@@ -1242,6 +1243,7 @@ oub.lucide-product-icon-theme-fork
 oub.theme-bluloco-light-oub-rmx
 outstand.outstand-elixir-ls
 outthaway.sol2-lang
+ovcharik.vscode-gitlab-codeowners
 ovixcodes.basedpyright-vscode
 ovolab-veritas.codesnap-lite
 ovolab-veritas.codesnap-neo
