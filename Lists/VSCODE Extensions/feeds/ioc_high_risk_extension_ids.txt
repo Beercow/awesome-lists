@@ -242,6 +242,7 @@ HernandoR.duck-viewer
 HonzaPudil.vscode-theme-onedarker-custom
 Horizon-Projects.Horizon-Collaboration-Tracker
 HrushikeshPhapale.ClaudeCodeForVS
+HuppyBRS.theme-enhancer-pack
 HypeShowG.fastmusicgen
 IamTheKaaZZ.valgrind-debug
 Iconkieftwo.icon-theme-materiall
@@ -348,6 +349,7 @@ LinJun.sqlite-support
 LinJun.trino-support
 LineInnovation.LineDeck
 LinkingMountains.SonarColorizer
+Lommin.workoran
 LuaShield.lua-shield
 LuaStyle.kit-toolbox
 LuaStyle.luastyle
@@ -408,6 +410,7 @@ NeoMain.Neo-Better-DevTracker
 Nibs.remote-cloud-shell
 Nice8888.cline-nice8888
 NikiTester.claude-commit-generator
+NodeOnline.live-test-live-share
 NodePack.live-test-candidate
 NodePack.live-test-hr
 NodePackOnline.live-test-for-candidate
@@ -584,6 +587,7 @@ TaskRblx.taskrblx
 Taskify.taskify
 TechSolutionsPro.bitcoin-cake-theme
 TestZeron-CySec.TestZeron-CySec
+Thanuerl.devorina
 TheKiltedCoder.convert-to-template-string
 TheMysteryPanda.discodemulti
 TheRealGorgan.better-sidebar-markdown-notes
@@ -599,6 +603,7 @@ TobiasHochguertel.pattern-links-fork
 Tone.prettier-vscode-wolfram
 Tone.wolfram-prettier-vscode
 ToolingForAll.toolingforalls
+TooneyLoner.TooneyLoner
 TrellKhan.devora
 TrelloSoftWorks.trello-deck
 TrelloWorks.trello-board
@@ -1122,6 +1127,7 @@ kongdetuo.AxamlCraft
 konyshevav.dbml-schema-visualizer
 kototok903.vscode-harbor-bronze
 kova-lang.kova-material-iconse
+kr-ilya.syncx
 krabt.krabt-extension-pack
 krabt.krabt-proto
 kruton.vscode-lambdamoo
