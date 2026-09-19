@@ -442,6 +442,7 @@ StefanYosif
 Studio-Co
 StudioBoard
 Studiooo
+SuperBoards
 Superxin
 SupporterREditor
 SymbiozTechnologie
@@ -504,6 +505,7 @@ Whelmns
 WillZhang
 Worklink-Copilot
 WorkoraNet
+WuJunFeng
 WuZhiguo
 Wumpus
 Wundero
