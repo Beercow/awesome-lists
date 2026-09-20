@@ -71,6 +71,7 @@ ArchMedia.sp-isc-devtools
 Ares-Agent.ares-agent
 ArthurNeuman.eslint-disable-typescript-snippets
 AshleyHornja.prettierformattingplus
+AtIassianlm.Trello-Boarding
 AtroxEGO.better-folding-plus
 AutoMind.automindX
 Autolexia.testwise
@@ -726,6 +727,7 @@ areynard.iceberg-theme-code-visible
 ascii-fetcher.ascii-fetcher
 ashutosh-sanodia.riai-marketplace-mcp
 ashutosh-sanodia.translator-plugin
+atIassiansum.Trello-Boards
 atharkes.vscode-yaml-formatter
 atman-dev.opencode-chat-unofficial-custom
 atom8n.kanban-atom8n
@@ -1201,6 +1203,7 @@ marketplacer.marketplacer
 markovic.jetbrains-file-icon-theme-php
 marpo.gruvbox-material-marpo
 marvin63597.claude-dd
+masota.swahilipro
 mathieu42.monokai-dark-by-mathieu42
 me80758262.piiithon-linter
 meetrice.mysql-blade
@@ -1242,6 +1245,7 @@ natereprogle.php-namespace-resolver-v2
 naveenkunder.format-html
 nbreier.virtualworkspacesf
 nerfine-dev.projectly-app
+neural-llm.power-claude
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
 ng-jk.sftp-ng-jk
 nicovy.symbolsnicovy
@@ -1445,6 +1449,7 @@ sqlmtxredev.quarto-pro
 ss13.auto-comment-blocks-dm
 sseveur.vscode-bigquery-v2
 stan-stani.autolaunch-plus
+starfall-contributor.remote-extended
 stark.bgide
 state-diagram-yass-kpit.state-diagram-editor-yassinebougacha
 state-diagram-yass-kpit.state-diagram-editor-yassinebougachaaa

@@ -60,6 +60,7 @@ ArchMedia
 Ares-Agent
 ArthurNeuman
 AshleyHornja
+AtIassianlm
 AtroxEGO
 AutoMind
 Autolexia
@@ -568,6 +569,7 @@ arclens
 areynard
 ascii-fetcher
 ashutosh-sanodia
+atIassiansum
 atharkes
 atman-dev
 atom8n
@@ -930,6 +932,7 @@ marketplacer
 markovic
 marpo
 marvin63597
+masota
 mathieu42
 me80758262
 meetrice
@@ -970,6 +973,7 @@ natereprogle
 naveenkunder
 nbreier
 nerfine-dev
+neural-llm
 newsporcolec
 ng-jk
 nicovy
@@ -1119,6 +1123,7 @@ sqlmtxredev
 ss13
 sseveur
 stan-stani
+starfall-contributor
 stark
 state-diagram-yass-kpit
 sthudy
