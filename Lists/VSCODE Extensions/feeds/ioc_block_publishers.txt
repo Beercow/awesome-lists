@@ -19,6 +19,7 @@ ALT5
 AMAARETS
 ANZ-BANK
 ASUS-AICS
+AaynaPatel
 Abhilash001
 Acronix-dev
 AdamFortune
@@ -201,6 +202,7 @@ HanazakiShiki
 HarshAgarwal1012
 HarshChitaliya
 HawnyJawny
+Heisenberg
 HernandoR
 HonzaPudil
 Horizon-Projects
@@ -634,6 +636,7 @@ codeomnitrix
 codevsce
 codivus
 cognivision
+compcon
 complete
 congyang
 consistem-sistemas
