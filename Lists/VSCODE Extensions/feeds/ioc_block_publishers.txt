@@ -97,6 +97,7 @@ COMP
 CSF-RED
 Cairo
 CalebBaird
+CanvasLLC
 CartagoNova
 Cencurity
 CharlesHoskinson
