@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-09-23T20:27:49+00:00",
-  "total_records": 2128,
-  "total_malicious": 2056,
+  "generated_utc": "2026-09-23T23:45:54+00:00",
+  "total_records": 2141,
+  "total_malicious": 2069,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 560,
-    "high": 1100,
+    "critical": 562,
+    "high": 1111,
     "low": 22,
     "medium": 446
   },
@@ -13,9 +13,9 @@
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1081,
+    "impersonation": 1092,
     "impersonation-malware": 5,
-    "malware": 560,
+    "malware": 562,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -40,9 +40,9 @@
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1081,
+    "impersonation": 1092,
     "impersonation-malware": 5,
-    "malware": 560,
+    "malware": 562,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1599,
+  "total_publishers": 1602,
   "top_publishers": [
     [
       "pit00",
@@ -97,6 +97,10 @@
     ],
     [
       "Puglight",
+      10
+    ],
+    [
+      "buildwithlayer",
       10
     ],
     [
@@ -161,10 +165,6 @@
     ],
     [
       "AppLaunchLLC",
-      5
-    ],
-    [
-      "cobot100",
       5
     ]
   ]
