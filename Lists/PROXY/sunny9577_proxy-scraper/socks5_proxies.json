@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "country": "Netherlands",
+    "ip": "45.74.31.50",
+    "port": "9900",
+    "type": "socks5",
+    "anonymity": "elite"
+  }
+]
