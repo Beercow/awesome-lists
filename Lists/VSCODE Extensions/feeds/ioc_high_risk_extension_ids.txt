@@ -96,6 +96,7 @@ BeyondR34CH.theme-br-monokai
 BigBlack.bitcoin-black
 BigBlack.codo-ai
 BigBlack.mrbigblacktheme
+Bihrys.codebuddy-credits-radar
 Blamely.blamely
 BlockchainIndustries.bitcoin-toolkit
 BlockchainIndustries.blockchain-toolkit
@@ -399,6 +400,7 @@ Med-H.git-graph-revamped
 MediaLLC.solidyy
 MichaelBanucu.vscode-mocha-test-adapter-update-to-nodejs-22
 Microco.trelloboarda
+Mid-Autumn.agent-task-manager
 Milynn.bongocat-sidebar
 MisterAAR.codex-ai-pro
 MohammadWaliduddin.codexeconpixel
@@ -591,6 +593,7 @@ SuperBoards.fluxboard
 Superxin.ctags-c-cpp
 Superxin.ctagsc
 SupporterREditor.r-vscode
+SushanShakya.bloc-extended
 SymbiozTechnologie.mia-assistant
 SyntaxDev.New-Christmas-Theme
 SysheadLabs.kubernetes-safe-apply
@@ -1049,6 +1052,7 @@ havedifficultyinfindingnames.debug-leetcode-refined
 hazi.hazi-theme
 hbtghost.material-theme
 heartacker.git-graph-ai
+helixinc.harborhub-dev
 hetu.HetuGit
 hexlabs.boardtrackappe
 hikaoxx-tech.dsh-pro
@@ -1203,6 +1207,7 @@ lualang.lualang
 luater.luatide
 lucasheartcliff.dark-coder-dracula-theme
 lujstn.synthwave-fluoromachine-cursor
+luka223.OneDarkProDarker2026
 luketebo.dnova-for-copilot
 luo2430.luo2430-npmx
 luo2430.luo2430-npmx-0
@@ -1254,6 +1259,7 @@ mo-masoud.claude-code-rtl-arabic
 mo7ammedd.vscode-blur
 model-selection.TerminalRun
 momomomowei.element-plus-mo
+mparramon.vscode-language-pack-catala
 mrchen.vue-jump-m
 mrcrispy.cpln
 ms-gmolveau.vscode-hadolint2
@@ -1441,6 +1447,7 @@ sci-inc-publisher.sci-inc
 seHunt-20241016.seHunt-20241016
 secunit.caddyfile-syntax
 seeker.super-change-case-fork
+semasquare.vscode-coverage-gutters
 senseDevpro.profiler-php-pro
 seolmuah.jupyter-live-share
 serialt.sugar-extension-pack
@@ -1603,6 +1610,7 @@ wumo1016.vue-legacy-extension
 wumo1016.vue-legacy-extension-1
 wuyifeng.ai-svn-scm
 wuyifeng.vscode-database-client
+wuyujiesong.opencode-update
 wym.demo-wym001
 xiaolvpuzi.vim-smart-input-pro
 xiaym-gh.background-cover-simplified

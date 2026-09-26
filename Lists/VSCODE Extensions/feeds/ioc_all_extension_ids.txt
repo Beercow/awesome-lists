@@ -118,6 +118,7 @@ BeyondR34CH.theme-br-monokai
 BigBlack.bitcoin-black
 BigBlack.codo-ai
 BigBlack.mrbigblacktheme
+Bihrys.codebuddy-credits-radar
 Blamely.blamely
 BlocWeave.blocweave
 BlockchainIndustries.bitcoin-toolkit
@@ -494,6 +495,7 @@ Men3emkhaled.agent-assistant
 MichaelBanucu.vscode-mocha-test-adapter-update-to-nodejs-22
 MicroLLC.typewriter-keyin
 Microco.trelloboarda
+Mid-Autumn.agent-task-manager
 Milynn.bongocat-sidebar
 MisterAAR.codex-ai-pro
 MohammadWaliduddin.codexeconpixel
@@ -688,6 +690,7 @@ Sewara.copy-fences-lang
 ShaunsWork.tabletopsimulator-lua-community
 ShayanAhmedKhan.visual-studio-themes
 Ship-lab.markpad
+ShipStatic.shipstatic
 ShopifySTORES.builderliquid
 ShopifySTORES.liquidpeptide
 ShowSnowcrypto.SnowShoNo
@@ -749,6 +752,7 @@ SuperBoards.fluxboard
 Superxin.ctags-c-cpp
 Superxin.ctagsc
 SupporterREditor.r-vscode
+SushanShakya.bloc-extended
 SuyuDiao.bios-build-assistant
 SymbiozTechnologie.mia-assistant
 SyntaxDev.New-Christmas-Theme
@@ -1335,6 +1339,7 @@ havedifficultyinfindingnames.debug-leetcode-refined
 hazi.hazi-theme
 hbtghost.material-theme
 heartacker.git-graph-ai
+helixinc.harborhub-dev
 hetu.HetuGit
 hexlabs.boardtrackappe
 hikaoxx-tech.dsh-pro
@@ -1510,6 +1515,7 @@ lualang.lualang
 luater.luatide
 lucasheartcliff.dark-coder-dracula-theme
 lujstn.synthwave-fluoromachine-cursor
+luka223.OneDarkProDarker2026
 lukasfull.protheus-app-generator
 luketebo.dnova-for-copilot
 luo2430.luo2430-npmx
@@ -1566,6 +1572,7 @@ mo-masoud.claude-code-rtl-arabic
 mo7ammedd.vscode-blur
 model-selection.TerminalRun
 momomomowei.element-plus-mo
+mparramon.vscode-language-pack-catala
 mpw.ccbscf-biz-snippets
 mpw.ccbscf-snippets
 mpw.ccbscf-ui-transfer
@@ -1747,6 +1754,9 @@ raidenshogun.javascript-null-sequence
 rainbowflesh.moondusttheme-fork
 ravaelles.search-anywhere
 ray2666.antigravity-proxy
+raylei.atm-icon-only
+raylei.atm-real-code
+raylei.atm-upload-control
 reactsnippetsai.es7-react-js-snippets-ai
 redmat.vscode-quarkus-pro
 reflection.test-gl-workflow-fork
@@ -1802,6 +1812,7 @@ sci-inc-publisher.sci-inc
 seHunt-20241016.seHunt-20241016
 secunit.caddyfile-syntax
 seeker.super-change-case-fork
+semasquare.vscode-coverage-gutters
 senseDevpro.profiler-php-pro
 sentinelvs.sentinel-debug
 seolmuah.jupyter-live-share
@@ -2000,6 +2011,7 @@ wumo1016.vue-legacy-extension
 wumo1016.vue-legacy-extension-1
 wuyifeng.ai-svn-scm
 wuyifeng.vscode-database-client
+wuyujiesong.opencode-update
 wym.demo-wym001
 xavier-arosemena.roo-plus
 xdearboy.xdearboy-pack-s
