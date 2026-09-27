@@ -100,6 +100,7 @@ Cairo
 CalebBaird
 CanvasLLC
 CanvasSoftworks
+Canvasorg
 CartagoNova
 Cencurity
 CharlesHoskinson
@@ -230,6 +231,7 @@ JacksonChen
 JacobETH
 JahidLimon
 JarodWright
+JasielDelarosa
 JaviGuarin
 JavvDev
 JehanWeerasuriya
@@ -556,6 +558,7 @@ agility6
 agtest
 ahban
 ahbanC
+aiwormcn
 akirakudo911
 alanas-is-testing
 alanguo
@@ -1037,6 +1040,7 @@ parmentelat
 pascal-lab
 pascalabcnet
 pathvela
+patrick-local
 paul0dev
 peanutsplash
 pedro-time-tracker-spike
@@ -1242,6 +1246,7 @@ wanxiong
 we125182
 webctrl
 weiboplat
+weichweich
 weimh
 wenwj
 whatnick
