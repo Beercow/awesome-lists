@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-09-28T07:01:43+00:00",
-  "total_records": 2165,
-  "total_malicious": 2093,
+  "generated_utc": "2026-09-28T15:37:52+00:00",
+  "total_records": 2180,
+  "total_malicious": 2108,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 567,
+    "critical": 582,
     "high": 1124,
     "low": 22,
     "medium": 452
@@ -15,7 +15,7 @@
     "expired-domain": 1,
     "impersonation": 1105,
     "impersonation-malware": 5,
-    "malware": 567,
+    "malware": 582,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -42,7 +42,7 @@
     "expired-domain": 1,
     "impersonation": 1105,
     "impersonation-malware": 5,
-    "malware": 567,
+    "malware": 582,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1624,
+  "total_publishers": 1627,
   "top_publishers": [
     [
       "pit00",
@@ -90,6 +90,10 @@
     [
       "LinJun",
       18
+    ],
+    [
+      "viralinclive",
+      13
     ],
     [
       "Zubair",
@@ -162,10 +166,6 @@
     [
       "funovus",
       6
-    ],
-    [
-      "AppLaunchLLC",
-      5
     ]
   ]
 }

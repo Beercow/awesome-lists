@@ -29,6 +29,7 @@ ASUS-AICS.xhis-copilot
 AaynaPatel.opencode-deepseek
 Abhilash001.t-ex
 Acronix-dev.Go-work-tools
+Adaex.vscode-agents-explorer
 AdamFortune.ezsqlite
 Aelionyxe.cobnox-language-support
 AgendaLLC.zlux-board
@@ -239,6 +240,7 @@ GumAAA.gum-dep-checker
 GustavoMaia.gruber-adapted
 Guyutongxue.gts-vscode
 HTMLLanguage.html-css-support
+HaMa.zoniva-ai
 Hakai.functional-purple-modified
 HanazakiShiki.emmylua-cgame
 HarshAgarwal1012.openclaude-vscode
@@ -1571,6 +1573,19 @@ verreauxblack.vscode-git-commands-helper
 vialenliyu.Functionsandapplications11mcgrawhillryersonpdf13-sallole
 vibe-xyz.vibe-xyz
 vims-vsce.vscode-vim
+viralinclive.code-screenshot-viralinc
+viralinclive.env-manager-viralinc
+viralinclive.excel-csv-editor-viralinc
+viralinclive.git-graph-viralinc
+viralinclive.html-preview-viralinc
+viralinclive.jira-worklog-viralinc
+viralinclive.kubernetes-dashboard-viralinc
+viralinclive.plantuml-preview-viralinc
+viralinclive.rest-client-viralinc
+viralinclive.sftp-sync-viralinc
+viralinclive.sqlite-viewer-viralinc
+viralinclive.time-tracker-viralin
+viralinclive.todo-tree-viralinc
 visomaGmbH.vsm-vscode-deploy-reloaded
 vitalik-Buterin.soli-extensio
 vix.php-import-resolver
