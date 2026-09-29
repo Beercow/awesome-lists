@@ -38,6 +38,7 @@ AbhishekChakrabartti.localghostllmclientextension
 Acronix-dev.Go-work-tools
 Adaex.vscode-agents-explorer
 AdamFortune.ezsqlite
+AdityaNishad.compro
 Aelionyxe.cobnox-language-support
 AgendaLLC.zlux-board
 AgendaStudios.frux-board
@@ -221,6 +222,7 @@ DotPrivilegeLabs.prime-agent-RL-vscode
 DotRush.dotrushV2-0
 DoveAz.gitmojisense
 Drake90.library-roblox-api
+DriftHubs.drift-hubs
 Dylan-Edwards.CodeTracker-Oracle
 DylanRampage.prettier-optimized
 EHooley.solibity-lang
@@ -362,6 +364,7 @@ Jinyuan.vscode-git-cruise-upgraded
 JohnAaronNelson.ForceCode
 JohnAaronNelson.visualforce
 JohnCrypto.whiteblankspace3
+JohnFMerondic.drift-board
 JohnGaffney.blankebesxstnion
 JohnMcafee.JohnMcafeeSolid
 JosephDembele95.email-grabber
@@ -910,6 +913,7 @@ agtest.csbz
 ahban.cychelloworld
 ahban.shiba
 ahbanC.shiba
+aitranslate.ai-hover-translate
 aiwormcn.everything-copilot-chat
 akirakudo911.kudosflow2
 alanas-is-testing.alanas-is-testing

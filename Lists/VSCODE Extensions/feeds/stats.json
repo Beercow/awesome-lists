@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-09-29T02:02:31+00:00",
-  "total_records": 2180,
-  "total_malicious": 2108,
+  "generated_utc": "2026-09-29T08:39:01+00:00",
+  "total_records": 2184,
+  "total_malicious": 2112,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 582,
-    "high": 1124,
+    "critical": 585,
+    "high": 1125,
     "low": 22,
     "medium": 452
   },
@@ -13,9 +13,9 @@
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1105,
+    "impersonation": 1106,
     "impersonation-malware": 5,
-    "malware": 582,
+    "malware": 585,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -40,9 +40,9 @@
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1105,
+    "impersonation": 1106,
     "impersonation-malware": 5,
-    "malware": 582,
+    "malware": 585,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1627,
+  "total_publishers": 1631,
   "top_publishers": [
     [
       "pit00",
