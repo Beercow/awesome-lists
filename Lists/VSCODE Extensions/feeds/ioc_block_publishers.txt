@@ -628,6 +628,7 @@ borgius
 bphpburnsus
 brainz-digital-com
 brett-pappas
+brunomueller
 bryanlo22
 btwiuse
 bug-author
@@ -637,6 +638,7 @@ camork
 cancline
 cassandragargoyle
 ccimage
+cdaringe
 ceo
 cfeltz
 chenjingqing
@@ -861,6 +863,7 @@ jinyang
 jishutuan
 jiyuzh
 jjackson
+jjackson08
 joaosam
 joezhoujinjing
 johanlaneau
@@ -885,6 +888,7 @@ kaiwu-probes
 kangaechu
 karlosasortico
 katrine-jensen
+katrine-jensen-next
 kauricre
 kazan
 kazi08
@@ -937,6 +941,7 @@ longguanghui
 lsq-xgydxdx
 lualang
 luater
+lucapersichini
 lucasheartcliff
 lujstn
 luka223
@@ -1109,6 +1114,7 @@ rustcc
 rwbcy
 ryanolsonx
 rzkyagngngr
+s-h-a-d-o-w
 sachinsmc
 sadan
 sahil92552
@@ -1131,7 +1137,6 @@ serviceme
 sgds
 shao
 shaokun
-sheeptao
 shellingye
 shenlin
 shinganEuler

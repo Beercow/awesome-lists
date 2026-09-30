@@ -797,6 +797,7 @@ Tone.wolfram-prettier-vscode
 ToolingForAll.toolingforalls
 TooneyLoner.TooneyLoner
 Topsy2003Turvey.vscode-language-pack-af
+TorbScript.torbscript
 TrellKhan.devora
 TrelloSoftWorks.trello-deck
 TrelloWorks.trello-board
@@ -998,6 +999,7 @@ bortolabs.claude-code-usage-bar
 bphpburnsus.iconesvscode
 brainz-digital-com.brainz-digital-netbeans-keybindings
 brett-pappas.claude-in-editor
+brunomueller.pixel-agents-cloud
 bryanlo22.vscode-rufo-fix
 btwiuse.flexport
 btwiuse.gopilot-chat
@@ -1021,6 +1023,7 @@ capplicorn.plaintextplus
 carrycodeai.carrycode-vscode
 cassandragargoyle.portunix-pdf-viewer
 ccimage.ccimage-emoji-log
+cdaringe.vscode-jest-runner-dummy
 ceo.sammarco
 cfeltz.taskpanel
 charcoal141II.imu-view
@@ -1411,6 +1414,7 @@ jinyang.copilot-mcp-zh-cn
 jishutuan.prettier-vscode
 jiyuzh.clang-format-renew
 jjackson.bazel-syntax
+jjackson08.bazel-syntax-highlighting
 joaosam.symbols-freedom
 joezhoujinjing.vscode-tmux-worktree-agent
 johanlaneau.bcompare-vscode-remote
@@ -1450,6 +1454,7 @@ kangaechu.open-in-github-kangaechu
 karlosasortico.Theme-Abyss-remastered
 kast789.visual-studio-2022-theme
 kast789.vs-2019-theme
+katrine-jensen-next.vscode-language-pack-da-next
 katrine-jensen.vscode-language-pack-da
 kauricre.vscode-styled-components-modern
 kazan.myworldline
@@ -1522,6 +1527,7 @@ longguanghui.baiteda-vscode-i18n
 lsq-xgydxdx.git-graph-tool-chinese
 lualang.lualang
 luater.luatide
+lucapersichini.MultiMerge
 lucasheartcliff.dark-coder-dracula-theme
 lujstn.synthwave-fluoromachine-cursor
 luka223.OneDarkProDarker2026
@@ -1556,6 +1562,7 @@ marpo.gruvbox-material-marpo
 marvin63597.claude-dd
 masota.swahilipro
 mastersam.faaaah-on-fail
+matheus-tupy.Tupy-Language
 mathieu42.monokai-dark-by-mathieu42
 matthewbill.hue-code
 me80758262.piiithon-linter
@@ -1801,6 +1808,8 @@ rustcc.rust-analyzer-cn
 rwbcy.trwbcy-poc
 ryanolsonx.poimandres-contrast
 rzkyagngngr.kylo
+s-h-a-d-o-w.devcontainer-open-containing-folder
+s-h-a-d-o-w.pnpm-catalog-lens-plus
 sachinsmc.turbo-rust-println
 sadan.insight-doc
 sahil92552.cbe-456
@@ -1833,7 +1842,6 @@ sgds.uss
 shahul-dev.internal
 shao.deepcode-fx
 shaokun.cangjie-code
-sheeptao.pixi-python
 shellingye.jx3-emmylua
 shellingye.xsj-emmylua
 shenlin.i18n-ally-shenlin
