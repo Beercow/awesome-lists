@@ -556,6 +556,7 @@ abczyx2006
 abersheeran
 abstractalgo
 adi-trev
+adityavarman-manjunath
 adr-org
 adwaitkeshari
 agent
@@ -815,6 +816,7 @@ hexlabs
 hikaoxx-tech
 hkalyane
 hoOJluGun
+holiday-themes
 hollykbuck
 hqvjet
 hsn8086
@@ -939,6 +941,7 @@ liuxy-CN
 live-servers
 llej
 logicalrblx7
+lohsebhipolg2s
 longguanghui
 lsq-xgydxdx
 lualang
@@ -1082,6 +1085,7 @@ przybylski
 ps-aditya
 ptanmay143
 publishingsofficial
+pulsedigital
 pvjagtap
 pvparuchuri
 pythoner
@@ -1315,6 +1319,7 @@ ziop
 zjqtzzc
 zjt
 zouguowei
+zpeterg
 zpy-ai
 zqchen
 zstings
