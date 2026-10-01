@@ -418,6 +418,7 @@ MultiCortexDevCore202.MultiCortexDevCore202
 Murilo.headwind-haml-fork
 MusicCreates.musicicgen
 Muzammil.smart-attach
+Muzyu.deepseek-usage-monitor
 NEVSTOP-LAB.csm-vsc-support
 NFoundation.terraform-ai
 NPC1.unify-chat-provider-ui
@@ -1100,6 +1101,7 @@ iridium.pinkcandy
 itanshield.titanshield-vscode
 itv3.kilo-code-plus
 ivanstepanovftwgaynottaken.camelhumps
+j62268781-alt.pi-code-chat
 jackieyyang.jackieyyang-git-extension-pack
 jackolope.lit-analyzer-plugin
 jacky32.gemfile-insights
