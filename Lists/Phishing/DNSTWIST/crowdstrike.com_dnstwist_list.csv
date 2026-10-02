@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,crowdstrike.com,23.210.216.144,2600:1406:3400::6862:7511,mxa-00206402.gslb.pphosted.com,blue.foundationdns.com
+*original,crowdstrike.com,23.210.216.144,2600:1406:5400::170f:f161,mxa-00206402.gslb.pphosted.com,blue.foundationdns.com
 addition,crowdstrike0.com,,,,
 addition,crowdstrike1.com,,,,
 addition,crowdstrike2.com,,,,
@@ -90,7 +90,6 @@ bitsquatting,czowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.
 bitsquatting,growdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 bitsquatting,krowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 bitsquatting,srowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
-homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
 homoglyph,cr0vvdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 homoglyph,cr0wbstrike.com,,,,
 homoglyph,cr0wclstrike.com,,,,
@@ -106,6 +105,7 @@ homoglyph,crovudstrike.com,,,,
 homoglyph,crovvbstrike.com,,,,
 homoglyph,crovvclstrike.com,,,,
 homoglyph,crovvdlstrike.com,,,,
+homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
 homoglyph,crovvdstr1ke.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 homoglyph,crovvdstrikc.com,,,,
 homoglyph,crovvdstrilce.com,,,,
