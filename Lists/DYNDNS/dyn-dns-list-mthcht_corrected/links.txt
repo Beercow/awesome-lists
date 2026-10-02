@@ -38700,6 +38700,8 @@ bulkbattery.cl
 allteams.pro
 directnode.xyz
 leofi.org
+lomaene.com
+shupilka.cl
 dynamic-dns.net
 longmusic.com
 wikaba.com
