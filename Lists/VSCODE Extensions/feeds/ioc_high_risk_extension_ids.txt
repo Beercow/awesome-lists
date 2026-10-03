@@ -95,6 +95,7 @@ Baue.update-fetcher
 Benachile-studio.protobuf-pro
 BenjaminFriedl.lexica-img-fix
 BeyondR34CH.theme-br-monokai
+BhavyaJustChill.vscode-power-mode-reborn
 BigBlack.bitcoin-black
 BigBlack.codo-ai
 BigBlack.mrbigblacktheme
@@ -339,6 +340,7 @@ LaunchAppsLLC.desk-47747973
 LaunchAppsLLC.desk-59838605
 LaunchAppsLLC.desk-94262049
 LaunchAppsLLC.launchdesk-app
+Lavender-Studio.theme-lavender-dreams
 LesMiserablesMod.hoi4modutilities-maintained
 LiamDrew.arm-assembly
 LiamWang.vscode-image-gallery-liamwang
@@ -821,6 +823,7 @@ ccimage.ccimage-emoji-log
 cdaringe.vscode-jest-runner-dummy
 ceo.sammarco
 cfeltz.taskpanel
+charcoal-mint-studio.theme-charcoal-mint
 chenjingqing.yuque-editor
 chess-color-theme.chess-svelte-5-snippets
 chirayuk.embedded-languages-ck
@@ -965,6 +968,7 @@ env.Better-dotenv
 env.Javascript-snippets-plus
 esbenpp.pretier-vscodee
 esonhugh.weaponized
+etairi.vscode-idris2
 ethancao.mathpix-markdown-studio
 ethanielliu.audit-helper
 ethcompiler.among-eth
@@ -1410,6 +1414,7 @@ priskinski.Theme-AllHallowsEve-remake
 priskinski.Theme-Amber-remake
 priskinski.Theme-Amy-remake
 probes-team.probes
+production-sun-set.theme-sunset-gradient
 profezzional.package-json-upgrade-fork
 przybylski.cursor-harpoon
 ps-aditya.redis-live
