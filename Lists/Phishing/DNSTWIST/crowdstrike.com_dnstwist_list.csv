@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,crowdstrike.com,23.67.33.30,2600:1406:bc00:26::1723:1a1d,mxa-00206402.gslb.pphosted.com,blue.foundationdns.com
+*original,crowdstrike.com,23.211.127.14,2600:1404:6400:14::17c6:729,mxa-00206402.gslb.pphosted.com,blue.foundationdns.com
 addition,crowdstrike0.com,,,,
 addition,crowdstrike1.com,,,,
 addition,crowdstrike2.com,,,,
