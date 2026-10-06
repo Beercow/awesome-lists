@@ -1121,6 +1121,7 @@ danlt2k.sarif-monitor-v000
 danylobodnar.rose-pine-black
 dark-matter7232.stm32-for-vscode-community
 dastan-prince.cline-cn-ai
+dawngroup.studiodocs-app
 day253.data-scientist-development-pack
 day253.system-engineer-development-pack
 day253.system-information-status-bar
@@ -1198,6 +1199,7 @@ embedd-team.embedd-project-manager
 embeddteam.embedded-build-analyzer
 embeddteam.embedded-cortex-debug
 embeddteam.embeddedprojectmanager
+emberstudios.kitestudio-dev
 emersxw.min-theme-emersxw
 env.Better-dotenv
 env.Javascript-snippets-plus
@@ -1348,6 +1350,7 @@ hajoo.poisoned-extension
 hakor-plugins.modux-tooling
 hakor-plugins.tabletype
 hakor-plugins.tsmap-vscode
+haloinc.flowdeck-prod
 hanan.hanan-code
 hapTeam.hap-eslint
 harrisonLin.fcbox-ai-code
@@ -1361,6 +1364,7 @@ helixinc.harborhub-dev
 hetu.HetuGit
 hexlabs.boardtrackappe
 hikaoxx-tech.dsh-pro
+hivedynamics.mesagrid-app
 hkalyane.csv-advanced-editor
 hoOJluGun.ho-ojlugun-ai
 holiday-themes.theme-coca-cola-christmas
@@ -1473,6 +1477,7 @@ keindl29.opencodegui-kei
 kevin12314.svn-scm-ai-next
 keyang.vscode-leetcode-enhanced
 kide.kide-csharp
+kikyous.vscode-git-history-x
 kindly-robotics.inferall-ai
 kingace2056.json-to-dart-fixed-kingace2056
 kingepic84.symphony-language
@@ -1510,6 +1515,7 @@ lang2hong.l2h-vscode-dashboard
 laurence06363.laurence-hello-world-5
 lce.lce-code
 leapliu.mindmap-github-image-bed
+legendaryredfox.run-kotlin-vscode
 leon-qiu.hexo-auto-updated
 leonardomjq.goblin-mode
 leonardomth.claudio-code
@@ -1518,6 +1524,7 @@ li-zheng-rong.vscode-clangd-modules-support
 licc.htmlto-link-md
 licc.htmlto-link-vscode
 lijiangang.vscode-picgo-paste-adpt-wayland
+linglong.minimalext
 linlinzhao.turbo-console-log-enhance
 litou.transify
 littensydev.charmed-icons-pro
@@ -1553,6 +1560,7 @@ lxl66566.vim-lxl66566
 lyqu.rest-client-fork
 lyywemhan.code-formatter-and-minifier-vscode
 madmansidea.sidetrack-music
+mafty43211.vscode-leetcode-study-plan
 mahdihajian.angular-files-creator
 mahdihajian.vscode-pull-request-azure-devops
 mahdihajian.vscode-shelf
@@ -1574,6 +1582,7 @@ mastersam.faaaah-on-fail
 matheus-tupy.Tupy-Language
 mathieu42.monokai-dark-by-mathieu42
 matthewbill.hue-code
+maxrall.nexrall-code-for-vscode
 me80758262.piiithon-linter
 meetrice.mysql-blade
 meijiahao.video-preview-fast
@@ -1623,6 +1632,7 @@ natereprogle.php-namespace-resolver-v2
 nathan-0910.ftl-dev
 naveenkunder.format-html
 nbreier.virtualworkspacesf
+nebulasecurity.canvasdocs-app
 neha-arikatla.terminal-fahhh
 nerfine-dev.projectly-app
 neural-llm.power-claude
@@ -1631,8 +1641,10 @@ newdlops.git-simple-compare
 newsporcolec.Penn-Elcom-Case-Designer-Crackepub-wonynoe
 nexrallcode.nexrall-code-vscode
 ng-jk.sftp-ng-jk
+nicenick.rawr-poc
 nicovy.symbolsnicovy
 nightgauge.nightgauge-vscode
+nikisalli.git-graph-cumulative-additions-deletions
 nikitakolesnikov.vscode-squirrel-extention
 nilaykd.arborist-notes
 nimashoghi.gistfs-updated-main-nsh
@@ -1782,6 +1794,7 @@ r0kuko.jetbrains-file-icon-theme-extended
 rabbitsyntax.rabbitsyntax
 raidenshogun.javascript-null-sequence
 rainbowflesh.moondusttheme-fork
+raptorstone.pixeldeck-app
 ravaelles.search-anywhere
 ray2666.antigravity-proxy
 raylei.atm-icon-only
@@ -1927,6 +1940,7 @@ takuanporipori.pixelpress
 tangxia.roo-code-ex
 tanmoy-debnath.faaaaaahhh
 tanukii.autoversion
+taoscope.taoscope-coding-assessment
 tapl-lang.material-icon-theme-tapl
 teakovva.overpy-bastion
 test-ui-harry.harry-test
@@ -2033,6 +2047,7 @@ vxhern.Vesper
 walteh.embedded-languages-vscode
 walteh.protolsp
 wanxiong.thief-book-pro-plus
+wavepeak.slatecanvas-dev
 we125182.vue-volar
 webctrl.live
 weiboplat.wecoder
