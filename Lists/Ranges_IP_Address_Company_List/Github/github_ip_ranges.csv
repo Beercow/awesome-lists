@@ -10310,6 +10310,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 9.169.0.0/17,GitHub actions IP range,2025-05-29,2026-10-07,yes
 9.169.128.0/17,GitHub actions IP range,2025-05-29,2026-10-07,yes
 9.234.0.0/17,GitHub actions IP range,2025-05-29,2026-10-07,yes
+9.234.106.48/28,GitHub hooks IP range,2026-10-07,2026-10-07,yes
 9.234.128.0/17,GitHub actions IP range,2025-05-29,2026-10-07,yes
 9.234.128.0/18,GitHub actions IP range,2026-09-21,2026-10-05,no
 9.234.192.0/19,GitHub actions IP range,2026-10-01,2026-10-05,no
@@ -10334,6 +10335,8 @@ src_ip,metadata_comment,first_seen,last_seen,active
 9.234.249.0/24,GitHub actions IP range,2026-10-01,2026-10-05,no
 9.234.250.0/23,GitHub actions IP range,2026-10-01,2026-10-05,no
 9.234.252.0/22,GitHub actions IP range,2026-10-01,2026-10-05,no
+9.234.98.160/28,GitHub hooks IP range,2026-10-07,2026-10-07,yes
+9.234.98.176/28,GitHub hooks IP range,2026-10-07,2026-10-07,yes
 94.245.104.0/21,GitHub actions IP range,2025-05-29,2026-10-07,yes
 94.245.117.96/27,GitHub actions IP range,2025-05-29,2026-10-07,yes
 94.245.118.0/25,GitHub actions IP range,2025-05-29,2026-10-07,yes
