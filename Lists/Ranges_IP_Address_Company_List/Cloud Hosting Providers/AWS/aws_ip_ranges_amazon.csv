@@ -2069,6 +2069,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 15.230.39.124/31,us-east-2,AMAZON,us-east-2
 15.230.39.200/31,us-east-2,AMAZON,us-east-2
 15.248.165.0/24,us-east-2,AMAZON,us-east-2
+16.15.76.0/22,us-east-1,AMAZON,us-east-1
 35.71.93.0/24,ap-southeast-6,AMAZON,ap-southeast-6
 35.71.127.0/24,ap-east-2,AMAZON,ap-east-2
 52.93.64.0/24,us-east-1,AMAZON,us-east-1
@@ -2708,6 +2709,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 15.230.39.230/31,us-east-2,AMAZON,us-east-2
 15.248.64.0/21,ca-west-1,AMAZON,ca-west-1
 15.248.167.5/32,us-south-1,AMAZON,us-south-1
+35.54.63.0/24,us-west-2,AMAZON,us-west-2
 52.64.0.0/17,ap-southeast-2,AMAZON,ap-southeast-2
 52.93.70.128/25,us-west-1,AMAZON,us-west-1
 52.93.71.41/32,eu-west-1,AMAZON,eu-west-1
@@ -3716,7 +3718,6 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 69.107.7.96/29,us-east-1,AMAZON,us-east-1
 76.223.170.0/28,ca-west-1,AMAZON,ca-west-1
 150.222.102.0/24,us-west-2,AMAZON,us-west-2
-1.178.86.0/24,ap-southeast-3,AMAZON,ap-southeast-3
 1.178.172.0/23,GLOBAL,AMAZON,GLOBAL
 3.2.106.0/24,us-west-2,AMAZON,us-west-2
 3.4.12.2/32,ap-southeast-2,AMAZON,ap-southeast-2
@@ -4694,6 +4695,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 15.181.244.0/24,us-east-1,AMAZON,us-east-1-phl-1
 15.230.53.0/24,ap-southeast-1,AMAZON,ap-southeast-1
 15.230.74.64/26,ap-east-1,AMAZON,ap-east-1
+16.15.72.0/22,us-east-1,AMAZON,us-east-1
 18.194.0.0/15,eu-central-1,AMAZON,eu-central-1
 52.46.64.0/20,eu-west-3,AMAZON,eu-west-3
 52.93.41.0/24,eu-west-1,AMAZON,eu-west-1
