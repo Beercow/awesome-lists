@@ -795,6 +795,7 @@ blackforest.blackforest-1234
 blaz.vim-with-visual-mode-fixed
 bobqianic.imperial-llm-dev
 bogigigigigity.etherefound
+bone-ni.vscode-language-pack-lo
 borgius.lm-proxy-responses
 borgius.localrag
 bphpburnsus.iconesvscode
