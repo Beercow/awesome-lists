@@ -67,6 +67,8 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 15.224.180.0/22,eu-west-3,EFS,eu-west-3
 16.164.136.0/25,il-central-1,EFS,il-central-1
 16.164.160.0/22,il-central-1,EFS,il-central-1
+51.168.180.128/25,me-west-1,EFS,me-west-1
+51.168.188.0/22,me-west-1,EFS,me-west-1
 78.14.149.0/25,mx-central-1,EFS,mx-central-1
 78.14.176.0/22,mx-central-1,EFS,mx-central-1
 54.20.104.0/22,sa-east-1,EFS,sa-east-1
