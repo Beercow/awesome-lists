@@ -877,6 +877,7 @@ Zamiel.vscode-isaac-afterbirth-plus
 ZaqueuRodrigues.vscode-eclipse-keymap-complete
 Zaur.zz-sftp
 ZeroGAIzerog-ai.zerog-vscode-bridge
+ZeroWiggliness.vscode-httpyac-zw
 Zeron1337.Zeron-CySec
 ZhangQuan.code-translate-enhanced
 Zlmiles.zlmiles-liquid
@@ -1480,6 +1481,7 @@ keindl29.opencodegui-kei
 kevin12314.svn-scm-ai-next
 keyang.vscode-leetcode-enhanced
 kide.kide-csharp
+kikyous.i18n-allyc
 kikyous.vscode-git-history-x
 kindly-robotics.inferall-ai
 kingace2056.json-to-dart-fixed-kingace2056

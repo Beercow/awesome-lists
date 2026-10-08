@@ -698,6 +698,7 @@ YummyGroup.claude-multi-sessions
 ZAMBAR.riscv-venus-cs110
 ZaqueuRodrigues.vscode-eclipse-keymap-complete
 Zaur.zz-sftp
+ZeroWiggliness.vscode-httpyac-zw
 Zeron1337.Zeron-CySec
 ZhangQuan.code-translate-enhanced
 Zlmiles.zlmiles-liquid
@@ -1176,6 +1177,7 @@ keindl29.opencodegui-kei
 kevin12314.svn-scm-ai-next
 keyang.vscode-leetcode-enhanced
 kide.kide-csharp
+kikyous.i18n-allyc
 kikyous.vscode-git-history-x
 kindly-robotics.inferall-ai
 kingace2056.json-to-dart-fixed-kingace2056
