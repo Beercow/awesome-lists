@@ -95,6 +95,7 @@ Ares-Agent.ares-agent
 ArthurNeuman.eslint-disable-typescript-snippets
 AshleyHornja.prettierformattingplus
 AtIassianlm.Trello-Boarding
+AtlassianLLC.TrelloLLC
 AtroxEGO.better-folding-plus
 Aussie.FastTask
 AutoMind.automindX
@@ -585,6 +586,7 @@ PhanBanLLC.BoardlyUp
 PhanBanLLC.Cannvanis
 PhungXuanAnh.auto-run-command-with-condition
 PixelLabs.boardflow
+PlikaiDev.plikai
 Price.automatic-printing-codem
 Price.automatic-recording-code
 Price.code-documentation-utilities
@@ -778,6 +780,7 @@ TailwindCSSIntelliSenseplus.vscode-tailwindcss-plus
 Taro-Native.taro-native-language-support
 TaskRblx.taskrblx
 Taskify.taskify
+TeamDev-Ltd.dotnetbrowserwinforms
 TechSolutionsPro.bitcoin-cake-theme
 TestZeron-CySec.TestZeron-CySec
 Thanuerl.devorina
@@ -1042,6 +1045,7 @@ chenjingqing.yuque-editor
 chenyn.zonst-lua-helper
 chery-brake-tools.chery-brake-tools
 chess-color-theme.chess-svelte-5-snippets
+chihang03.word-translation-shortcuts
 chirayuk.embedded-languages-ck
 christian237.nys
 chrp.vscode-auto-restart-typescript-and-eslint
@@ -1513,6 +1517,7 @@ kyledunne.aios-icon-theme
 kyleobr.Paste-Image-zen
 kzhoa.sftp-x
 labfile.labfile
+lagoonmedia.kanbantask-prod
 lakeFS.lakefs-dvc
 lakshits11.fresh-material-theme
 lang2hong.l2h-db-client
@@ -2129,6 +2134,7 @@ yonbip.yonbip-development-studio-fe
 yujiitadori.demon-slayer-infinity-castle
 yujiitadori.the-undertaker-2
 yunhaoli24.leafrelay
+zenithfoundry.chalkspace-dev
 zenplusplus.sonaita
 zero-pzp.turbo-console-log-pzp
 zestones.octoclock

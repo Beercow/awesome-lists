@@ -75,6 +75,7 @@ Ares-Agent.ares-agent
 ArthurNeuman.eslint-disable-typescript-snippets
 AshleyHornja.prettierformattingplus
 AtIassianlm.Trello-Boarding
+AtlassianLLC.TrelloLLC
 AtroxEGO.better-folding-plus
 AutoMind.automindX
 Autolexia.testwise
@@ -828,6 +829,7 @@ cfeltz.taskpanel
 charcoal-mint-studio.theme-charcoal-mint
 chenjingqing.yuque-editor
 chess-color-theme.chess-svelte-5-snippets
+chihang03.word-translation-shortcuts
 chirayuk.embedded-languages-ck
 christian237.nys
 chrp.vscode-auto-restart-typescript-and-eslint
@@ -1206,6 +1208,7 @@ kwitch-studio.auto-run-command-extension
 kyledunne.aios-icon-theme
 kzhoa.sftp-x
 labfile.labfile
+lagoonmedia.kanbantask-prod
 lakeFS.lakefs-dvc
 lang2hong.l2h-db-client
 lang2hong.l2h-vscode-dashboard
@@ -1710,6 +1713,7 @@ yonbip.yonbip-development-studio-fe
 yujiitadori.demon-slayer-infinity-castle
 yujiitadori.the-undertaker-2
 yunhaoli24.leafrelay
+zenithfoundry.chalkspace-dev
 zenplusplus.sonaita
 zero-pzp.turbo-console-log-pzp
 zeug-zz.opencode-research
