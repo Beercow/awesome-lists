@@ -72,6 +72,7 @@ AppReleasePLC.boardlinkapplication
 ArcanicAI.cono
 ArchMedia.sp-isc-devtools
 Ares-Agent.ares-agent
+ArnavNKamat.poke-code
 ArthurNeuman.eslint-disable-typescript-snippets
 AshleyHornja.prettierformattingplus
 AtIassianlm.Trello-Boarding
@@ -130,6 +131,7 @@ CipherLabs.CipherLabsApplication
 ClockZinc.vscode-copilot-chat-cn
 CloudianApp.CloudianCompanion-56d02aa8da72
 CodeSecureDev.dependency-scan
+CodyOunora.react-native-snippet-core
 Cognitrace3.cognitrace-v2
 Cognitrace3.cognitrace3
 CompassLLMCode.autosail
@@ -628,6 +630,7 @@ ThinkCreations.founderboard-app
 ThinkWorks.think-board
 TianliangQi.antigravity-usage-monitor
 TobiasHochguertel.catalog-lens
+TobiasHochguertel.image-viewer-fork
 TobiasHochguertel.pattern-links-fork
 Tone.prettier-vscode-wolfram
 Tone.wolfram-prettier-vscode
@@ -1111,6 +1114,7 @@ imlore.jupie
 inaiv.inaiv
 infinics.infinics-ai-assistant
 iridium.pinkcandy
+irodev.php-blade-livewire-formatter
 itanshield.titanshield-vscode
 itv3.kilo-code-plus
 ivanstepanovftwgaynottaken.camelhumps
@@ -1193,6 +1197,7 @@ kokoma.nvm-studio
 kolling88.claude-code-chats
 kongdetuo.AxamlCraft
 konyshevav.dbml-schema-visualizer
+kosama685.usama-sftp
 kototok903.vscode-harbor-bronze
 kova-lang.kova-material-iconse
 kr-ilya.syncx
