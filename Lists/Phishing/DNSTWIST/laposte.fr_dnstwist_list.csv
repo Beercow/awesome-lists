@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,laposte.fr,178.213.66.203,,,ns1.laposte.fr
+*original,laposte.fr,178.213.66.203,,rpi0i691.laposte.fr,ns1.laposte.fr
 addition,laposte0.fr,,,,
 addition,laposte1.fr,,,,
 addition,laposte2.fr,,,,
@@ -50,13 +50,11 @@ bitsquatting,laporte.fr,94.143.220.219,,mail.laporte.fr,ns1.hostcoyote.com
 bitsquatting,lapos4e.fr,,,,
 bitsquatting,laposde.fr,,,,
 bitsquatting,lapospe.fr,,,,
+bitsquatting,laposta.fr,,,,ns0.transip.net
+bitsquatting,lapostd.fr,,,,
 bitsquatting,lapostg.fr,,,,
 bitsquatting,lapostm.fr,,,,
 bitsquatting,lapostu.fr,,,,
-bitsquatting,lcposte.fr,,,,
-bitsquatting,leposte.fr,88.198.116.121,2a01:4f8:c014:b2d8::1,mx186.m2bp.com,ns1.dovendi.nl
-bitsquatting,laposta.fr,,,,ns0.transip.net
-bitsquatting,lapostd.fr,,,,
 bitsquatting,laposue.fr,,,,
 bitsquatting,laposve.fr,,,,
 bitsquatting,lapowte.fr,,,,
@@ -64,6 +62,8 @@ bitsquatting,laqoste.fr,,,,
 bitsquatting,laroste.fr,,,,
 bitsquatting,latoste.fr,,,,
 bitsquatting,laxoste.fr,,,,
+bitsquatting,lcposte.fr,,,,
+bitsquatting,leposte.fr,88.198.116.121,2a01:4f8:c014:b2d8::1,mx186.m2bp.com,ns1.dovendi.nl
 bitsquatting,liposte.fr,,,,
 bitsquatting,lqposte.fr,,,,
 bitsquatting,maposte.fr,45.33.83.100,2600:3c03::f03c:95ff:fe00:29ca,mail.mailerhost.net,lunlun.ns.giantpanda.com
@@ -297,12 +297,12 @@ insertion,lzaposte.fr,,,,
 insertion,mlaposte.fr,,,,
 insertion,olaposte.fr,,,,
 insertion,plaposte.fr,,,,
-omission,lapose.fr,88.198.116.121,2a01:4f8:c014:b2d8::1,mx186.m2bp.com,ns1.dovendi.nl
-omission,aposte.fr,,,,ns1-expired.infomaniak.ch
 omission,laoste.fr,,,,
 omission,lapost.fr,,,,
 omission,lapote.fr,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
 omission,lapste.fr,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
+omission,lapose.fr,88.198.116.121,2a01:4f8:c014:b2d8::1,mx186.m2bp.com,ns1.dovendi.nl
+omission,aposte.fr,,,,ns1-expired.infomaniak.ch
 omission,lposte.fr,,,,
 plural,laposeste.fr,,,,
 plural,laposste.fr,,,,
@@ -360,7 +360,7 @@ various,laposte-fr.com,142.111.77.235,,,ns1.crazydomains.com
 various,lapostefr.com,44.232.173.249,,,launch1.spaceship.net
 various,lapostefr.fr,,,,
 vowel-swap,lapaste.fr,,,,
-vowel-swap,lapeste.fr,147.79.120.152,2a02:4780:4e:87d4:29a1:9a2e:ab2e:3f1f,mx1.hostinger.fr,ns1.dns-parking.com
+vowel-swap,lapeste.fr,147.79.120.20,2a02:4780:50:46f4:158f:5c89:6c2a:9fd7,mx1.hostinger.fr,ns1.dns-parking.com
 vowel-swap,laposti.fr,,,,
 vowel-swap,laposto.fr,,,,
 vowel-swap,lapuste.fr,,,,
