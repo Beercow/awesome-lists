@@ -208,6 +208,7 @@ Extensions-Topic.polish
 Extensions-Topic.portugese
 Eyaa.vue-swift-i18n-plus
 FEYeh.ssc-ibs
+FXEdison.leekfund-fxedison
 FaceCrypto.chocolatesnack
 FengXCs.best-novel-reader
 Floriani.mcp-hub
@@ -415,6 +416,7 @@ Microco.trelloboarda
 Mid-Autumn.agent-task-manager
 Milynn.bongocat-sidebar
 MisterAAR.codex-ai-pro
+MohamedSelim.br-coder
 MohammadWaliduddin.codexeconpixel
 MominRaza.rest-client-maintained
 Moushu.material-icon-theme-moushu
@@ -1551,6 +1553,7 @@ stratomercata.strato-mercata
 streamax.claude-dev-streamax
 stunning-yunwu.code-debugger-plus
 stx-emma.git-e-graph
+sumangalkaran.code-runner-plus
 sun-xm.quick-action
 sunamo-cz.specstory-autosave
 sunsetHightlight.sunset-highlight
