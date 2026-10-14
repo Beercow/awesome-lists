@@ -217,6 +217,7 @@ HanazakiShiki
 HarshAgarwal1012
 HarshChitaliya
 HawnyJawny
+HazemBasha
 Heisenberg
 HernandoR
 HonzaPudil
@@ -480,7 +481,6 @@ SyntaxDev
 SysheadLabs
 TONFoundation
 TailwindCSSIntelliSenseplus
-TanishqKancharla
 Taro-Native
 TaskRblx
 Taskify
@@ -861,6 +861,7 @@ illusions-x
 imlore
 inaiv
 infinics
+involvex
 iridium
 irodev
 itanshield
@@ -1346,6 +1347,7 @@ ynqq
 yonbip
 yujiitadori
 yunhaoli24
+z-riley
 zenithfoundry
 zenplusplus
 zero-pzp

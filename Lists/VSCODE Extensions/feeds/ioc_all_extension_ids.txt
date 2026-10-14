@@ -319,6 +319,7 @@ HarshAgarwal1012.openclaude-vscode
 HarshChitaliya.harshchitaliya-ai-study-companion
 HarshChitaliya.harshchitaliya-wds-blog-search
 HawnyJawny.LuauConnect
+HazemBasha.azure-shell-theme
 Heisenberg.rainbow-spaces
 HeleneSmith.rSW
 HernandoR.duck-viewer
@@ -784,7 +785,6 @@ TONCoreLabs.func-syntax-tool
 TONFoundation.func-language
 TONFoundation.ton-vscode
 TailwindCSSIntelliSenseplus.vscode-tailwindcss-plus
-TanishqKancharla.opencode-vscode
 Taro-Native.taro-native-language-support
 TaskRblx.taskrblx
 Taskify.taskify
@@ -1415,6 +1415,7 @@ imlore.clade
 imlore.jupie
 inaiv.inaiv
 infinics.infinics-ai-assistant
+involvex.involvexs-opencode-gui
 iridium.pinkcandy
 irodev.php-blade-livewire-formatter
 ironplc.ironplc
@@ -2159,6 +2160,7 @@ yonbip.yonbip-development-studio-fe
 yujiitadori.demon-slayer-infinity-castle
 yujiitadori.the-undertaker-2
 yunhaoli24.leafrelay
+z-riley.helix-emulation
 zenithfoundry.chalkspace-dev
 zenplusplus.sonaita
 zero-pzp.turbo-console-log-pzp
