@@ -876,6 +876,7 @@ jackolope
 jacky32
 jackywjs
 jaeck-zj
+jalexiscv
 jamesoncrate
 jameszhanga
 jangxyz
@@ -1048,6 +1049,7 @@ nathan-0910
 naveenkunder
 nbreier
 nebulasecurity
+neko233-com
 nerfine-dev
 neural-llm
 newsporcolec
