@@ -1,16 +1,1 @@
-[
-  {
-    "country": "Netherlands",
-    "ip": "45.74.31.42",
-    "port": "6489",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "45.74.31.41",
-    "port": "9818",
-    "type": "socks5",
-    "anonymity": "elite"
-  }
-]
+[]
