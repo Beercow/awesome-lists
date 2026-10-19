@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-10-19T10:52:35+00:00",
-  "total_records": 2283,
-  "total_malicious": 2211,
+  "generated_utc": "2026-10-19T17:32:27+00:00",
+  "total_records": 2302,
+  "total_malicious": 2230,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 607,
+    "critical": 608,
     "high": 1176,
     "low": 22,
-    "medium": 478
+    "medium": 496
   },
   "category_counts": {
     "copyright-violation": 15,
@@ -15,7 +15,7 @@
     "expired-domain": 1,
     "impersonation": 1157,
     "impersonation-malware": 5,
-    "malware": 607,
+    "malware": 608,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -31,10 +31,10 @@
     "risky-infrastructure": 4,
     "risky-remote-access": 15,
     "risky-tunnel": 5,
-    "spam": 110,
+    "spam": 127,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 293
+    "untrustworthy": 294
   },
   "malicious_category_counts": {
     "copyright-violation": 15,
@@ -42,14 +42,14 @@
     "expired-domain": 1,
     "impersonation": 1157,
     "impersonation-malware": 5,
-    "malware": 607,
+    "malware": 608,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
-    "spam": 110,
+    "spam": 127,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 293
+    "untrustworthy": 294
   },
   "risky_category_counts": {
     "risky-ai-code-access": 9,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1717,
+  "total_publishers": 1720,
   "top_publishers": [
     [
       "pit00",
@@ -90,6 +90,10 @@
     [
       "LinJun",
       18
+    ],
+    [
+      "LazowskiAnton",
+      17
     ],
     [
       "viralinclive",
@@ -161,10 +165,6 @@
     ],
     [
       "atom8n",
-      6
-    ],
-    [
-      "funovus",
       6
     ]
   ]
