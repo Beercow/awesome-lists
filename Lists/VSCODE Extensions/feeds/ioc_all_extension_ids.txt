@@ -1021,6 +1021,7 @@ blaz.vim-with-visual-mode-fixed
 bobqianic.imperial-llm-dev
 bogigigigigity.etherefound
 bone-ni.vscode-language-pack-lo
+bootcheck.bootcheck
 borgius.lm-proxy-responses
 borgius.localrag
 bortolabs.claude-code-usage-bar
@@ -1054,6 +1055,7 @@ ccimage.ccimage-emoji-log
 cdaringe.vscode-jest-runner-dummy
 ceo.sammarco
 cfeltz.taskpanel
+changeradar.change-radar-devtools
 charcoal-mint-studio.theme-charcoal-mint
 charcoal141II.imu-view
 chat-gimay-agent.chat-gimay-agent
@@ -1157,6 +1159,7 @@ deepseek-harness-remote.deepseek-harness-remote-vscode
 deepsweep-ai.deepsweep
 deltalenz.deltalenz
 dengfy3.dengfy3
+dependenywatch.dependency-watch
 devCHOUZZ.vscode-better-align-pro
 devCharles5277.git-commit-plugin-with-gitmoji
 devCharles5277.primevue-helper-zh-tw
@@ -1229,6 +1232,7 @@ emberstudios.kitestudio-dev
 emersxw.min-theme-emersxw
 env.Better-dotenv
 env.Javascript-snippets-plus
+errorcompass.error-compass
 esbenpp.pretier-vscodee
 esonhugh.weaponized
 etairi.vscode-idris2
@@ -1921,6 +1925,7 @@ shellingye.xsj-emmylua
 shenlin.i18n-ally-shenlin
 shinganEuler.codex-profile-switcher
 shinganEuler.vscode-unity-debug
+shipneck.shipcheck
 shoaibkorai.faaah
 shogo-ai.shogo-vscode
 siehc.vscode-proto3-rebirth
