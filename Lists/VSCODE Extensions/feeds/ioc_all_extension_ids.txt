@@ -1261,6 +1261,7 @@ eugenK.opencoder-ko
 evaera-rbx.vscode-rojo-rbx
 everestsystems.lotse-language-vscode
 everyapi-ai.everyapi-vscode
+exegol.exegol-studio
 ext-lab.ftp-supports
 ext-lab.git-history-plus
 fab1can.docker-compose-fixed

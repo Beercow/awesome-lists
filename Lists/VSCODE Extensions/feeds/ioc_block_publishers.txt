@@ -774,6 +774,7 @@ ethers
 eugenK
 evaera-rbx
 everestsystems
+exegol
 ext-lab
 fab1can
 fadizant
