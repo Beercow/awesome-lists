@@ -5213,6 +5213,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 54.79.0.0/16,ap-southeast-2,AMAZON,ap-southeast-2
 54.240.236.42/32,eu-south-1,AMAZON,eu-south-1
 54.251.0.0/16,ap-southeast-1,AMAZON,ap-southeast-1
+99.83.110.0/24,us-east-1,AMAZON,us-east-1
 104.255.59.86/32,ap-south-1,AMAZON,ap-south-1
 150.222.206.0/24,us-east-1,AMAZON,us-east-1
 209.54.176.0/21,us-east-1,AMAZON,us-east-1
@@ -9107,6 +9108,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 99.83.103.0/24,eu-central-1,GLOBALACCELERATOR,eu-central-1
 15.197.24.0/22,GLOBAL,GLOBALACCELERATOR,GLOBAL
 99.77.189.0/24,GLOBAL,GLOBALACCELERATOR,GLOBAL
+99.83.110.0/24,us-east-1,GLOBALACCELERATOR,us-east-1
 13.248.107.0/24,ap-southeast-1,GLOBALACCELERATOR,ap-southeast-1
 15.197.20.0/22,GLOBAL,GLOBALACCELERATOR,GLOBAL
 13.248.102.0/24,ap-southeast-2,GLOBALACCELERATOR,ap-southeast-2
