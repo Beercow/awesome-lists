@@ -1251,7 +1251,9 @@ src_ip,metadata_comment,first_seen,last_seen,active
 168.63.96.0/19,GitHub actions IP range,2025-05-29,2026-11-11,yes
 172.129.128.0/17,GitHub actions IP range,2026-08-27,2026-11-11,yes
 172.130.153.16/28,GitHub git - web IP range,2026-11-06,2026-11-11,yes
+172.130.18.192/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 172.130.201.80/28,GitHub git - web IP range,2026-11-06,2026-11-11,yes
+172.130.45.112/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 172.131.0.0/16,GitHub actions IP range,2026-09-09,2026-11-11,yes
 172.131.0.0/17,GitHub actions IP range,2026-08-27,2026-09-09,no
 172.132.0.0/17,GitHub actions IP range,2026-09-09,2026-11-11,yes
@@ -1261,6 +1263,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 172.138.0.0/17,GitHub actions IP range,2026-10-05,2026-10-21,no
 172.139.0.0/17,GitHub actions IP range,2026-10-05,2026-11-11,yes
 172.139.128.0/17,GitHub actions IP range,2026-10-22,2026-11-11,yes
+172.139.64.112/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 172.140.0.0/17,GitHub actions IP range,2026-10-22,2026-11-11,yes
 172.140.128.0/17,GitHub actions IP range,2026-10-22,2026-11-11,yes
 172.143.0.0/17,GitHub actions IP range,2026-10-22,2026-11-11,yes
@@ -2458,6 +2461,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 20.207.73.83/32,GitHub git IP range,2025-05-29,2026-11-11,yes
 20.207.73.85/32,GitHub api IP range,2025-05-29,2026-11-11,yes
 20.207.73.86/32,GitHub packages IP range,2025-05-29,2026-11-11,yes
+20.208.89.80/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 20.209.0.0/23,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.209.10.0/23,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.209.100.0/23,GitHub actions IP range,2025-05-29,2026-11-11,yes
@@ -2565,6 +2569,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 20.245.0.0/16,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.246.0.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.246.128.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
+20.247.166.64/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 20.25.0.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.25.128.0/18,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.25.192.0/18,GitHub actions IP range,2025-05-29,2026-11-11,yes
@@ -2840,6 +2845,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 20.59.128.0/18,GitHub actions IP range,2025-09-10,2026-11-11,yes
 20.59.192.0/18,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.59.64.0/18,GitHub actions IP range,2025-05-29,2026-11-11,yes
+20.6.7.16/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 20.60.0.0/24,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.60.1.0/24,GitHub actions IP range,2025-05-29,2026-11-11,yes
 20.60.110.0/23,GitHub actions IP range,2026-07-23,2026-11-11,yes
@@ -6709,6 +6715,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 4.156.0.0/15,GitHub actions IP range,2025-05-29,2026-11-11,yes
 4.159.108.160/28,GitHub git - web IP range,2026-11-10,2026-11-11,yes
 4.159.197.192/28,GitHub git - web IP range,2026-11-10,2026-11-11,yes
+4.163.8.144/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 4.172.0.0/15,GitHub actions IP range,2026-04-18,2026-11-11,yes
 4.172.0.0/16,GitHub actions IP range,2026-09-21,2026-10-01,no
 4.173.0.0/20,GitHub actions IP range,2026-09-21,2026-10-01,no
@@ -6758,7 +6765,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 4.204.0.0/15,GitHub actions IP range,2026-04-18,2026-11-11,yes
 4.206.0.0/16,GitHub actions IP range,2026-04-18,2026-11-11,yes
 4.207.0.0/16,GitHub actions IP range,2025-05-29,2026-11-11,yes
-4.207.215.240/28,GitHub packages IP range,2026-11-06,2026-11-11,yes
+4.207.215.240/28,GitHub git - packages - web IP range,2026-11-06,2026-11-11,yes
 4.208.0.0/15,GitHub actions IP range,2025-05-29,2026-11-11,yes
 4.208.0.0/16,GitHub actions IP range,2026-09-21,2026-10-01,no
 4.208.26.193/32,GitHub git - web IP range,2026-09-15,2026-11-11,yes
@@ -6782,7 +6789,9 @@ src_ip,metadata_comment,first_seen,last_seen,active
 4.209.101.0/24,GitHub actions IP range,2026-09-21,2026-10-01,no
 4.209.102.0/23,GitHub actions IP range,2026-09-21,2026-10-01,no
 4.209.104.0/21,GitHub actions IP range,2026-09-21,2026-10-01,no
+4.209.111.112/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 4.209.112.0/20,GitHub actions IP range,2026-09-21,2026-10-01,no
+4.209.112.0/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 4.209.128.0/17,GitHub actions IP range,2026-09-21,2026-10-01,no
 4.209.64.0/19,GitHub actions IP range,2026-09-21,2026-10-01,no
 4.209.96.0/22,GitHub actions IP range,2026-09-21,2026-10-01,no
@@ -6794,6 +6803,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 4.225.11.200/32,GitHub git IP range,2025-05-29,2026-11-11,yes
 4.225.11.201/32,GitHub api IP range,2025-05-29,2026-11-11,yes
 4.225.187.240/28,GitHub git - web IP range,2026-11-06,2026-11-11,yes
+4.225.189.240/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 4.227.0.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
 4.227.128.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
 4.228.31.144/32,GitHub git - web IP range,2026-09-11,2026-11-11,yes
@@ -10409,6 +10419,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 57.154.0.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
 57.154.128.0/18,GitHub actions IP range,2025-05-29,2026-11-11,yes
 57.154.192.0/18,GitHub actions IP range,2025-05-29,2026-11-11,yes
+57.155.223.240/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 57.157.0.0/25,GitHub actions IP range,2025-05-29,2026-11-11,yes
 57.157.0.0/28,GitHub actions IP range,2026-06-09,2026-09-09,no
 57.157.0.128/26,GitHub actions IP range,2025-05-29,2026-11-11,yes
@@ -11629,6 +11640,7 @@ src_ip,metadata_comment,first_seen,last_seen,active
 74.158.128.0/17,GitHub actions IP range,2026-07-23,2026-11-11,yes
 74.159.0.0/17,GitHub actions IP range,2026-07-21,2026-11-11,yes
 74.159.128.0/17,GitHub actions IP range,2026-08-12,2026-11-11,yes
+74.161.79.192/28,GitHub git - web IP range,2026-11-11,2026-11-11,yes
 74.178.0.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
 74.178.128.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
 74.179.0.0/17,GitHub actions IP range,2025-05-29,2026-11-11,yes
