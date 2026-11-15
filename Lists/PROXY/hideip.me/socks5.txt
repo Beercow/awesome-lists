@@ -1,227 +1,190 @@
 208.102.51.6:58208:United States
 66.42.224.229:41679:United States
+174.64.199.82:4145:United States
+192.252.211.197:14921:United States
+72.195.34.35:27360:United States
 98.178.72.21:10919:United States
-184.178.172.18:15280:United States
+184.178.172.25:15291:United States
 70.166.167.55:57745:United States
-184.178.172.5:15303:United States
+70.166.167.38:57728:United States
+174.75.211.193:4145:United States
+199.102.104.70:4145:United States
+67.201.33.10:25283:United States
 70.166.65.160:4145:United States
+103.76.149.140:1080:Indonesia
+5.255.117.127:1080:The Netherlands
+152.70.237.238:3128:South Korea
 193.25.215.182:22222:United States
 45.194.33.12:30001:Seychelles
+220.158.232.118:1080:Cambodia
 15.204.235.27:1080:United States
+101.36.104.239:10808:Japan
+101.36.104.46:10808:Japan
 199.66.182.243:4145:United States
-47.245.165.201:1080:Germany
+103.189.218.76:6969:Bangladesh
+5.255.99.75:1080:The Netherlands
+5.255.123.162:1080:The Netherlands
 199.66.182.232:4145:United States
 45.194.33.12:30002:Seychelles
 45.61.188.134:44499:United States
+5.75.133.113:10811:Singapore
+80.72.180.122:1080:Kyrgyzstan
 216.105.128.144:4145:United States
-45.74.31.42:4238:United States
-45.74.31.42:4360:Romania
-49.13.22.249:10802:Australia
-49.13.22.249:10813:Lithuania
-5.75.133.113:10802:Denmark
-45.74.31.47:6543:Switzerland
-5.75.133.113:10805:United States
-49.13.22.249:10805:United States
-45.74.31.42:4193:Romania
+45.74.31.42:25340:United States
+45.74.31.40:4849:United States
+49.13.22.249:10813:Qatar
+49.13.22.249:10814:Romania
+45.74.31.41:8671:Switzerland
+5.75.133.113:10802:Chile
+5.75.133.113:10806:Taiwan
+45.74.31.47:6330:United States
+118.179.93.24:9090:Bangladesh
 209.50.255.91:1080:United States
-45.74.31.42:4391:Romania
+65.21.252.66:10807:Sweden
+65.21.252.66:10805:Germany
 171.25.158.95:1080:Sweden
-45.74.31.42:6714:United States
-45.74.31.47:4378:United States
-45.74.31.42:4195:United States
-45.74.31.40:5671:United States
-45.74.31.40:4821:United States
-45.74.31.40:5831:United States
-45.74.31.40:4978:United States
-45.74.31.47:4252:United States
-45.74.31.47:5147:Romania
-45.74.31.47:5230:United States
-45.74.31.47:4458:United States
-45.74.31.40:4535:United States
-45.74.31.40:5746:United States
-45.74.31.41:4425:Romania
-45.74.31.40:4452:Romania
-45.74.31.41:4248:United States
-45.74.31.47:5282:United States
-45.74.31.41:5093:Romania
-45.74.31.41:5317:Romania
-45.74.31.40:5785:United States
-45.74.31.40:4041:United States
-45.74.31.41:5357:Romania
-45.74.31.41:4325:United States
-45.74.31.47:4215:Romania
-45.74.31.41:4286:United States
-45.74.31.40:4601:United States
-45.74.31.47:4497:United States
-45.74.31.41:4497:United States
-45.74.31.41:4355:United States
-45.74.31.40:5738:United States
-45.74.31.40:5495:United States
-45.74.31.47:5258:India
-45.74.31.40:5796:United States
-45.74.31.40:5751:United States
-45.74.31.41:4546:United States
-45.74.31.40:5809:United States
-45.74.31.47:4235:United States
+45.74.31.47:7003:India
+45.74.31.47:6362:United States
+45.74.31.40:4758:United States
+45.74.31.40:4861:United States
+45.74.31.42:5851:India
+45.74.31.47:6679:United States
+45.74.31.42:4833:Vietnam
+45.74.31.47:6643:United States
+45.74.31.40:8528:Switzerland
 107.174.30.92:1080:United States
-45.74.31.40:5376:Romania
-45.74.31.40:5619:United States
-45.74.31.46:4192:Romania
-45.74.31.47:4817:Switzerland
-45.74.31.46:4257:Romania
-45.74.31.47:7211:United States
-45.74.31.46:4152:Romania
-45.74.31.40:5780:United States
-45.74.31.40:4188:Romania
-45.74.31.40:5214:Romania
+45.74.31.40:4655:United States
+45.74.31.47:6736:United States
+45.74.31.47:5259:United States
 183.106.215.208:1080:South Korea
-45.74.31.40:5649:United States
-45.74.31.42:4261:Romania
-45.74.31.40:5864:United States
-45.74.31.42:4335:Romania
-45.74.31.40:5837:United States
-45.74.31.47:4986:Romania
-45.74.31.40:4447:United States
-45.74.31.40:4517:United States
-45.74.31.46:4104:Romania
-45.74.31.42:4241:United States
-45.74.31.42:4128:United States
-45.74.31.42:4161:Romania
-45.74.31.40:5946:United States
-45.74.31.40:5067:United States
-45.74.31.40:5734:United States
-45.74.31.47:4256:Romania
-45.74.31.40:5031:United States
-45.74.31.41:5298:Romania
-45.74.31.41:5391:Romania
-45.74.31.46:4271:Romania
-45.74.31.40:5445:United States
-45.74.31.41:6906:France
-45.74.31.47:7560:Switzerland
-45.74.31.40:5905:United States
-45.74.31.46:4275:Romania
-45.74.31.47:6822:Switzerland
-45.74.31.41:5201:Romania
-45.74.31.40:5836:United States
-45.74.31.40:5655:United States
-45.74.31.40:5586:United States
-45.74.31.47:5265:United States
-45.74.31.41:4275:United States
-45.74.31.40:5538:United States
-45.74.31.42:4229:United States
-45.74.31.47:4237:Romania
-45.74.31.40:5732:United States
-45.74.31.46:4090:Romania
-45.74.31.41:5370:Romania
-45.74.31.40:5524:Romania
-45.74.31.40:5413:United States
-45.74.31.40:5064:United States
-45.74.31.40:4536:United States
-45.74.31.40:5737:United States
-45.74.31.46:4093:United States
-45.74.31.47:5185:United States
-45.74.31.46:4216:Romania
-45.74.31.40:5645:Romania
-45.74.31.40:5453:Romania
-45.74.31.40:5624:United States
-45.74.31.40:5865:United States
-45.74.31.47:17192:United States
-45.74.31.41:4919:Romania
-45.74.31.47:4391:United States
+45.74.31.47:6157:United States
+45.74.31.42:6255:France
+27.219.186.8:1081:United States
+45.74.31.47:10199:Switzerland
+45.74.31.47:6697:United States
+45.74.31.47:4477:United States
+45.74.31.40:4952:United States
+45.74.31.47:8352:Switzerland
+45.74.31.40:8806:France
+45.74.31.46:4890:United States
+45.74.31.46:4871:United States
+45.74.31.40:6620:United States
+45.74.31.41:8056:Switzerland
+45.74.31.47:12419:United States
+45.74.31.47:6194:United States
+45.74.31.46:5302:India
+45.74.31.47:10702:Switzerland
+45.74.31.47:6623:United States
+45.74.31.47:6119:United States
+45.74.31.47:16354:United States
+45.74.31.41:8258:India
+45.74.31.47:14983:United States
 69.55.49.177:38182:United States
-45.74.31.42:4453:Romania
-45.74.31.42:4227:United States
-45.74.31.40:5433:Romania
-45.74.31.42:4414:Switzerland
-45.74.31.40:4354:United States
-45.74.31.47:6167:Switzerland
-45.74.31.40:5421:Romania
-45.74.31.40:5585:United States
-45.74.31.40:5855:United States
-94.131.230.127:1080:Kazakhstan
-45.74.31.40:5606:United States
-45.74.31.40:5128:France
-45.74.31.41:4577:Romania
-45.74.31.40:4312:United States
+45.74.31.40:6283:United States
+45.74.31.47:6169:United States
+103.182.22.224:9000:Vietnam
+45.74.31.47:4831:United States
+45.74.31.40:6606:United States
+110.93.199.114:1080:Pakistan
+45.74.31.46:4883:United States
+193.218.118.128:1080:United States
+45.74.31.46:13176:United States
+45.74.31.47:6618:United States
+45.74.31.40:6661:United States
 45.74.31.46:35508:Switzerland
-45.74.31.41:5299:Romania
 82.180.146.251:10800:India
-45.74.31.41:4500:United States
-45.74.31.40:4347:Romania
-45.74.31.47:4632:United States
-45.74.31.47:4119:United States
-45.74.31.47:4195:United States
-45.74.31.46:10129:United States
-45.74.31.42:4235:Romania
-45.74.31.42:15451:United States
+45.74.31.40:5770:United States
+45.74.31.41:18720:France
+91.196.33.189:1080:Russia
+45.74.31.40:29174:United States
+8.40.19.147:1080:United States
+185.243.99.65:1080:United States
+45.74.31.40:5040:United States
+45.74.31.46:4812:United States
+45.74.31.46:5022:United States
+45.74.31.40:23313:United States
 188.226.27.24:1080:The Netherlands
-45.74.31.40:5834:United States
-45.74.31.47:4929:Romania
-45.74.31.40:5150:Switzerland
-45.74.31.40:5577:United States
+45.74.31.42:6221:India
+45.74.31.46:14391:United States
+45.74.31.40:16911:United States
+45.74.31.47:7130:India
+45.74.31.47:9387:Switzerland
 180.222.187.50:10800:Japan
-45.74.31.40:5221:United States
-45.74.31.47:17081:United States
-45.74.31.47:7176:Switzerland
-45.74.31.46:4244:Romania
-45.74.31.40:4567:United States
-45.74.31.40:4334:Romania
-45.74.31.40:4723:South Africa
-45.74.31.40:4416:Romania
-45.74.31.40:5959:United States
-45.74.31.40:5976:United States
-45.74.31.40:5739:United States
-45.74.31.47:5325:United States
-45.74.31.40:5982:United States
-45.74.31.40:5457:Romania
-45.74.31.40:5498:Romania
-45.74.31.46:15990:United States
+45.74.31.41:17257:United States
+206.246.26.65:1080:United States
+45.74.31.47:7138:India
+45.74.31.47:8985:Switzerland
+45.74.31.47:7125:India
+45.74.31.47:11933:United States
+45.74.31.46:4732:United States
+45.74.31.40:4771:United States
+45.74.31.40:6853:India
+45.74.31.41:8436:United States
+45.74.31.41:8927:Switzerland
+45.74.31.47:6422:United States
+45.74.31.40:16845:United States
+45.74.31.40:12952:India
+45.74.31.47:21754:France
 45.74.31.47:16255:United States
-45.74.31.46:4276:Romania
-45.74.31.42:4223:United States
-45.74.31.40:5748:United States
-45.74.31.41:5081:Romania
-45.74.31.46:12272:United States
-45.74.31.46:10885:United States
-45.74.31.41:19025:United States
-45.74.31.47:4241:Romania
-45.74.31.47:4296:United States
-45.74.31.47:5019:Romania
-45.74.31.47:4747:United States
-45.74.31.47:5142:United States
+45.74.31.46:15574:United States
+45.74.31.40:8191:France
+185.121.133.174:1080:Germany
+45.74.31.46:30030:United States
+103.182.22.25:9000:Vietnam
+71.78.199.161:1080:United States
+45.74.31.47:6648:United States
+45.74.31.46:6552:India
+45.74.31.47:6380:United States
+45.74.31.47:6720:India
+45.74.31.46:28080:United States
+45.74.31.46:29856:United States
+45.76.66.251:11080:United States
+45.74.31.47:6759:United States
+45.74.31.42:11783:United States
+45.74.31.47:6299:France
+45.74.31.46:5343:India
+45.74.31.47:9960:United States
 107.174.30.93:1080:United States
-45.74.31.47:4512:United States
-45.74.31.47:5237:United States
-45.74.31.47:6160:Switzerland
-45.74.31.47:5152:United States
+116.99.206.177:1080:Vietnam
+45.74.31.47:6342:United States
+45.74.31.47:18089:United States
+45.74.31.46:27592:United States
+45.74.31.47:5820:United States
+45.74.31.40:6457:United States
+45.74.31.47:6319:United States
 147.45.77.92:1080:Sweden
+110.39.129.90:1080:Pakistan
 107.174.30.94:1080:United States
-45.74.31.42:13824:Switzerland
-45.74.31.47:4872:United States
-45.74.31.47:4788:United States
-45.74.31.41:5286:Romania
-45.74.31.40:4930:United States
-45.74.31.47:5270:United States
-45.74.31.41:4290:Romania
-116.101.73.161:1080:Vietnam
-103.13.19.219:10808:Japan
-116.101.73.161:1088:Vietnam
-116.101.73.161:1082:Vietnam
-95.216.8.124:1111:Sweden
-45.74.31.47:4867:Romania
-116.101.73.52:1083:Vietnam
-45.74.31.47:13944:United States
-45.74.31.47:14734:United States
+45.74.31.47:6111:United States
+45.74.31.47:5937:United States
+45.74.31.42:7939:France
+45.74.31.47:7870:France
+45.74.31.40:6598:United States
+45.74.31.40:6641:United States
+45.74.31.47:5671:United States
+45.74.31.47:5544:United States
+45.74.31.47:4623:United States
+45.74.31.47:6164:United States
+45.74.31.47:6129:United States
+116.101.73.161:1081:Vietnam
+45.74.31.41:17602:United States
+116.101.73.52:1088:Vietnam
+9.154.253.201:1080:Indonesia
+45.74.31.47:8691:United States
+45.74.31.41:15897:France
+95.216.8.124:1082:Indonesia
 116.101.73.161:1057:Vietnam
 188.166.178.163:1088:Singapore
+116.202.32.250:1087:Latvia
+45.74.31.40:17743:France
 116.101.73.52:1057:Vietnam
 116.101.73.52:1085:Vietnam
-116.101.73.161:1085:Vietnam
-45.74.31.41:18779:United States
 8.218.197.6:8099:Hong Kong
-45.74.31.41:18276:United States
-45.74.31.46:43055:France
-201.34.153.217:1080:United States
-45.74.31.46:11688:United States
-45.74.31.46:27545:United States
-95.216.8.124:1096:Bulgaria
+45.74.31.40:16922:United States
+1.55.102.13:1080:Vietnam
+91.199.137.149:2000:Switzerland
+45.74.31.40:16059:United States
+88.198.69.51:1083:Thailand
+27.74.14.60:5001:Vietnam
+95.216.45.44:10353:France
+88.198.69.51:1111:United Arab Emirates
