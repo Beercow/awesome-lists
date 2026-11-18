@@ -1,98 +1,123 @@
 208.102.51.6:58208:United States
 69.61.200.104:36181:United States
 66.42.224.229:41679:United States
-174.64.199.82:4145:United States
-192.252.214.20:15864:United States
 98.178.72.21:10919:United States
-142.54.229.249:4145:United States
-212.237.125.216:6969:Iraq
+184.178.172.25:15291:United States
+184.178.172.18:15280:United States
+184.178.172.5:15303:United States
+174.75.211.193:4145:United States
+121.169.46.116:1090:South Korea
 193.25.215.182:22222:United States
 45.194.33.12:30001:Seychelles
 15.204.235.27:1080:United States
 47.245.165.201:1080:Germany
-65.21.252.66:10811:Bosnia and Herzegovina
-5.255.103.55:1080:The Netherlands
-5.255.123.162:1080:The Netherlands
-5.255.113.177:1080:The Netherlands
+102.69.146.59:7080:Nigeria
+65.21.252.66:10811:Singapore
+5.255.117.250:1080:The Netherlands
 45.194.33.12:30002:Seychelles
 45.61.188.134:44499:United States
-27.131.14.9:1088:Bangladesh
+79.134.4.192:1080:Russia
 91.107.179.68:10809:Germany
-49.13.22.249:10802:United States
-49.13.22.249:10806:United States
-49.13.22.249:10803:Portugal
-5.75.133.113:10813:Uruguay
-5.75.133.113:10806:United States
-45.74.31.42:4131:United States
-5.75.133.113:10807:Taiwan
+45.74.31.41:4489:United States
+45.74.31.41:4572:United States
+49.13.22.249:10806:Canada
+49.13.22.249:10803:Canada
+5.75.133.113:10813:Marshall Islands
+5.75.133.113:10802:United States
+45.74.31.42:4564:United States
+209.50.255.91:1080:United States
+5.75.133.113:10807:United States
 171.25.158.95:1080:Sweden
-45.74.31.42:4409:United States
-45.74.31.42:4413:United States
-45.74.31.42:4410:United States
-45.74.31.47:5465:United States
-45.74.31.42:4286:United States
-45.74.31.41:4299:United States
-45.74.31.42:4081:Vietnam
+45.74.31.40:4328:United States
+45.74.31.47:4978:United States
+45.74.31.40:4891:United States
+45.74.31.47:4922:United States
+45.74.31.47:4958:United States
+45.74.31.47:4440:United States
+45.74.31.40:4902:United States
+45.74.31.47:4963:United States
+45.74.31.47:9076:United States
+45.74.31.40:6297:France
+45.74.31.47:4954:United States
+45.74.31.41:4520:United States
+45.74.31.41:4667:United States
+45.74.31.41:4574:United States
+45.74.31.47:4689:United States
 107.174.30.92:1080:United States
-45.74.31.47:4606:United States
-45.74.31.46:4257:United States
-45.74.31.41:4186:United States
+45.74.31.41:4697:United States
+45.74.31.41:4629:United States
+45.74.31.46:4272:United States
+45.74.31.41:4682:United States
+45.74.31.46:4152:United States
+45.74.31.46:4638:France
 8.219.122.8:9999:Singapore
+117.134.203.58:10800:Pakistan
 183.106.215.208:1080:South Korea
-45.74.31.40:4602:United States
-45.74.31.40:4592:United States
-45.74.31.40:4154:France
-45.74.31.42:4370:United States
-45.74.31.40:4652:United States
-45.74.31.42:4357:United States
-45.74.31.41:6542:United States
-110.39.151.50:1080:Pakistan
-45.74.31.42:24936:United States
-45.74.31.46:4368:United States
-45.74.31.41:9477:United States
+45.74.31.41:4456:United States
+45.74.31.41:4620:United States
+45.74.31.47:4266:India
+45.74.31.42:4161:United States
+45.74.31.40:4800:United States
+45.74.31.41:4617:United States
+45.74.31.41:4623:United States
+45.74.31.46:4517:United States
+45.74.31.46:4614:United States
+45.74.31.46:4568:United States
+45.74.31.46:4612:United States
+45.74.31.41:4618:United States
+45.74.31.46:4394:United States
+45.74.31.41:4540:United States
+45.74.31.41:4563:United States
+45.74.31.40:4537:United States
+45.74.31.46:4661:United States
+45.74.31.46:4363:United States
+45.74.31.47:4391:United States
+45.74.31.42:4607:India
 69.55.49.177:38182:United States
-45.74.31.41:19910:United States
+45.74.31.41:4701:United States
+45.74.31.42:4787:United States
 193.218.118.128:1080:United States
-176.65.132.138:1080:The Netherlands
+103.231.45.189:1080:India
+45.74.31.47:4369:United States
 82.180.146.251:10800:India
-45.74.31.42:35231:United States
-45.74.31.47:5451:United States
-45.74.31.46:4026:United States
-167.99.3.26:6060:United States
-188.226.27.24:1080:The Netherlands
-45.74.31.47:4419:United States
-45.74.31.46:4364:United States
-45.74.31.40:5835:United States
-45.74.31.41:7130:India
-45.74.31.47:5016:United States
+45.74.31.41:4517:United States
+45.74.31.40:4515:France
+45.74.31.46:4508:United States
+45.74.31.42:4108:United States
+45.74.31.47:4541:United States
+45.74.31.46:4719:United States
+45.74.31.46:17542:United States
 107.174.30.93:1080:United States
-45.74.31.40:9227:United States
-110.39.129.90:1080:Pakistan
+45.74.31.47:4708:United States
+45.74.31.41:4772:United States
 107.174.30.94:1080:United States
-45.74.31.40:11057:United States
-45.74.31.47:4608:United States
-103.13.19.219:10808:Japan
-116.101.73.52:1080:Vietnam
-45.74.31.41:17090:United States
+45.74.31.41:4749:United States
+45.74.31.41:4669:United States
+45.74.31.47:4856:United States
+45.74.31.41:4679:United States
+45.74.31.47:4273:China
+46.174.121.3:8090:Ukraine
 188.166.178.163:1088:Singapore
 8.218.197.6:8099:Hong Kong
-95.216.45.44:10000:United Arab Emirates
-79.98.32.107:1080:Türkiye
 46.246.12.31:1080:Sweden
 147.45.79.130:1080:Sweden
-45.74.31.46:4945:United States
-45.74.31.40:9303:United States
-45.74.31.47:4924:United States
-45.74.31.41:6638:United States
-45.74.31.40:6203:United States
-45.74.31.41:7195:India
-45.74.31.41:6649:United States
-45.74.31.47:5292:United States
-45.199.116.207:1080:Hong Kong
+95.216.8.124:1086:Spain
+45.74.31.42:4717:United States
+45.74.31.42:4715:United States
+45.74.31.46:4514:United States
+45.74.31.46:4737:United States
+95.216.45.44:10230:France
+95.216.45.44:10762:France
 92.5.68.29:1080:Germany
-91.199.137.149:2010:Italy
-65.21.19.137:10906:France
-65.21.19.137:10805:France
-95.216.45.44:10971:Israel
-65.21.19.137:10807:France
-65.21.19.137:10000:France
+95.216.45.44:10165:France
+65.21.19.137:10807:Argentina
+65.21.19.137:10000:Brazil
+116.101.73.52:1062:Vietnam
+45.74.31.41:4482:United States
+27.112.79.97:1080:Indonesia
+8.218.48.35:8099:Hong Kong
+116.101.73.52:1032:Vietnam
+103.126.173.159:1080:Indonesia
+167.99.3.26:8105:United States
+45.74.31.41:17311:The Netherlands
+65.21.19.137:10919:Brazil
