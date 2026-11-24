@@ -1,138 +1,137 @@
 208.102.51.6:58208:United States
 69.61.200.104:36181:United States
 66.42.224.229:41679:United States
-174.64.199.82:4145:United States
-72.195.34.42:4145:United States
 192.111.137.34:18765:United States
-192.252.211.197:14921:United States
+192.252.214.20:15864:United States
 72.195.34.35:27360:United States
+98.178.72.21:10919:United States
 184.178.172.25:15291:United States
 184.178.172.18:15280:United States
 70.166.167.55:57745:United States
 184.178.172.5:15303:United States
 70.166.167.38:57728:United States
 174.75.211.193:4145:United States
-103.163.244.106:1080:India
-212.237.125.216:6969:Iraq
-128.199.37.92:1080:The Netherlands
+67.201.33.10:25283:United States
 67.210.146.50:11080:United States
-103.119.60.219:1080:Indonesia
+70.166.65.160:4145:United States
+121.169.46.116:1090:South Korea
 193.25.215.182:22222:United States
 45.194.33.12:30001:Seychelles
-220.158.232.118:1080:Cambodia
-38.49.210.79:40000:Canada
 15.204.235.27:1080:United States
-158.220.101.43:1080:France
-102.0.14.42:1080:Kenya
 101.36.104.239:10808:Japan
 123.58.219.171:10808:Hong Kong
 101.36.104.46:10808:Japan
-192.252.215.2:4145:United States
 47.245.165.201:1080:Germany
-165.154.20.187:10808:Hong Kong
-202.43.165.140:10802:Indonesia
-65.21.252.66:10811:Germany
-5.255.123.162:1080:The Netherlands
-5.255.113.177:1080:The Netherlands
-103.176.187.228:9090:India
+203.189.155.68:1080:Cambodia
+203.189.135.73:1080:Cambodia
+217.12.209.4:1080:The Netherlands
+65.21.252.66:10808:United States
+5.255.99.75:1080:The Netherlands
+5.255.103.55:1080:The Netherlands
+47.252.47.39:1080:United States
+138.199.25.13:3909:Singapore
 45.194.33.12:30002:Seychelles
-49.13.22.249:10811:Mexico
 45.61.188.134:44499:United States
-5.75.133.113:10811:Indonesia
-27.131.14.9:1088:Bangladesh
-118.70.151.55:1080:Vietnam
-80.72.180.122:1080:Kyrgyzstan
-103.189.63.149:53053:Indonesia
+103.236.190.197:1080:Indonesia
 203.76.123.6:1080:Bangladesh
-45.74.31.42:4181:Vietnam
+45.74.31.41:4270:Vietnam
+45.74.31.42:4284:Vietnam
+141.148.8.171:1080:United States
 176.9.107.170:1081:North Macedonia
-103.191.218.119:69:Indonesia
-49.13.22.249:10802:France
-49.13.22.249:10813:Sweden
-5.75.133.113:10803:Serbia
-65.21.252.66:10802:United States
-5.75.133.113:10802:Canada
-5.75.133.113:10805:United States
-118.179.93.24:9090:Bangladesh
-209.50.255.91:1080:United States
-45.74.31.42:4259:United States
-65.21.252.66:10807:United States
-65.21.252.66:10805:United States
-5.75.133.113:10807:United States
+49.13.22.249:10813:Australia
+49.13.22.249:10803:Czechia
+65.21.252.66:10802:Hong Kong
+5.75.133.113:10802:Ireland
+5.75.133.113:10805:Poland
 171.25.158.95:1080:Sweden
-49.13.22.249:10807:Malaysia
+217.171.85.178:1080:Congo (DRC)
+49.13.22.249:10807:United States
 103.18.78.156:1080:Indonesia
-45.74.31.42:4084:Vietnam
-27.54.121.90:1080:Pakistan
 43.230.192.242:1080:Cambodia
-45.74.31.47:4035:Vietnam
-45.74.31.47:4260:Colombia
+156.225.31.18:7890:Seychelles
+45.74.31.47:4110:Vietnam
+45.74.31.42:4062:Vietnam
+45.74.31.41:5369:United States
+45.74.31.47:9076:United States
+45.74.31.47:4508:Colombia
+45.74.31.40:4164:Vietnam
+45.74.31.40:4090:Vietnam
+45.74.31.47:7109:United States
 107.174.30.92:1080:United States
-45.74.31.46:4107:United States
-45.74.31.46:4313:Colombia
-217.171.94.166:1081:Congo (DRC)
-45.74.31.46:4124:Colombia
-87.255.30.130:1080:Russia
+45.74.31.46:4282:Vietnam
+45.74.31.40:4069:Vietnam
+45.74.31.47:4135:Colombia
+45.74.31.40:5214:United States
 8.219.122.8:9999:Singapore
-175.107.30.110:1080:Pakistan
 183.106.215.208:1080:South Korea
-45.74.31.47:4172:Vietnam
-45.74.31.46:4106:United States
-45.74.31.41:4087:United States
-110.39.13.162:1080:Pakistan
-118.179.27.153:1080:Bangladesh
-45.74.31.46:4082:United States
-45.74.31.42:4172:United States
-45.74.31.41:4113:United States
-45.74.31.46:4123:United States
-89.175.193.86:1080:Russia
-45.74.31.47:4150:United States
+159.196.163.64:80:Australia
+45.74.31.42:4261:Vietnam
+163.47.37.190:1080:Bangladesh
+45.74.31.40:4162:Vietnam
+45.74.31.42:4139:Vietnam
+45.74.31.47:4516:Colombia
+175.107.30.126:1080:Pakistan
+45.74.31.42:15667:France
+45.74.31.46:4039:Vietnam
+45.74.31.46:4294:Vietnam
+45.74.31.47:10261:United States
+45.74.31.47:10223:United States
+45.74.31.47:4509:Colombia
 69.55.49.177:38182:United States
-46.232.249.209:40001:Germany
-2.50.191.129:10800:United Arab Emirates
-110.93.199.114:1080:Pakistan
 193.218.118.128:1080:United States
 103.96.233.10:1080:Afghanistan
-82.180.146.251:10800:India
-94.183.206.215:1080:The Netherlands
-45.74.31.47:4101:Colombia
-188.226.27.24:1080:The Netherlands
-204.8.189.118:1080:United States
-45.74.31.41:4022:Vietnam
-203.189.153.170:1080:Cambodia
-45.74.31.47:4491:United States
-45.74.31.47:4467:United States
-103.146.17.148:1080:Bangladesh
-107.174.30.93:1080:United States
+129.222.108.201:1080:Madagascar
+45.74.31.40:4011:United States
+45.74.31.46:4267:Vietnam
+45.74.31.41:21586:Indonesia
+45.74.31.40:4100:United States
+45.74.31.41:4288:Vietnam
+45.74.31.47:4199:Vietnam
+45.74.31.46:4101:Vietnam
+45.74.31.40:18042:France
+36.93.226.203:1080:Indonesia
+45.74.31.47:10114:United States
+45.74.31.47:4240:Colombia
+45.74.31.47:10151:United States
 107.174.30.94:1080:United States
+45.74.31.41:4290:Vietnam
 47.251.166.203:1080:United States
 103.119.1.160:5555:China
 103.13.19.219:10808:Japan
-45.74.31.47:15821:Vietnam
-46.37.59.97:1080:United Kingdom
-150.228.188.60:1080:Philippines
-91.144.9.132:1080:Syria
 59.11.209.162:1080:South Korea
-79.98.32.107:1080:Türkiye
-46.246.12.31:1080:Sweden
-43.155.128.61:1080:South Korea
-102.211.132.75:1080:South Africa
+109.169.5.83:1080:United Kingdom
+78.80.149.106:1080:Czechia
+95.216.8.124:1086:Canada
+43.252.238.252:69:Indonesia
+223.25.109.163:8199:Indonesia
+45.74.31.42:22848:Colombia
+45.74.31.47:10153:United States
+45.74.31.42:27733:Colombia
 8.218.48.35:8099:Hong Kong
 103.124.172.134:1080:India
-118.68.15.86:1080:Vietnam
+47.251.249.48:7777:United States
 188.132.249.166:1080:Türkiye
-92.5.95.105:1080:Germany
-45.198.11.115:1082:Indonesia
-79.98.32.17:1080:Türkiye
+216.9.225.61:1080:United States
+70.38.101.182:40000:Canada
 216.234.216.76:1080:Malawi
+45.74.31.47:20296:France
 8.218.41.24:8099:Hong Kong
+45.74.31.40:40528:Colombia
 47.76.227.81:6002:Hong Kong
-78.142.217.197:1080:United States
 45.13.38.213:1080:Romania
-107.181.112.136:8444:United States
-45.74.31.40:40530:Colombia
-27.112.79.97:1080:Indonesia
-107.149.141.54:5001:United States
-218.52.200.62:1080:Japan
-45.150.33.190:7276:Spain
-185.247.141.86:1080:Finland
+43.155.143.227:1080:South Korea
+23.94.181.74:8888:United States
+176.9.107.170:1083:Austria
+194.180.158.62:1080:United Kingdom
+45.74.31.41:15282:Vietnam
+45.74.31.42:22407:Indonesia
+45.74.31.42:13657:Vietnam
+45.74.31.47:16370:Vietnam
+45.74.31.47:4105:United States
+45.74.31.47:4327:Vietnam
+45.74.31.46:4311:Vietnam
+45.74.31.47:4307:Vietnam
+45.74.31.40:4174:Vietnam
+45.74.31.40:4176:Vietnam
+45.74.31.41:4013:United States
+45.74.31.42:47115:United States
